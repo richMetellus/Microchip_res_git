@@ -1,0 +1,27 @@
+$(document).ready(function () {
+    const $tableTitle = $(".dcfbuyfromstore_title .mchp-title__text")
+    $( ".silicondevicesbuttonlarge .mchp-button-large" ).on( "click", "a", function() {
+  		if($(this)[0].id === 'buttonSample') {
+        	$tableTitle[0].innerHTML = "Sampling Options";
+        }
+    	else {
+	    	$tableTitle[0].innerHTML = "Purchase from Microchip";
+	    }
+	});
+
+    $tableTitle[0].innerHTML = "Purchase from Microchip";
+
+    setupMDURLs();
+});
+
+//setting up mD environment to be chosen to avoid CORS/integration issues
+function setupMDURLs() {
+
+    const mdUrl = $('.mchp-direct-url-base')[0].innerHTML;
+    if(mDBaseURL !==  undefined) {
+        mDBaseURL = mdUrl;
+    }
+    if(microchipDIRECT !==  undefined) {
+        microchipDIRECT.URL = mdUrl;
+    }
+}

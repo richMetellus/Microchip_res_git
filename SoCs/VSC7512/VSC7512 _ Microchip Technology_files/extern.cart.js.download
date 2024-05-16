@@ -1,0 +1,180 @@
+﻿/** 
+  * @desc This javascript file can be used by external sites to bring in addtocart functionality
+  * Use this as an external script
+  * @author I15230
+  * @required -- register the external domain with mirochipDIRECT to enable CORS
+*/
+(function (microchipDIRECT, $, undefined) {
+
+    //public properties
+    microchipDIRECT.URL = "https://www.microchipdirect.com"; //this can be overwritten by the calling application
+    var profileCookieValue = "";
+    var productFamily = "";
+
+    microchipDIRECT.addToCart =
+        function (productID, quantity) {
+            resetProtocol();
+            //cookieRedirect(true);
+            dataObj = { 'cpn': productID, 'quantity': Number(quantity) };
+            var responseJSON = [];
+            $.ajax({
+                url: microchipDIRECT.URL + "/cart/AddToCart",
+                data: dataObj,
+                type: "POST",
+                cache: false,
+                crossDomain: true,
+                xhrFields: { withCredentials: true },
+                success: function (responsedata) {
+                    responseJSON = JSON.parse(responsedata);
+                    microchipDIRECT.handleAddToCart(responseJSON);
+                    ecommerceBehaviorTrackingAdobe(responseJSON);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    console.log(thrownError);
+                }
+            });
+        }
+
+    microchipDIRECT.handleAddToCart = function (data) {
+        //empty , handle this from client
+    }
+
+    microchipDIRECT.getProductInfo =
+        function (deviceFamilyName) {
+            resetProtocol();
+            //cookieRedirect(false);
+            productFamily = deviceFamilyName; /*
+            $.ajax({
+                url: microchipDIRECT.URL + "/api/product/ProductInfo?deviceFamily=" + deviceFamilyName,
+                type: "GET",
+                cache: true,
+                crossDomain: true,
+                xhrFields: { withCredentials: true },
+                success: function (responsedata) {
+                    microchipDIRECT.handleProductInfo(responsedata);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    console.log(thrownError);
+                }
+            }); */
+        }
+
+    microchipDIRECT.handleProductInfo = function (data) {
+        //empty , handle this from client
+    }
+
+    microchipDIRECT.getCartItemCount =
+        function () {
+            resetProtocol();
+            if ($("#basket").length > 0 && $("#spanProductCount").length > 0) {
+                $.ajax({
+                    url: microchipDIRECT.URL + "/api/Cart/Mini",
+                    type: "GET",
+                    cache: false,
+                    crossDomain: true,
+                    xhrFields: { withCredentials: true },
+                    success: function (responsedata) {
+                        microchipDIRECT.handleCartItemCount(responsedata);
+                    },
+                    error: function (xhr, ajaxOptions, thrownError) {
+                        console.log(thrownError);
+                    }
+                });
+            }
+        }
+
+    microchipDIRECT.handleCartItemCount = function (data) {
+        //empty , handle this from client
+        if ($("#basket").length > 0 && $("#spanProductCount").length > 0) {
+            $("#spanProductCount").text(data);
+        }
+    }
+
+    microchipDIRECT.resetLanguage = function (language) {
+        resetProtocol();
+        if (typeof language !== 'undefined' && language) {
+            $.ajax({
+                url: microchipDIRECT.URL + "/cart/SetLanguage?language=" + language,
+                type: "GET",
+                cache: false,
+                crossDomain: true,
+                async: false,
+                xhrFields: { withCredentials: true },
+                success: function (responsedata) {
+                    console.log("Language set to " + language);
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    console.log(thrownError);
+                }
+            });
+        };
+    }
+
+    function ecommerceBehaviorTrackingAdobe(cartObj) {
+        if (window.adobeDataLayer === undefined || window.adobeDataLayer === null || !Object.keys(window.adobeDataLayer).length || !cartObj) {
+            return
+        } else {
+            window.adobeDataLayer.push({
+                "event": "cartAdd",
+                "cartData": { 
+                "isNewCart": cartObj.isNewCart ? "Y" : "N",
+                "productCategory": cartObj.productCategory,
+                "productLine": cartObj.productLine,
+                "productFamily": cartObj.productFamily,
+                "productWPN": cartObj.productWPN,
+                "partCPN": cartObj.CPN,
+                "productBusinessUnit": cartObj.productBusinessUnit,
+                "productAvailability": cartObj.productAvailability || cartObj.productAvailability === 0 ? cartObj.productAvailability.toString() : "Not Available",
+                "productQuantity": cartObj.Quantity,
+                "productPrice": cartObj.PerUnitPricingValue || cartObj.PerUnitPricingValue === 0 ? cartObj.PerUnitPricingValue.toString() : "Not Available"
+                } 
+            });
+        }
+    }
+
+    function resetProtocol() {
+        microchipDIRECT.URL = location.protocol + "//" + microchipDIRECT.URL.replace(/(^\w+:|^)\/\//, "");
+    }
+
+    function cookieRedirect(redirect) {
+        $.ajax({
+            url: microchipDIRECT.URL + "/cart/IsBasketCookieAvailable",
+            type: "GET",
+            cache: false,
+            crossDomain: true,
+            async: false,
+            xhrFields: { withCredentials: true },
+            success: function (responsedata) {
+                if (profileCookieValue.length === 0 && responsedata !== undefined && responsedata !== null) {
+                    profileCookieValue = responsedata.Name;
+                }
+                if (responsedata !== undefined &&
+                    responsedata !== null &&
+                    profileCookieValue !== responsedata.Name &&
+                    redirect) {
+                    if (productFamily.length > 0)
+                        window.open(microchipDIRECT.URL + "/product/" + productFamily, "_blank");
+                    else
+                        window.open(microchipDIRECT.URL + "/basket.aspx", "_blank");
+                }
+            },
+            error: function (xhr, ajaxOptions, thrownError) {
+                console.log(thrownError);
+            }
+        });
+    }
+
+}(window.microchipDIRECT = window.microchipDIRECT || {}, jQuery));
+
+/*
+$(document).ready(function() {
+    if ($("#basket").length > 0) {
+        $(window).load(function() {
+            $("#basket").html('<a style="color:black" href="' +
+                microchipDIRECT.URL +
+                '/basket.aspx" target="_blank">View Cart (<span id="spanProductCount">0</span>)<img src="/_images/Cart.png" style="vertical-align:middle">');
+            microchipDIRECT.getCartItemCount();
+        });
+    }
+});
+*/

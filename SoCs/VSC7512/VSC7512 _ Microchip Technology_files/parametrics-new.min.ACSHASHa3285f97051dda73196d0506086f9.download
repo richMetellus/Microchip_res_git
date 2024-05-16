@@ -1,0 +1,74 @@
+$(document).ready(function() {
+    const parametricsDiv = "#parametricsDiv";
+    const environmentURL = $(location).attr('origin');
+    const parametricTable = "#parametricTable";
+
+    const parametricProperties = '#parametrics-properties';
+    const showEmptyParametrics = $(parametricProperties).data('show-empty');
+    const showZeroParametrics = $(parametricProperties).data('show-zero');
+    const deviceName = $(parametricProperties).data('device-family');
+
+
+    var getEnvironment = (envURL) => {
+        if (envURL.includes("stage")) {
+            return 'https://stageapps.microchip.com'
+        } else if (envURL.includes("aem.microchip.com")) {
+            return 'https://test.microchip.com'
+        } else if (envURL.includes("prod") || envURL.toLowerCase().includes("microchip.com")) {
+            return 'https://www.microchip.com'
+        } else {
+            return 'https://test.microchip.com'
+        }
+    }
+
+    var populateParametricsData = (parametricsData) => {
+        if(undefined !== parametricsData && null !== parametricsData) {
+            var parametricsTableData = "<tbody class='striped-bg'>";
+            for(var key in parametricsData) {
+                if((parametricsData[key] !== '0' && parametricsData[key] !== '' ) ||
+                (parametricsData[key] === '0' && showZeroParametrics) || (parametricsData[key] === '' && showEmptyParametrics)) {
+                    parametricsTableData += "<tr> <td>" + key + "</td> <td>" + parametricsData[key] + "</td> </tr>";
+                }
+            }
+            parametricsTableData += "</tbody>";
+            $(parametricTable).append(parametricsTableData);
+        }
+        else {
+            $(parametricTable).empty();
+            $(parametricTable).append("No parametrics data available for the device.")
+        }
+    }
+
+    var fetchParamTable = () => {
+        var apiDomain = getEnvironment(environmentURL);
+        $(parametricTable).empty();
+        return new Promise((resolve, reject) => {
+            $.ajax({
+                url: apiDomain + '/chartAPIPreviewExternal/api/Chart/GetSimilarDevicesAndParametrics?deviceName=' +
+                    deviceName,
+                type: 'GET',
+                contentType: 'application/json; charset=utf-8',
+                success: function(data) {
+                    var parametricsData = data.parametrics;
+                    populateParametricsData(parametricsData);
+                    setTimeout(function() {
+                        //After you load data
+                        document.querySelector('#loaderPD').className += ' ' + 'hide';
+                        document.querySelector('#loadingPD').className += ' ' + 'hide';
+                    }, 1000);
+                },
+                error: function(error) {
+                    $(parametricTable).empty();
+                    $(parametricTable).append("Unable to get API response for parametrics. <br> Please retry after sometime and contact support team if issue persists! ")
+                    console.log("Unable to get API response.", error);
+                    document.querySelector('#loaderPD').className += ' ' + 'hide';
+                    document.querySelector('#loadingPD').className += ' ' + 'hide';
+                },
+            })
+        });
+    }
+
+    if ($(parametricsDiv) && $(parametricsDiv).length > 0) {
+            fetchParamTable();
+        }
+});

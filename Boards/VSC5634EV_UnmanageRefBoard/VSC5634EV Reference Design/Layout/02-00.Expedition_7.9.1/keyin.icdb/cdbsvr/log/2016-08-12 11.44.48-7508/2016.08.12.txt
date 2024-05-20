@@ -1,0 +1,145 @@
+[2016.08.12 11:44:48] [0000m.00s.043ms] [0] WELCOME
+[2016.08.12 11:44:48] [0000m.00s.055ms] [1] iCDB Server ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2016.08.12 11:44:48] [0000m.00s.055ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2016.08.12 11:44:48] [0000m.00s.055ms] [1] Base flow version [7.9.1]
+[2016.08.12 11:44:48] [0000m.00s.055ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2016.08.12 11:44:48] [0000m.00s.055ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2016.08.12 11:44:48] [0000m.00s.061ms] [1] Machine [HERENT0076]  User [mag]  PID [7508]
+[2016.08.12 11:44:48] [0000m.00s.061ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.08.12 11:44:48] [0000m.00s.061ms] [1] Current working dir [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\PCB]
+[2016.08.12 11:44:48] [0000m.00s.063ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2016.08.12 11:44:48] [0000m.00s.063ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2016.08.12 11:44:48] [0000m.00s.063ms] [1] SDD_PLATFORM [win32]
+[2016.08.12 11:44:48] [0000m.00s.063ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2016.08.12 11:44:48] [0000m.00s.064ms] [2] S: Loading config files
+[2016.08.12 11:44:48] [0000m.00s.065ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.08.12 11:44:48] [0000m.00s.067ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.08.12 11:44:48] [0000m.00s.069ms] [1] Config file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\cdbsvr\Server.cfg] not found
+[2016.08.12 11:44:48] [0000m.00s.076ms] [3] S: Config loaded
+[2016.08.12 11:44:48] [0000m.00s.153ms] [0] S: Project path [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.08.12 11:44:48] [0000m.00s.155ms] [0] S: Project global path [\\rumba.dk.vitesse.com\hardware\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.08.12 11:44:48] [0000m.00s.161ms] [0] S: Single-user mode (auto)
+[2016.08.12 11:44:48] [0000m.00s.161ms] [0] S: Event polling mode autodetection
+[2016.08.12 11:44:48] [0000m.00s.164ms] [0] S: Started up automatically by iCDB Client: HERENT0076:mag:10576
+[2016.08.12 11:44:48] [0000m.00s.164ms] [0] S: Auto close mode
+[2016.08.12 11:44:48] [0000m.00s.164ms] [0] S: Database ID [e78b-ea4d-19a1-cabc-a919-ca7f-919c-a750-4e30-fb49-37d1-20ee]
+[2016.08.12 11:44:48] [0000m.00s.164ms] [0] S: START
+[2016.08.12 11:44:48] [0000m.00s.169ms] [0] S: Server startup lock file created
+[2016.08.12 11:44:48] [0000m.00s.175ms] [0] S: Listening for client connections on port [10002]
+[2016.08.12 11:44:48] [0000m.00s.176ms] [0] S: Server network ID [HERENT0076:10.10.130.97,192.168.254.1,192.168.255.1,HERENT0076,HERENT0076.microsemi.net:10002]
+[2016.08.12 11:44:48] [0000m.00s.176ms] [0] S: Server GUID [00e4-9012-0b65-2d91-09a9-da75-9a9d-a750-0660-fb49-37d1-20ee]
+[2016.08.12 11:44:48] [0000m.00s.202ms] [0] S: Project GUID [e78b-ea4d-19a1-cabc-a919-ca7f-919c-a750-4e30-fb49-37d1-20ee]
+[2016.08.12 11:44:48] [0000m.00s.218ms] [0] S: Wrote data to server address file
+[2016.08.12 11:44:48] [0000m.00s.222ms] [0] S: Server startup lock file removed
+[2016.08.12 11:44:48] [0000m.00s.269ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.08.12 11:44:48] [0000m.00s.270ms] [0] S: Local disc access time: 47 us
+[2016.08.12 11:44:48] [0000m.00s.270ms] [0] S: File server access time: 1473 us
+[2016.08.12 11:44:48] [0000m.00s.270ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2016.08.12 11:44:48] [0000m.00s.276ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] size [147768]
+[2016.08.12 11:44:48] [0000m.00s.278ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.08.12 11:44:48] [0000m.00s.281ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.08.12 11:44:48] [0000m.00s.292ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] closed with size [147768]
+[2016.08.12 11:44:48] [0000m.00s.300ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] size [147768]
+[2016.08.12 11:44:48] [0000m.00s.302ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.08.12 11:44:48] [0000m.00s.305ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.08.12 11:44:48] [0000m.00s.305ms] [0] SingleFile: [cfd4-a116-f110-92fb] SFI version check [1008] [1008]
+[2016.08.12 11:44:48] [0000m.00s.308ms] [0] iCDB Server PI: Server & plugin session [2740]
+[2016.08.12 11:44:48] [0000m.00s.308ms] [0] iCDB Server PI: Opening database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb]
+[2016.08.12 11:44:48] [0000m.00s.308ms] [0] iCDB Server PI: Database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb] opened
+[2016.08.12 11:44:48] [0000m.00s.319ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.08.12 11:44:48] [0000m.00s.319ms] [0] iCDB Database: Checking constraint definitions version
+[2016.08.12 11:44:48] [0000m.00s.346ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6;user.cns=c90c-abdf-b493-99ef-aebf-1f3f-ebf1-f350-cc9f-edab-2563-3352] up to date
+[2016.08.12 11:44:48] [0000m.00s.347ms] [0] iCDB Server PI: Initializing plugins
+[2016.08.12 11:44:48] [0000m.00s.353ms] [0] iCDB Server PI: Plugins initialized
+[2016.08.12 11:44:48] [0000m.00s.353ms] [0] S: iCDB database loaded
+[2016.08.12 11:44:48] [0000m.00s.354ms] [0] S: Starting threads
+[2016.08.12 11:44:48] [0000m.00s.354ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.08.12 11:44:48] [0000m.00s.355ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.08.12 11:44:48] [0000m.00s.355ms] [0] IT: Session [2741] for host [HERENT0076] user [mag] with process ID [10576] created
+[2016.08.12 11:44:48] [0000m.00s.356ms] [1] SC[2741]: Registered sub-client [Expedition PCB_1082807042] with ID [1] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:44:48] [0000m.00s.360ms] [0] IT: iCDB Server Monitor session [1] for host [HERENT0076] user [mag] with process ID [4328] created
+[2016.08.12 11:44:48] [0000m.00s.360ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2016.08.12 11:44:48] [0000m.00s.455ms] [1] CMT: There are [1] clients now
+[2016.08.12 11:45:07] [0000m.19s.425ms] [0] DFAMT: File server access time: 2651 us
+[2016.08.12 11:52:03] [0007m.15s.079ms] [1] SC[2741]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:08] [0007m.20s.271ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083247480] with ID [3] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:08] [0007m.20s.508ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083247714] with ID [4] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:08] [0007m.20s.764ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083247480] with ID [3] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:08] [0007m.20s.773ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083247714] with ID [4] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:10] [0007m.22s.123ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083249336] with ID [5] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:10] [0007m.22s.146ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083249336] with ID [5] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:10] [0007m.22s.338ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083249554] with ID [6] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:10] [0007m.22s.387ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083249554] with ID [6] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:10] [0007m.22s.955ms] [0] IT: Session [2742] for host [HERENT0076] user [mag] with process ID [9860] created
+[2016.08.12 11:52:10] [0007m.22s.956ms] [1] SC[2742]: Registered sub-client [JobPrefsDBPI_1083250085] with ID [1] for session ID [2742] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:10] [0007m.22s.980ms] [1] CMT: There are [2] clients now
+[2016.08.12 11:52:11] [0007m.23s.064ms] [1] SC[2742]: Registered sub-client [JobPrefsDBPI_1083250272] with ID [2] for session ID [2742] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:11] [0007m.23s.102ms] [1] SC[2742]: UnRegistered sub-client [JobPrefsDBPI_1083250085] with ID [1] for session ID [2742] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:11] [0007m.23s.108ms] [1] SC[2742]: UnRegistered sub-client [JobPrefsDBPI_1083250272] with ID [2] for session ID [2742] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:11] [0007m.23s.180ms] [1] CMT: Removed client [2742]
+[2016.08.12 11:52:11] [0007m.23s.180ms] [1] CMT: There are [1] clients now
+[2016.08.12 11:52:11] [0007m.23s.639ms] [0] IT: Session [2743] for host [HERENT0076] user [mag] with process ID [9860] created
+[2016.08.12 11:52:11] [0007m.23s.640ms] [1] SC[2743]: Registered sub-client [JobPrefsDBPI_1083250771] with ID [1] for session ID [2743] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:11] [0007m.23s.680ms] [1] CMT: There are [2] clients now
+[2016.08.12 11:52:11] [0007m.23s.864ms] [1] SC[2743]: Registered sub-client [JobPrefsDBPI_1083251083] with ID [2] for session ID [2743] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:15] [0007m.27s.257ms] [1] SC[2743]: UnRegistered sub-client [JobPrefsDBPI_1083251083] with ID [2] for session ID [2743] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:15] [0007m.27s.263ms] [1] SC[2743]: UnRegistered sub-client [JobPrefsDBPI_1083250771] with ID [1] for session ID [2743] host [HERENT0076] user [mag] process ID [9860]
+[2016.08.12 11:52:15] [0007m.27s.280ms] [1] CMT: Removed client [2743]
+[2016.08.12 11:52:15] [0007m.27s.280ms] [1] CMT: There are [1] clients now
+[2016.08.12 11:52:19] [0007m.31s.487ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083258696] with ID [7] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:25] [0007m.37s.218ms] [0] IT: Session [2744] for host [HERENT0076] user [mag] with process ID [10980] created
+[2016.08.12 11:52:25] [0007m.37s.219ms] [1] SC[2744]: Registered sub-client [JobPrefsDBPI_1083264359] with ID [1] for session ID [2744] host [HERENT0076] user [mag] process ID [10980]
+[2016.08.12 11:52:25] [0007m.37s.281ms] [1] CMT: There are [2] clients now
+[2016.08.12 11:52:25] [0007m.37s.328ms] [1] SC[2744]: UnRegistered sub-client [JobPrefsDBPI_1083264359] with ID [1] for session ID [2744] host [HERENT0076] user [mag] process ID [10980]
+[2016.08.12 11:52:25] [0007m.37s.381ms] [1] CMT: Removed client [2744]
+[2016.08.12 11:52:25] [0007m.37s.381ms] [1] CMT: There are [1] clients now
+[2016.08.12 11:52:28] [0007m.40s.433ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083267651] with ID [8] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:28] [0007m.40s.490ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083267651] with ID [8] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:28] [0007m.40s.541ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083258696] with ID [7] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.291ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083272502] with ID [9] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.315ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083272502] with ID [9] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.537ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083272752] with ID [10] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.594ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083272752] with ID [10] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.630ms] [1] SC[2741]: Registered sub-client [JobPrefsDBPI_1083272845] with ID [11] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:33] [0007m.45s.673ms] [1] SC[2741]: UnRegistered sub-client [JobPrefsDBPI_1083272845] with ID [11] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 11:52:37] [0007m.49s.458ms] [0] IT: Session [2745] for host [HERENT0076] user [mag] with process ID [9396] created
+[2016.08.12 11:52:37] [0007m.49s.458ms] [1] SC[2745]: Registered sub-client [JobPrefsDBPI_1083276589] with ID [1] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:37] [0007m.49s.481ms] [1] CMT: There are [2] clients now
+[2016.08.12 11:52:37] [0007m.49s.561ms] [1] SC[2745]: Registered sub-client [JobPrefsDBPI_1083276777] with ID [2] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:37] [0007m.49s.574ms] [1] SC[2745]: UnRegistered sub-client [JobPrefsDBPI_1083276777] with ID [2] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:37] [0007m.49s.612ms] [1] SC[2745]: Registered sub-client [JobPrefsDBPI_1083276823] with ID [3] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:54] [0008m.06s.425ms] [1] SC[2745]: UnRegistered sub-client [JobPrefsDBPI_1083276823] with ID [3] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:54] [0008m.06s.461ms] [1] SC[2745]: UnRegistered sub-client [JobPrefsDBPI_1083276589] with ID [1] for session ID [2745] host [HERENT0076] user [mag] process ID [9396]
+[2016.08.12 11:52:54] [0008m.06s.482ms] [1] CMT: Removed client [2745]
+[2016.08.12 11:52:54] [0008m.06s.482ms] [1] CMT: There are [1] clients now
+[2016.08.12 13:06:54] [0082m.06s.967ms] [1] SC[2741]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 13:06:55] [0082m.07s.602ms] [1] SC[2741]: UnRegistered sub-client [Expedition PCB_1082807042] with ID [1] for session ID [2741] host [HERENT0076] user [mag] process ID [10576]
+[2016.08.12 13:06:55] [0082m.07s.639ms] [1] CMT: Removed client [2741]
+[2016.08.12 13:06:55] [0082m.07s.639ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.08.12 13:06:55] [0082m.07s.651ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2016.08.12 13:06:57] [0082m.09s.039ms] [0] CMT: Starting server auto-close
+[2016.08.12 13:06:57] [0082m.09s.116ms] [0] S: Closing server
+[2016.08.12 13:06:57] [0082m.09s.191ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2016.08.12 13:06:57] [0082m.09s.192ms] [0] iCDB Server PI: Closing plugins
+[2016.08.12 13:06:57] [0082m.09s.192ms] [0] iCDB Server PI: Plugins closed
+[2016.08.12 13:06:57] [0082m.09s.192ms] [0] iCDB Server PI: Unloading database
+[2016.08.12 13:06:57] [0082m.09s.192ms] [0] iCDB Server PI: Saving storage
+[2016.08.12 13:06:57] [0082m.09s.192ms] [0] iCDB Server PI: Closing database
+[2016.08.12 13:06:57] [0082m.09s.194ms] [1] iCDB Server PI: Stats: Database defragmentation: max[2] avg[1] holes[42%] data[96%]
+[2016.08.12 13:06:57] [0082m.09s.195ms] [1] iCDB Server PI: Stats: Database file size [231432] bytes
+[2016.08.12 13:06:57] [0082m.09s.196ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.08.12 13:06:57] [0082m.09s.213ms] [0] iCDB Server PI: Database closed
+[2016.08.12 13:06:57] [0082m.09s.213ms] [0] iCDB Server PI: Defragmenting database
+[2016.08.12 13:06:57] [0082m.09s.216ms] [0] iCDB Server PI: Backuping database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb] to file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\cdbback\2016-08-12 13.06.57-7508-d.zip]
+[2016.08.12 13:06:57] [0082m.09s.776ms] [0] iCDB Server PI: Backup database: DONE
+[2016.08.12 13:06:57] [0082m.09s.805ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.08.12 13:06:57] [0082m.09s.808ms] [0] SingleFile: [cfd4-a116-f110-92fb] SFI version check [1008] [1008]
+[2016.08.12 13:06:57] [0082m.09s.832ms] [1] iCDB Server PI: Stats: Database file size: before[231432], after[147632], gain[83800]
+[2016.08.12 13:06:57] [0082m.09s.866ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] closed with size [147632]
+[2016.08.12 13:06:57] [0082m.09s.872ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.08.12 13:06:57] [0082m.09s.876ms] [1] BackupTransaction: Removing database backup [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev2\Layout\working\keyin.icdb\cdbback\2016-08-12 13.06.57-7508-d.zip]
+[2016.08.12 13:06:57] [0082m.09s.892ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [436064] ticks
+[2016.08.12 13:06:57] [0082m.09s.894ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [131628] microseconds
+[2016.08.12 13:06:57] [0082m.09s.898ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [1888]
+[2016.08.12 13:06:57] [0082m.09s.901ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [14343] commands per second
+[2016.08.12 13:06:58] [0082m.10s.039ms] [0] S: STOP

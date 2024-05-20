@@ -1,0 +1,11 @@
+[2009.06.11 15:05:02] [0000m.00s.156ms] [1] -s=
+[2009.06.11 15:05:02] [0000m.00s.156ms] [1] -d=H:\PCB001-099\PCB082_Jaguar_CU24_ref_board\Rev1\Layout\working\keyin.icdb
+[2009.06.11 15:05:02] [0000m.00s.156ms] [1] -c=H:\PCB001-099\PCB082_Jaguar_CU24_ref_board\Rev1\Layout\working\EE2007.5\Layout\CES\PCB082-01.db
+[2009.06.11 15:05:02] [0000m.00s.156ms] [1] -sn=PCB
+[2009.06.11 15:05:02] [0000m.00s.156ms] [1] -topblock=PCB
+[2009.06.11 15:05:02] [0000m.00s.171ms] [1] Conversion started...
+[2009.06.11 15:05:03] [0000m.00s.468ms] [1] CES part started...
+[2009.06.11 15:05:03] [0000m.00s.546ms] [1] Warning: Could not get default configuration for block: PCB
+[2009.06.11 15:05:03] [0000m.00s.562ms] [1] Error: Could not open CES database file
+[2009.06.11 15:05:03] [0000m.00s.609ms] [1] Conversion failed. Error (-1142): Error opening CES database file.
+[2009.06.11 15:05:03] [0000m.00s.609ms] [1] Database is closing....

@@ -1,0 +1,384 @@
+Tue Dec 14 14:35:52 2010: iCDBReadSettings.
+Tue Dec 14 14:35:52 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Dec 14 14:35:53 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1262007931 removed
+Tue Dec 14 14:35:53 2010: iCDBBackup complete
+Tue Dec 14 16:38:16 2010: iCDBReadSettings.
+Tue Dec 14 16:38:16 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Dec 14 17:15:38 2010: iCDBReadSettings.
+Tue Dec 14 17:15:38 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 15 12:27:20 2010: iCDBReadSettings.
+Wed Dec 15 12:27:21 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 15 12:27:32 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1262096492 removed
+Wed Dec 15 12:27:32 2010: iCDBBackup complete
+Wed Dec 15 12:30:36 2010: iCDBReadSettings.
+Wed Dec 15 12:30:36 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 15 15:37:57 2010: iCDBReadSettings.
+Wed Dec 15 15:37:57 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 15 17:43:37 2010: iCDBReadSettings.
+Wed Dec 15 17:43:37 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 15 17:43:38 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1262123342 removed
+Wed Dec 15 17:43:38 2010: iCDBBackup complete
+Thu Dec 16 17:29:52 2010: iCDBReadSettings.
+Thu Dec 16 17:29:52 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Thu Dec 16 17:29:53 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292333752 removed
+Thu Dec 16 17:29:53 2010: iCDBBackup complete
+Fri Dec 17 15:13:55 2010: iCDBReadSettings.
+Fri Dec 17 15:13:55 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Fri Dec 17 15:14:37 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292412442 removed
+Fri Dec 17 15:14:37 2010: iCDBBackup complete
+Mon Dec 20 16:55:22 2010: iCDBReadSettings.
+Mon Dec 20 16:55:22 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Mon Dec 20 16:55:24 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292431417 removed
+Mon Dec 20 16:55:24 2010: iCDBBackup complete
+Tue Dec 21 17:05:40 2010: iCDBReadSettings.
+Tue Dec 21 17:05:40 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Dec 21 17:05:43 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292516992 removed
+Tue Dec 21 17:05:43 2010: iCDBBackup complete
+Wed Dec 22 17:01:21 2010: iCDBReadSettings.
+Wed Dec 22 17:01:21 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Dec 22 17:01:26 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292595236 removed
+Wed Dec 22 17:01:26 2010: iCDBBackup complete
+Thu Dec 23 14:58:03 2010: iCDBReadSettings.
+Thu Dec 23 14:58:03 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Thu Dec 23 14:58:04 2010: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292860522 removed
+Thu Dec 23 14:58:04 2010: iCDBBackup complete
+Thu Dec 23 15:07:35 2010: iCDBReadSettings.
+Thu Dec 23 15:07:35 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Thu Dec 23 18:00:07 2010: iCDBReadSettings.
+Thu Dec 23 18:00:07 2010: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 03 16:26:15 2011: iCDBReadSettings.
+Mon Jan 03 16:26:15 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 03 16:26:16 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1292947541 removed
+Mon Jan 03 16:26:16 2011: iCDBBackup complete
+Mon Jan 03 17:02:07 2011: iCDBReadSettings.
+Mon Jan 03 17:02:07 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 04 17:11:39 2011: iCDBReadSettings.
+Tue Jan 04 17:11:39 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 04 17:11:40 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1293033681 removed
+Tue Jan 04 17:11:40 2011: iCDBBackup complete
+Tue Jan 04 17:22:07 2011: iCDBReadSettings.
+Tue Jan 04 17:22:07 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 04 17:28:33 2011: iCDBReadSettings.
+Tue Jan 04 17:28:33 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 05 17:15:40 2011: iCDBReadSettings.
+Wed Jan 05 17:15:40 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 05 17:15:42 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1293112683 removed
+Wed Jan 05 17:15:42 2011: iCDBBackup complete
+Thu Jan 06 17:43:40 2011: iCDBReadSettings.
+Thu Jan 06 17:43:40 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 06 17:43:41 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1294068375 removed
+Thu Jan 06 17:43:41 2011: iCDBBackup complete
+Fri Jan 07 16:31:27 2011: iCDBReadSettings.
+Fri Jan 07 16:31:28 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 07 16:31:28 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1294157499 removed
+Fri Jan 07 16:31:28 2011: iCDBBackup complete
+Sun Jan 09 22:22:03 2011: iCDBReadSettings.
+Sun Jan 09 22:22:03 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Sun Jan 09 22:22:11 2011: Y:\local_scratch\working\working\AutoBackup\1294244140 removed
+Sun Jan 09 22:22:11 2011: iCDBBackup complete
+Mon Jan 10 16:26:18 2011: iCDBReadSettings.
+Mon Jan 10 16:26:19 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 10 16:26:19 2011: Error making backup. CWD: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\working\PCB Application: iCDBBackup Error: Client is not connected to the server
+Mon Jan 10 16:26:19 2011: Broken backup. H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\working\AutoBackup\1294673179\H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\working\AutoBackup\1294673179\ removed
+Mon Jan 10 22:46:25 2011: iCDBReadSettings.
+Mon Jan 10 22:46:25 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 10 22:46:26 2011: Y:\local_scratch\working\working\working\AutoBackup\1294332220 removed
+Mon Jan 10 22:46:26 2011: iCDBBackup complete
+Tue Jan 11 16:56:23 2011: iCDBReadSettings.
+Tue Jan 11 16:56:23 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 11 16:56:25 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294414288 removed
+Tue Jan 11 16:56:25 2011: iCDBBackup complete
+Tue Jan 11 18:00:48 2011: iCDBReadSettings.
+Tue Jan 11 18:00:48 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 11 22:19:50 2011: iCDBReadSettings.
+Tue Jan 11 22:19:50 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 11 22:19:52 2011: Y:\local_scratch\working\working\AutoBackup\1294608123 removed
+Tue Jan 11 22:19:52 2011: iCDBBackup complete
+Wed Jan 12 14:47:24 2011: iCDBReadSettings.
+Wed Jan 12 14:47:24 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 12 14:47:26 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294695985 removed
+Wed Jan 12 14:47:26 2011: iCDBBackup complete
+Wed Jan 12 17:30:58 2011: iCDBReadSettings.
+Wed Jan 12 17:30:58 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 12 22:07:48 2011: iCDBReadSettings.
+Wed Jan 12 22:07:48 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 12 22:07:50 2011: Y:\local_scratch\working\working\AutoBackup\1294761383 removed
+Wed Jan 12 22:07:50 2011: iCDBBackup complete
+Wed Jan 12 22:27:01 2011: iCDBReadSettings.
+Wed Jan 12 22:27:01 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 12 23:25:25 2011: iCDBReadSettings.
+Wed Jan 12 23:25:25 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 13 17:10:54 2011: iCDBReadSettings.
+Thu Jan 13 17:10:54 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 13 17:10:56 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294780790 removed
+Thu Jan 13 17:10:56 2011: iCDBBackup complete
+Fri Jan 14 10:39:32 2011: iCDBReadSettings.
+Fri Jan 14 10:39:33 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 10:39:34 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294840044 removed
+Fri Jan 14 10:39:34 2011: iCDBBackup complete
+Fri Jan 14 10:44:25 2011: iCDBReadSettings.
+Fri Jan 14 10:44:25 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 10:50:39 2011: iCDBReadSettings.
+Fri Jan 14 10:50:39 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 10:54:05 2011: iCDBReadSettings.
+Fri Jan 14 10:54:05 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 11:04:40 2011: iCDBReadSettings.
+Fri Jan 14 11:04:40 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 11:07:32 2011: iCDBReadSettings.
+Fri Jan 14 11:07:32 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 11:44:11 2011: iCDBReadSettings.
+Fri Jan 14 11:44:11 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 11:45:23 2011: iCDBReadSettings.
+Fri Jan 14 11:45:23 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 11:54:36 2011: iCDBReadSettings.
+Fri Jan 14 11:54:36 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 12:09:43 2011: iCDBReadSettings.
+Fri Jan 14 12:09:43 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 12:23:15 2011: iCDBReadSettings.
+Fri Jan 14 12:23:15 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 12:54:32 2011: iCDBReadSettings.
+Fri Jan 14 12:54:32 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 12:57:50 2011: iCDBReadSettings.
+Fri Jan 14 12:57:50 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 17:53:44 2011: iCDBReadSettings.
+Fri Jan 14 17:53:44 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 14 17:53:46 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294866468 removed
+Fri Jan 14 17:53:46 2011: iCDBBackup complete
+Mon Jan 17 17:08:31 2011: iCDBReadSettings.
+Mon Jan 17 17:08:31 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 17 17:08:32 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294935054 removed
+Mon Jan 17 17:08:32 2011: iCDBBackup complete
+Tue Jan 18 11:30:22 2011: iCDBReadSettings.
+Tue Jan 18 11:30:22 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 18 11:30:24 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1294997973 removed
+Tue Jan 18 11:30:24 2011: iCDBBackup complete
+Tue Jan 18 17:25:30 2011: iCDBReadSettings.
+Tue Jan 18 17:25:30 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 18 17:25:33 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295024024 removed
+Tue Jan 18 17:25:33 2011: iCDBBackup complete
+Wed Jan 19 11:38:08 2011: iCDBReadSettings.
+Wed Jan 19 11:38:08 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 19 11:38:10 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295280511 removed
+Wed Jan 19 11:38:10 2011: iCDBBackup complete
+Wed Jan 19 14:39:14 2011: iCDBReadSettings.
+Wed Jan 19 14:39:14 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 19 15:47:24 2011: iCDBReadSettings.
+Wed Jan 19 15:47:24 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 19 15:47:25 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295346622 removed
+Wed Jan 19 15:47:25 2011: iCDBBackup complete
+Thu Jan 20 00:37:41 2011: iCDBReadSettings.
+Thu Jan 20 00:37:41 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 20 00:37:46 2011: Y:\local_scratch\working\working\AutoBackup\1295367930 removed
+Thu Jan 20 00:37:46 2011: iCDBBackup complete
+Thu Jan 20 11:37:01 2011: iCDBReadSettings.
+Thu Jan 20 11:37:01 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 20 11:37:03 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295433488 removed
+Thu Jan 20 11:37:03 2011: iCDBBackup complete
+Thu Jan 20 15:34:09 2011: iCDBReadSettings.
+Thu Jan 20 15:34:09 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 20 15:54:58 2011: iCDBReadSettings.
+Thu Jan 20 15:54:58 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 20 15:55:00 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295448444 removed
+Thu Jan 20 15:55:00 2011: iCDBBackup complete
+Fri Jan 21 17:25:42 2011: iCDBReadSettings.
+Fri Jan 21 17:25:42 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 21 17:25:44 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295480261 removed
+Fri Jan 21 17:25:44 2011: iCDBBackup complete
+Sun Jan 23 14:22:37 2011: iCDBReadSettings.
+Sun Jan 23 14:22:37 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Sun Jan 23 14:22:42 2011: Y:\local_scratch\working\working\AutoBackup\1295519821 removed
+Sun Jan 23 14:22:42 2011: iCDBBackup complete
+Sun Jan 23 17:21:46 2011: iCDBReadSettings.
+Sun Jan 23 17:21:46 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 24 00:58:54 2011: iCDBReadSettings.
+Mon Jan 24 00:58:54 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 24 00:59:01 2011: Y:\local_scratch\working\working\AutoBackup\1295535298 removed
+Mon Jan 24 00:59:01 2011: iCDBBackup complete
+Mon Jan 24 16:22:13 2011: iCDBReadSettings.
+Mon Jan 24 16:22:13 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 24 16:22:16 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295627142 removed
+Mon Jan 24 16:22:16 2011: iCDBBackup complete
+Mon Jan 24 16:33:09 2011: iCDBReadSettings.
+Mon Jan 24 16:33:09 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 25 12:01:33 2011: iCDBReadSettings.
+Tue Jan 25 12:01:34 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 25 12:03:04 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295788957 removed
+Tue Jan 25 12:03:04 2011: iCDBBackup complete
+Tue Jan 25 12:07:44 2011: iCDBReadSettings.
+Tue Jan 25 12:07:44 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 25 12:48:00 2011: iCDBReadSettings.
+Tue Jan 25 12:48:00 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 25 17:17:35 2011: iCDBReadSettings.
+Tue Jan 25 17:17:35 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Jan 25 17:17:37 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295827134 removed
+Tue Jan 25 17:17:37 2011: iCDBBackup complete
+Wed Jan 26 12:00:24 2011: iCDBReadSettings.
+Wed Jan 26 12:00:24 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 26 12:00:27 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295882533 removed
+Wed Jan 26 12:00:27 2011: iCDBBackup complete
+Wed Jan 26 17:29:15 2011: iCDBReadSettings.
+Wed Jan 26 17:29:15 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 26 17:29:19 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1295953295 removed
+Wed Jan 26 17:29:19 2011: iCDBBackup complete
+Wed Jan 26 23:48:43 2011: iCDBReadSettings.
+Wed Jan 26 23:48:43 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Jan 26 23:48:49 2011: Y:\local_scratch\working\working\AutoBackup\1295972255 removed
+Wed Jan 26 23:48:49 2011: iCDBBackup complete
+Thu Jan 27 15:26:51 2011: iCDBReadSettings.
+Thu Jan 27 15:26:51 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Jan 27 15:26:59 2011: Y:\local_scratch\working\working\AutoBackup\1296039624 removed
+Thu Jan 27 15:26:59 2011: iCDBBackup complete
+Fri Jan 28 01:45:10 2011: iCDBReadSettings.
+Fri Jan 28 01:45:10 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Jan 28 01:45:16 2011: Y:\local_scratch\working\working\AutoBackup\1296059355 removed
+Fri Jan 28 01:45:16 2011: iCDBBackup complete
+Sun Jan 30 23:34:53 2011: iCDBReadSettings.
+Sun Jan 30 23:34:53 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Sun Jan 30 23:35:06 2011: Y:\local_scratch\working\working\AutoBackup\1296082123 removed
+Sun Jan 30 23:35:06 2011: iCDBBackup complete
+Mon Jan 31 18:03:07 2011: iCDBReadSettings.
+Mon Jan 31 18:03:07 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 31 18:03:11 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296138411 removed
+Mon Jan 31 18:03:11 2011: iCDBBackup complete
+Mon Jan 31 18:12:26 2011: iCDBReadSettings.
+Mon Jan 31 18:12:26 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Jan 31 18:15:12 2011: iCDBReadSettings.
+Mon Jan 31 18:15:12 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 01 03:11:35 2011: iCDBReadSettings.
+Tue Feb 01 03:11:35 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 01 03:11:56 2011: Y:\local_scratch\working\working\AutoBackup\1296175510 removed
+Tue Feb 01 03:11:56 2011: iCDBBackup complete
+Tue Feb 01 04:48:51 2011: iCDBReadSettings.
+Tue Feb 01 04:48:51 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 01 15:42:46 2011: iCDBReadSettings.
+Tue Feb 01 15:42:46 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 01 15:42:48 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296426893 removed
+Tue Feb 01 15:42:48 2011: iCDBBackup complete
+Tue Feb 01 17:45:18 2011: iCDBReadSettings.
+Tue Feb 01 17:45:18 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Feb 02 02:31:23 2011: iCDBReadSettings.
+Wed Feb 02 02:31:23 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Feb 02 02:31:38 2011: Y:\local_scratch\working\working\AutoBackup\1296493387 removed
+Wed Feb 02 02:31:38 2011: iCDBBackup complete
+Wed Feb 02 17:49:26 2011: iCDBReadSettings.
+Wed Feb 02 17:49:26 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Feb 02 17:49:31 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296526295 removed
+Wed Feb 02 17:49:31 2011: iCDBBackup complete
+Thu Feb 03 11:30:34 2011: iCDBReadSettings.
+Thu Feb 03 11:30:34 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Feb 03 11:30:40 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296571366 removed
+Thu Feb 03 11:30:40 2011: iCDBBackup complete
+Thu Feb 03 14:45:04 2011: iCDBReadSettings.
+Thu Feb 03 14:45:04 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Feb 03 14:59:47 2011: iCDBReadSettings.
+Thu Feb 03 14:59:47 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Feb 03 17:19:04 2011: iCDBReadSettings.
+Thu Feb 03 17:19:04 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Feb 03 17:19:06 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296610283 removed
+Thu Feb 03 17:19:06 2011: iCDBBackup complete
+Thu Feb 03 17:26:57 2011: iCDBReadSettings.
+Thu Feb 03 17:26:57 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 11:13:24 2011: iCDBReadSettings.
+Fri Feb 04 11:13:24 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 11:13:29 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296665366 removed
+Fri Feb 04 11:13:29 2011: iCDBBackup complete
+Fri Feb 04 12:44:00 2011: iCDBReadSettings.
+Fri Feb 04 12:44:00 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 15:18:26 2011: iCDBReadSettings.
+Fri Feb 04 15:18:26 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 15:18:28 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296729034 removed
+Fri Feb 04 15:18:28 2011: iCDBBackup complete
+Fri Feb 04 16:52:17 2011: iCDBReadSettings.
+Fri Feb 04 16:52:17 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 20:23:59 2011: iCDBReadSettings.
+Fri Feb 04 20:23:59 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Fri Feb 04 20:24:16 2011: Y:\local_scratch\working\working\AutoBackup\1296749944 removed
+Fri Feb 04 20:24:16 2011: iCDBBackup complete
+Sun Feb 06 15:01:07 2011: iCDBReadSettings.
+Sun Feb 06 15:01:07 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Sun Feb 06 15:01:18 2011: Y:\local_scratch\working\working\AutoBackup\1296814404 removed
+Sun Feb 06 15:01:18 2011: iCDBBackup complete
+Sun Feb 06 21:25:41 2011: iCDBReadSettings.
+Sun Feb 06 21:25:41 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Sun Feb 06 21:25:57 2011: Y:\local_scratch\working\working\AutoBackup\1296829106 removed
+Sun Feb 06 21:25:57 2011: iCDBBackup complete
+Mon Feb 07 00:36:27 2011: iCDBReadSettings.
+Mon Feb 07 00:36:27 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 01:19:53 2011: iCDBReadSettings.
+Mon Feb 07 01:19:53 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 12:34:49 2011: iCDBReadSettings.
+Mon Feb 07 12:34:49 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 12:34:51 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1296847439 removed
+Mon Feb 07 12:34:51 2011: iCDBBackup complete
+Mon Feb 07 12:49:55 2011: iCDBReadSettings.
+Mon Feb 07 12:49:55 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 13:14:12 2011: iCDBReadSettings.
+Mon Feb 07 13:14:12 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 13:30:18 2011: iCDBReadSettings.
+Mon Feb 07 13:30:18 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 14:58:54 2011: iCDBReadSettings.
+Mon Feb 07 14:58:54 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 15:06:32 2011: iCDBReadSettings.
+Mon Feb 07 15:06:32 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 17:49:26 2011: iCDBReadSettings.
+Mon Feb 07 17:49:26 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Mon Feb 07 17:49:28 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1297000867 removed
+Mon Feb 07 17:49:28 2011: iCDBBackup complete
+Mon Feb 07 17:52:04 2011: iCDBReadSettings.
+Mon Feb 07 17:52:04 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 11:17:42 2011: iCDBReadSettings.
+Tue Feb 08 11:17:42 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 11:17:45 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1297023941 removed
+Tue Feb 08 11:17:45 2011: iCDBBackup complete
+Tue Feb 08 11:29:38 2011: iCDBReadSettings.
+Tue Feb 08 11:29:38 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 11:50:48 2011: iCDBReadSettings.
+Tue Feb 08 11:50:48 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 12:57:14 2011: iCDBReadSettings.
+Tue Feb 08 12:57:14 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 15:45:49 2011: iCDBReadSettings.
+Tue Feb 08 15:45:49 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 15:45:52 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\AutoBackup\1297078489 removed
+Tue Feb 08 15:45:52 2011: iCDBBackup complete
+Tue Feb 08 15:56:05 2011: iCDBReadSettings.
+Tue Feb 08 15:56:05 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 17:12:17 2011: iCDBReadSettings.
+Tue Feb 08 17:12:17 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 22:17:19 2011: iCDBReadSettings.
+Tue Feb 08 22:17:19 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 22:17:19 2011: Error making backup. CWD: Y:\local_scratch\working\working\PCB Application: iCDBBackup Error: Client is not connected to the server
+Tue Feb 08 22:17:19 2011: Broken backup. Y:\local_scratch\working\working\AutoBackup\1297199839\Y:\local_scratch\working\working\AutoBackup\1297199839\ removed
+Tue Feb 08 23:26:47 2011: iCDBReadSettings.
+Tue Feb 08 23:26:47 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 08 23:27:01 2011: Y:\local_scratch\working\working\AutoBackup\1297097366 removed
+Tue Feb 08 23:27:01 2011: iCDBBackup complete
+Tue Feb 08 23:44:20 2011: iCDBReadSettings.
+Tue Feb 08 23:44:20 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Feb 09 12:41:58 2011: iCDBReadSettings.
+Wed Feb 09 12:41:59 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Wed Feb 09 12:42:11 2011: Y:\local_scratch\working\working\AutoBackup\1297160262 removed
+Wed Feb 09 12:42:11 2011: iCDBBackup complete
+Thu Feb 10 13:43:37 2011: iCDBReadSettings.
+Thu Feb 10 13:43:37 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Thu Feb 10 13:43:50 2011: Y:\local_scratch\working\working\AutoBackup\1297176349 removed
+Thu Feb 10 13:43:50 2011: iCDBBackup complete
+Tue Feb 15 15:10:57 2011: iCDBReadSettings.
+Tue Feb 15 15:10:57 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 15 15:11:11 2011: Y:\local_scratch\working\working\AutoBackup\1297204007 removed
+Tue Feb 15 15:11:11 2011: iCDBBackup complete
+Tue Feb 22 09:04:05 2011: iCDBReadSettings.
+Tue Feb 22 09:04:05 2011: iCDBBackup. ProjectFile: Y:\local_scratch\working\working\pcb100-01.prj, Application: iCDBBackup
+Tue Feb 22 09:04:15 2011: Y:\local_scratch\working\working\AutoBackup\1297251719 removed
+Tue Feb 22 09:04:15 2011: iCDBBackup complete
+Fri Mar 18 16:54:36 2011: iCDBReadSettings.
+Fri Mar 18 16:54:36 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Fri Mar 18 16:54:38 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1297341817 removed
+Fri Mar 18 16:54:38 2011: iCDBBackup complete
+Mon Mar 21 13:49:30 2011: iCDBReadSettings.
+Mon Mar 21 13:49:30 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Mon Mar 21 13:49:32 2011: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\AutoBackup\1297779057 removed
+Mon Mar 21 13:49:32 2011: iCDBBackup complete
+Mon Mar 21 14:40:18 2011: iCDBReadSettings.
+Mon Mar 21 14:40:18 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup
+Mon Mar 21 15:03:10 2011: iCDBReadSettings.
+Mon Mar 21 15:03:10 2011: iCDBBackup. ProjectFile: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\pcb100-01.prj, Application: iCDBBackup

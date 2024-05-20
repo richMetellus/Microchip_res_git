@@ -1,0 +1,64 @@
+[2016.04.13 13:47:25] [0000m.00s.050ms] [0] WELCOME
+[2016.04.13 13:47:25] [0000m.00s.079ms] [1] iCDB Server ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2016.04.13 13:47:25] [0000m.00s.079ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2016.04.13 13:47:25] [0000m.00s.080ms] [1] Base flow version [7.9.1]
+[2016.04.13 13:47:25] [0000m.00s.080ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2016.04.13 13:47:25] [0000m.00s.080ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2016.04.13 13:47:25] [0000m.00s.084ms] [1] Machine [HERENT0076]  User [mag]  PID [12356]
+[2016.04.13 13:47:25] [0000m.00s.084ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.04.13 13:47:25] [0000m.00s.085ms] [1] Current working dir [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\PCB]
+[2016.04.13 13:47:25] [0000m.00s.087ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2016.04.13 13:47:25] [0000m.00s.088ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2016.04.13 13:47:25] [0000m.00s.088ms] [1] SDD_PLATFORM [win32]
+[2016.04.13 13:47:25] [0000m.00s.088ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2016.04.13 13:47:25] [0000m.00s.088ms] [2] S: Loading config files
+[2016.04.13 13:47:25] [0000m.00s.090ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.04.13 13:47:25] [0000m.00s.091ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.04.13 13:47:25] [0000m.00s.093ms] [1] Config file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\cdbsvr\Server.cfg] not found
+[2016.04.13 13:47:25] [0000m.00s.098ms] [3] S: Config loaded
+[2016.04.13 13:47:25] [0000m.00s.203ms] [0] S: Project path [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.04.13 13:47:25] [0000m.00s.204ms] [0] S: Project global path [\\rumba.dk.vitesse.com\hardware\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.04.13 13:47:25] [0000m.00s.211ms] [0] S: Single-user mode (auto)
+[2016.04.13 13:47:25] [0000m.00s.211ms] [0] S: Event polling mode autodetection
+[2016.04.13 13:47:25] [0000m.00s.213ms] [0] S: Started up automatically by iCDB Client: HERENT0076:mag:8288
+[2016.04.13 13:47:25] [0000m.00s.213ms] [0] S: Auto close mode
+[2016.04.13 13:47:25] [0000m.00s.213ms] [0] S: Database ID [434e-81c2-b399-c1b4-05af-c075-5afc-0750-0ec0-fb49-37d1-20ee]
+[2016.04.13 13:47:25] [0000m.00s.213ms] [0] S: START
+[2016.04.13 13:47:25] [0000m.00s.219ms] [0] S: Server startup lock file created
+[2016.04.13 13:47:25] [0000m.00s.224ms] [0] S: Listening for client connections on port [10002]
+[2016.04.13 13:47:25] [0000m.00s.225ms] [0] S: Server network ID [HERENT0076:10.10.130.97,192.168.254.1,192.168.255.1,HERENT0076,HERENT0076.microsemi.net:10002]
+[2016.04.13 13:47:25] [0000m.00s.225ms] [0] S: Server GUID [15db-a103-122a-9d60-dc13-e072-d13e-0750-c711-fb49-37d1-20ee]
+[2016.04.13 13:47:25] [0000m.00s.254ms] [0] S: Project GUID [434e-81c2-b399-c1b4-05af-c075-5afc-0750-0ec0-fb49-37d1-20ee]
+[2016.04.13 13:47:25] [0000m.00s.273ms] [0] S: Wrote data to server address file
+[2016.04.13 13:47:25] [0000m.00s.278ms] [0] S: Server startup lock file removed
+[2016.04.13 13:47:25] [0000m.00s.335ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.04.13 13:47:25] [0000m.00s.338ms] [0] S: Local disc access time: 82 us
+[2016.04.13 13:47:25] [0000m.00s.338ms] [0] S: File server access time: 2112 us
+[2016.04.13 13:47:25] [0000m.00s.338ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2016.04.13 13:47:25] [0000m.00s.344ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [149752]
+[2016.04.13 13:47:25] [0000m.00s.346ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.04.13 13:47:25] [0000m.00s.349ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.04.13 13:47:25] [0000m.00s.365ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] closed with size [149752]
+[2016.04.13 13:47:25] [0000m.00s.375ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [149752]
+[2016.04.13 13:47:25] [0000m.00s.378ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.04.13 13:47:25] [0000m.00s.381ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.04.13 13:47:25] [0000m.00s.381ms] [0] SingleFile: [46be-4e71-4568-f8e3] SFI version check [1008] [1008]
+[2016.04.13 13:47:25] [0000m.00s.386ms] [0] iCDB Server PI: Server & plugin session [2698]
+[2016.04.13 13:47:25] [0000m.00s.386ms] [0] iCDB Server PI: Opening database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb]
+[2016.04.13 13:47:25] [0000m.00s.386ms] [0] iCDB Server PI: Database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] opened
+[2016.04.13 13:47:25] [0000m.00s.401ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.04.13 13:47:25] [0000m.00s.401ms] [0] iCDB Database: Checking constraint definitions version
+[2016.04.13 13:47:25] [0000m.00s.434ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6;user.cns=c90c-abdf-b493-99ef-aebf-1f3f-ebf1-f350-cc9f-edab-2563-3352] up to date
+[2016.04.13 13:47:25] [0000m.00s.435ms] [0] iCDB Server PI: Initializing plugins
+[2016.04.13 13:47:25] [0000m.00s.441ms] [0] iCDB Server PI: Plugins initialized
+[2016.04.13 13:47:25] [0000m.00s.441ms] [0] S: iCDB database loaded
+[2016.04.13 13:47:25] [0000m.00s.442ms] [0] S: Starting threads
+[2016.04.13 13:47:25] [0000m.00s.442ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.04.13 13:47:25] [0000m.00s.442ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.04.13 13:47:25] [0000m.00s.443ms] [0] IT: Session [2699] for host [HERENT0076] user [mag] with process ID [8288] created
+[2016.04.13 13:47:25] [0000m.00s.444ms] [1] SC[2699]: Registered sub-client [Expedition PCB_2318292029] with ID [1] for session ID [2699] host [HERENT0076] user [mag] process ID [8288]
+[2016.04.13 13:47:25] [0000m.00s.453ms] [0] IT: iCDB Server Monitor session [1] for host [HERENT0076] user [mag] with process ID [5524] created
+[2016.04.13 13:47:25] [0000m.00s.453ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2016.04.13 13:47:25] [0000m.00s.542ms] [1] CMT: There are [1] clients now
+[2016.04.13 13:47:44] [0000m.19s.509ms] [0] DFAMT: File server access time: 3135 us
+[2016.04.13 14:05:27] [0018m.01s.798ms] [1] SC[2699]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2699] host [HERENT0076] user [mag] process ID [8288]

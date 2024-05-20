@@ -1,0 +1,116 @@
+Version: 02-01
+Previous version: 02-00
+Date: 2017-01-04
+
+Changed in this release:
+
+  * BOM update
+    - No change
+
+  * Reference board manual update (see revision history in reference board manual for details):
+    - No change
+
+  * Layout update:
+    - No change to the 02-00 CAD data
+    - Note that since the release of the 02-00 CAD data, the recommended footprints for VSC7512 and VSC8514 have changed.  See Microsemi application notes AN1193 (VSC7512) and AN1198 (VSC8514) for details.  The aim of the footprint changes is to improve component mounting yield.
+    
+  * Schematics update (see revision history in schematics for details):
+    - No change
+    
+Package contents:
+
+  * BOM:
+    - Costed BOM, Microsoft Excel format
+    
+  * Layout:
+    - Layout source files, Mentor Expedition EE7.9.1 format
+    - Output folder, Extended Gerber format (artwork), Excellon format (drill), ODB++ format (combined)
+    - PCB specification (layer stackup etc), Adobe PDF format
+    
+  * Shematics:
+    - Schematics source files, Orcad Capture 16.0 format
+    - Schematics, Adobe PDF format
+    - Power budget, Microsoft Excel format
+
+Related documents:
+
+  * Reference board manual, VPPDxxx, version 01-02
+
+History:
+
+Version: 02-00
+Previous version: 01-05
+Date: 2016-08-12
+
+Changed in this release:
+
+  * BOM update
+    - First release
+
+  * Reference board manual update (see revision history in reference board manual for details):
+    - Updated chapter 8.5 on single-ended REFCLK input
+
+  * Layout update:
+    - Updated for rev. 02-00 netlist
+    
+  * Schematics update (see revision history in schematics for details):
+    - Changes to UART-to-USB U10 reset circuit
+    - VSC7512 port S4 Rx polarity swapped (corrected...)
+    - VSC7512 reference clock input circuit updated
+    
+Package contents:
+
+  * BOM:
+    - Costed BOM, Microsoft Excel format
+    
+  * Layout:
+    - Layout source files, Mentor Expedition EE7.9.1 format
+    - Output folder, Extended Gerber format (artwork), Excellon format (drill), ODB++ format (combined)
+    - PCB specification (layer stackup etc), Adobe PDF format
+    
+  * Shematics:
+    - Schematics source files, Orcad Capture 16.0 format
+    - Schematics, Adobe PDF format
+    - Power budget, Microsoft Excel format
+
+Related documents:
+
+  * Reference board manual, VPPDxxx, version 01-02
+
+Version: 01-05
+Previous version: n/a
+Date: 2016-06-20
+
+Changed in this release:
+
+  * BOM update
+    - First release
+
+  * Reference board manual update (see revision history in reference board manual for details):
+    - First release
+
+  * Layout update:
+    - First release
+    
+  * Schematics update (see revision history in schematics for details):
+    - First release
+    
+Package contents:
+
+  * BOM:
+    - Costed BOM, Microsoft Excel format
+    
+  * Layout:
+    - Layout source files, Mentor Expedition EE7.9.1 format
+    - Output folder, Extended Gerber format (artwork), Excellon format (drill), ODB++ format (combined)
+    - PCB specification (layer stackup etc), Adobe PDF format
+    - Note that layout is based on schematics version 01-00, schematics have since been updated, these updates have not yet made it to the layout
+    
+  * Shematics:
+    - Schematics source files, Orcad Capture 16.0 format
+    - Schematics, Adobe PDF format
+    - Power budget, Microsoft Excel format
+
+Related documents:
+
+  * Reference board manual, VPPDxxx, version 01-00

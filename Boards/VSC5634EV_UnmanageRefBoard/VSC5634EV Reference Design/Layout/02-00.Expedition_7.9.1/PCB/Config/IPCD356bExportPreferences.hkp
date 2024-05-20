@@ -1,0 +1,20 @@
+.FILETYPE IPCD356B_PREFERENCES
+.VERSION "WG2004"
+.CREATOR "Mentor Graphics Corporation"
+.DATE "Tuesday August 25 11:26:02 2009"
+
+.Units TH
+
+.OutputFile "H:\\PCB001-099\\PCB082_Jaguar_CU24_ref_board\\Rev1\\Layout\\working.temp\\working\\working\\PCB\\Output\\PCB082-01.ipc356"
+
+.Parameters
+  ..Title "PCB082-01"
+  ..Id "001"
+  ..Rev "A"
+  ..IPCUnits TH 
+
+.OutputOptions
+  ..PlaneData NO
+  ..ConductiveShapeData NO
+
+.ExcludeNets

@@ -1,0 +1,26 @@
+[2016.07.27 11:37:20] [12863m.14s.880ms] [1] SC[2715]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2715] host [HERENT0076] user [mag] process ID [8068]
+[2016.07.27 11:37:20] [12863m.15s.619ms] [1] SC[2715]: Registered sub-client [iCDBBackup] with ID [3] for session ID [2715] host [HERENT0076] user [mag] process ID [8068]
+[2016.07.27 11:37:20] [12863m.15s.629ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[HERENT0076] # ClientUserName[mag] # ClientProcessID[8068] # SessionID[2715]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[3]]] ProjectPath[H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] BackupPath[H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\AutoBackup\1469612240\keyin.icdb] WithLogFiles[1] Overwrite[0]
+[2016.07.27 11:37:22] [12863m.16s.866ms] [1] SC[2715]: UnRegistered sub-client [iCDBBackup] with ID [3] for session ID [2715] host [HERENT0076] user [mag] process ID [8068]
+[2016.07.27 11:37:22] [12863m.17s.465ms] [1] SC[2715]: UnRegistered sub-client [Expedition PCB_1950027660] with ID [1] for session ID [2715] host [HERENT0076] user [mag] process ID [8068]
+[2016.07.27 11:37:22] [12863m.17s.482ms] [1] CMT: Removed client [2715]
+[2016.07.27 11:37:22] [12863m.17s.484ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.07.27 11:37:22] [12863m.17s.597ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2016.07.27 11:37:23] [12863m.17s.756ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[HERENT0076] # ClientUserName[mag] # ClientProcessID[8068] # SessionID[2715]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[3]]] BackupPath[H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\AutoBackup\1469612240] WithLogFiles[1] Overwrite[0]
+[2016.07.27 11:37:24] [12863m.18s.787ms] [0] CMT: Starting server auto-close
+[2016.07.27 11:37:24] [12863m.18s.836ms] [0] S: Closing server
+[2016.07.27 11:37:24] [12863m.19s.001ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2016.07.27 11:37:24] [12863m.19s.007ms] [0] iCDB Server PI: Closing plugins
+[2016.07.27 11:37:24] [12863m.19s.011ms] [0] iCDB Server PI: Plugins closed
+[2016.07.27 11:37:24] [12863m.19s.016ms] [0] iCDB Server PI: Unloading database
+[2016.07.27 11:37:24] [12863m.19s.020ms] [0] iCDB Server PI: Saving storage
+[2016.07.27 11:37:24] [12863m.19s.043ms] [0] iCDB Server PI: Closing database
+[2016.07.27 11:37:24] [12863m.19s.053ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[0%] data[99%]
+[2016.07.27 11:37:24] [12863m.19s.058ms] [1] iCDB Server PI: Stats: Database file size [148096] bytes
+[2016.07.27 11:37:24] [12863m.19s.097ms] [0] iCDB Server PI: Database closed
+[2016.07.27 11:37:24] [12863m.19s.106ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1109] ticks
+[2016.07.27 11:37:24] [12863m.19s.109ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [334] microseconds
+[2016.07.27 11:37:24] [12863m.19s.113ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [4]
+[2016.07.27 11:37:24] [12863m.19s.134ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [11948] commands per second
+[2016.07.27 11:37:24] [12863m.19s.194ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] closed with size [148096]
+[2016.07.27 11:37:24] [12863m.19s.357ms] [0] S: STOP

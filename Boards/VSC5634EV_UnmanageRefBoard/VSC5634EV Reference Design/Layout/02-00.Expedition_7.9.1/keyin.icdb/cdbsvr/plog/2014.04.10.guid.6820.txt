@@ -1,0 +1,29 @@
+[2014.04.10 10:51:44] [0007m.14s.101ms] [0] WELCOME
+[2014.04.10 10:51:44] [0007m.14s.115ms] [1] iCDB Database ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2014.04.10 10:51:44] [0007m.14s.116ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2014.04.10 10:51:44] [0007m.14s.117ms] [1] Base flow version [7.9.1]
+[2014.04.10 10:51:44] [0007m.14s.117ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2014.04.10 10:51:44] [0007m.14s.117ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2014.04.10 10:51:44] [0007m.14s.118ms] [1] Machine [work-mag]  User [mag]  PID [6820]
+[2014.04.10 10:51:44] [0007m.14s.118ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.04.10 10:51:44] [0007m.14s.118ms] [1] Current working dir [H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\PCB]
+[2014.04.10 10:51:44] [0007m.14s.121ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [1] SDD_PLATFORM [win32]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] WARNING: Database [H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] was manually copied
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] File change time:        [2014-03-28 18.02.39]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] File modification time:  [2014-03-28 18.02.39]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] Last change time:        [2014-03-28 17.02.39]
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] Last database open information:
+[2014.04.10 10:51:44] [0007m.14s.122ms] [3] Time:             [2014-03-28 14.17.13]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] Location:         [H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] Machine:          [work-mag-w7]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] User:             [mag]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] PID:              [768]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] Application:      [iCDB Server]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] WARNING: Regenerating database GUID
+[2014.04.10 10:51:44] [0007m.14s.123ms] [3] Previous database GUID [caa6-d6da-2987-d297-a62a-4f2f-62a4-f250-4867-70bb-1263-3352]
+[2014.04.10 10:51:44] [0007m.14s.125ms] [3] Current database GUID  [7e88-c9ec-bce8-11f6-0ab5-6435-ab56-4350-006f-edab-2563-3352]
+[2014.04.10 10:51:44] [0007m.14s.125ms] [3] DONE

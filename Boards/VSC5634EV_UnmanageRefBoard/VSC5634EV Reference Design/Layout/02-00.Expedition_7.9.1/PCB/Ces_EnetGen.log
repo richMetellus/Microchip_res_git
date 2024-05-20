@@ -1,0 +1,260 @@
+Thu Oct 19 15:23:52 2006
+
+Note: EnetGenAdapter::Init(C:\jobs\Vitesse\translations\Denmark\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Thu Oct 19 15:24:03 2006
+
+Note: EnetGenAdapter::Init(C:\jobs\Vitesse\translations\Denmark\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Fri Feb 22 12:52:04 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 13:28:23 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 13:35:54 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 13:57:41 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 14:30:34 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 15:02:35 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Fri Feb 22 17:09:01 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Wed Feb 27 13:21:21 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Wed Mar 05 12:21:44 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Wed Mar 05 12:25:11 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Wed Mar 05 17:19:12 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\PCB063-02-XX_EXP.old\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Thu Mar 06 12:32:56 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Thu Mar 06 12:42:16 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 07 14:52:49 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Mar 11 13:23:27 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Mar 11 15:41:58 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Thu Mar 13 10:39:23 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 11:14:01 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 11:22:56 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 11:49:11 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 12:38:15 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 13:31:37 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Fri Mar 14 14:04:34 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Wed Mar 26 11:02:00 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Wed Mar 26 13:01:23 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Wed Mar 26 13:35:38 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Thu Mar 27 11:33:20 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 01 10:52:13 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 01 13:37:03 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 01 13:44:46 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 01 14:00:38 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Thu Apr 03 14:04:28 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Mon Apr 07 11:33:18 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\Working\PCB\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Mon Apr 07 15:49:11 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\01-00\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Mon Apr 07 17:47:17 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Mon Apr 07 17:53:21 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 08 10:34:41 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 08 13:12:39 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 08 15:02:12 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.
+Tue Apr 08 15:33:51 2008
+
+Note: EnetGenAdapter::Init(H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\Working\PCB\Work\Layout_Temp\)
+Note: EnetGenAdapter::Import()
+Warning: Electrical net 5V^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Warning: Electrical net N11810367^^^ has more physical nets than the threshold. One or more of the nets may be a power net. Electrical nets will not be generated.
+Note: Net NIRQ0 has more than 25 pins. It may be an unspecified power net.

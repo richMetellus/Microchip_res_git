@@ -1,0 +1,39 @@
+! This is an automatically generated file
+! change it at your own peril
+
+! Push Layer Map scheme file
+! Created 10/27/15 15:10:54
+!
+
+.GLOBAL_SETTINGS
+	..PHYSICAL_LAYER_COUNT 4
+	..DRAFT_LAYER_COUNT 19
+	..CURRENT_SCHEME_NAME ""
+.PHYSICAL_LAYER_MAP (
+	"1" "4"
+	"2P" "2P"
+	"3P" "3P"
+	"4" "1"
+)
+.DRAFT_LAYER_MAP (
+	"AssemblyTop" "AssemblyBottom"
+	"AssemblyBottom" "AssemblyTop"
+	"SilkscreenTop" "SilkscreenBottom"
+	"SilkscreenBottom" "SilkscreenTop"
+	"SolderMaskTop" "SolderMaskBottom"
+	"SolderMaskBottom" "SolderMaskTop"
+	"SolderPasteTop" "SolderPasteBottom"
+	"SolderPasteBottom" "SolderPasteTop"
+	"BODY_CENTER" "BODY_CENTER"
+	"DFA_BOUND_TOP" "DFA_BOUND_TOP"
+	"DXF_0" "DXF_0"
+	"MACAOS" "MACAOS"
+	"Measure Drawing" "Measure Drawing"
+	"MILLING" "MILLING"
+	"OUTLINE" "OUTLINE"
+	"PLACE_BOUND_TOP" "PLACE_BOUND_TOP"
+	"REVISION_TOP" "REVISION_TOP"
+	"SILKSCREEN_BOTTOM" "SILKSCREEN_BOTTOM"
+	"SILKSCREEN_TOP" "SILKSCREEN_TOP"
+)
+!end of scheme

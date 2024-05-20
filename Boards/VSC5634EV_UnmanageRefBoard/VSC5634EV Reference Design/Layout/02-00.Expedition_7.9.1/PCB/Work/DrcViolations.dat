@@ -1,0 +1,5300 @@
+.FILETYPE DRCFILE
+.VERSION "2002"
+.DATE "January 07, 2016"
+.TIME "22:54:7"
+.PROXIMITY
+..VIO_XY (72100254, 58359194)  ! (72.1mm, 58.36mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "TypeToType not found Not Defined - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (73300000, 61700000)  ! (73.3mm, 61.7mm)
+.....HGT 20000000
+.....UNDER_HGT 0
+.....REF_DES "C11"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (72200000, 5900000)  ! (72.2mm, 5.9mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "J10"
+.PROXIMITY
+..VIO_XY (65221924, 66650000)  ! (65.22mm, 66.65mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "TypeToType not found Not Defined - NetClass PlacementOutline-To-PlacementOutline : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (73250000, 74950000)  ! (73.25mm, 74.95mm)
+.....HGT 3000000
+.....UNDER_HGT 0
+.....REF_DES "L2"
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (73300000, 61700000)  ! (73.3mm, 61.7mm)
+.....HGT 20000000
+.....UNDER_HGT 0
+.....REF_DES "C11"
+.PROXIMITY
+..VIO_XY (115518009, 29800947)  ! (115.52mm, 29.8mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N413031110, NetClass1Override=(null), NetName2=(Net0), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N413031110"
+.....NETCLASS "(Default)"
+.....XY (115343786, 28784661)  ! (115.34mm, 28.78mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (115718009, 29800947)  ! (115.72mm, 29.8mm)
+.PROXIMITY
+..VIO_XY (113395709, 32385237)  ! (113.4mm, 32.39mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=1V2_8221, NetClass1Override=(null), NetName2=(Net0), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....XY (113472304, 32573447)  ! (113.47mm, 32.57mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (113318009, 32200947)  ! (113.32mm, 32.2mm)
+.PROXIMITY
+..VIO_XY (115518009, 29000947)  ! (115.52mm, 29mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N413031110, NetClass1Override=(null), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N413031110"
+.....NETCLASS "(Default)"
+.....XY (115343786, 28784661)  ! (115.34mm, 28.78mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (115718009, 29000947)  ! (115.72mm, 29mm)
+.PROXIMITY
+..VIO_XY (120318009, 29000947)  ! (120.32mm, 29mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N3V3, NetClass1Override=(null), NetName2=N41302672, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....XY (120155509, 28417430)  ! (120.16mm, 28.42mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302672"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (120518009, 29000947)  ! (120.52mm, 29mm)
+.PROXIMITY
+..VIO_XY (117118009, 29000947)  ! (117.12mm, 29mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=1V2_A8221, NetClass1Override=(null), NetName2=N41303056, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "1V2_A8221"
+.....NETCLASS "(Default)/Power"
+.....XY (116945509, 29428447)  ! (116.95mm, 29.43mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41303056"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (117318009, 29000947)  ! (117.32mm, 29mm)
+.PROXIMITY
+..VIO_XY (119642637, 29615693)  ! (119.64mm, 29.62mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N3V3, NetClass1Override=(null), NetName2=N41303173, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....XY (119978736, 29428447)  ! (119.98mm, 29.43mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41303173"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (119718009, 29800947)  ! (119.72mm, 29.8mm)
+.PROXIMITY
+..VIO_XY (113395709, 28816657)  ! (113.4mm, 28.82mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=NMII_MDIO, NetClass1Override=(null), NetName2=N41911744, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "NMII_MDIO"
+.....NETCLASS "(Default)"
+.....XY (113723009, 28879152)  ! (113.72mm, 28.88mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41911744"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (113318009, 29000947)  ! (113.32mm, 29mm)
+.PROXIMITY
+..VIO_XY (104907897, 85110000)  ! (104.91mm, 85.11mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=PVCORE_CFG1, NetClass1Override=(null), NetName2=GND_SIGNAL_PCIE, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "PVCORE_CFG1"
+.....NETCLASS "(Default)"
+.....XY (105000006, 84937304)  ! (105mm, 84.94mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND_SIGNAL_PCIE"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.8000x0.8000"
+.....REF_DES "R29"
+.....XY (104530000, 85510000)  ! (104.53mm, 85.51mm)
+.PROXIMITY
+..VIO_XY (77129175, 78090000)  ! (77.13mm, 78.09mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N38428747, NetClass1Override=(null), NetName2=GND_SIGNAL, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 500000
+.....NET "N38428747"
+.....NETCLASS "(Default)"
+.....XY (77503921, 81571697)  ! (77.5mm, 81.57mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "GND_SIGNAL"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.6000x1.3000"
+.....REF_DES "U2"
+.....XY (76500000, 78390000)  ! (76.5mm, 78.39mm)
+.PROXIMITY
+..VIO_XY (77129175, 80630000)  ! (77.13mm, 80.63mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N38428747, NetClass1Override=(null), NetName2=12V, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 500000
+.....NET "N38428747"
+.....NETCLASS "(Default)"
+.....XY (77503921, 81571697)  ! (77.5mm, 81.57mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "12V"
+.....NETCLASS "(Default)/Power"
+.....NAME "RECTANGLE 0.6000x1.3000"
+.....REF_DES "U2"
+.....XY (76500000, 80930000)  ! (76.5mm, 80.93mm)
+.PROXIMITY
+..VIO_XY (77129175, 79360000)  ! (77.13mm, 79.36mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=N38428747, NetClass1Override=(null), NetName2=N38428749, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 500000
+.....NET "N38428747"
+.....NETCLASS "(Default)"
+.....XY (77503921, 81571697)  ! (77.5mm, 81.57mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N38428749"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.6000x1.3000"
+.....REF_DES "U2"
+.....XY (76500000, 79660000)  ! (76.5mm, 79.66mm)
+.PROXIMITY
+..VIO_XY (58500000, 32425000)  ! (58.5mm, 32.42mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=1, NetName1=SLED_DO, NetClass1Override=(null), NetName2=2V5, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "SLED_DO"
+.....NETCLASS "(Default)"
+.....XY (58416174, 32262500)  ! (58.42mm, 32.26mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "2V5"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.8000x0.8000"
+.....REF_DES "R70"
+.....XY (58900000, 32825000)  ! (58.9mm, 32.83mm)
+.PROXIMITY
+..VIO_XY (112702113, 31283789)  ! (112.7mm, 31.28mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41911743, NetClass1Override=(null), NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N41911743"
+.....NETCLASS "(Default)"
+.....XY (112033634, 31471035)  ! (112.03mm, 31.47mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112789908, 30970872)  ! (112.79mm, 30.97mm)
+.PROXIMITY
+..VIO_XY (112542496, 30760129)  ! (112.54mm, 30.76mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41911745, NetClass1Override=(null), NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N41911745"
+.....NETCLASS "(Default)"
+.....XY (112852244, 30461920)  ! (112.85mm, 30.46mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112789908, 30970872)  ! (112.79mm, 30.97mm)
+.PROXIMITY
+..VIO_XY (117290025, 28237213)  ! (117.29mm, 28.24mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41303056, NetClass1Override=(null), NetName2=1V2_A8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N41303056"
+.....NETCLASS "(Default)"
+.....XY (117477271, 26400209)  ! (117.48mm, 26.4mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_A8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (116979771, 28333999)  ! (116.98mm, 28.33mm)
+.PROXIMITY
+..VIO_XY (117651955, 28365947)  ! (117.65mm, 28.37mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41303056, NetClass1Override=(null), NetName2=3V3_A8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N41303056"
+.....NETCLASS "(Default)"
+.....XY (117477271, 26400209)  ! (117.48mm, 26.4mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "3V3_A8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (117976955, 28365947)  ! (117.98mm, 28.37mm)
+.PROXIMITY
+..VIO_XY (118127900, 28653767)  ! (118.13mm, 28.65mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41303504, NetClass1Override=(null), NetName2=3V3_A8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 350000
+.....NET "N41303504"
+.....NETCLASS "(Default)"
+.....XY (118762892, 28442681)  ! (118.76mm, 28.44mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "3V3_A8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (117976955, 28365947)  ! (117.98mm, 28.37mm)
+.PROXIMITY
+..VIO_XY (115388950, 28565019)  ! (115.39mm, 28.57mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N413031110, NetClass1Override=(null), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N413031110"
+.....NETCLASS "(Default)"
+.....XY (115145509, 28586384)  ! (115.15mm, 28.59mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (115643009, 28362340)  ! (115.64mm, 28.36mm)
+.PROXIMITY
+..VIO_XY (112587268, 31658281)  ! (112.59mm, 31.66mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Via : Scheme=(Master), Layer=1, NetName1=N41911743, NetClass1Override=(null), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 125000
+.....NET "N41911743"
+.....NETCLASS "(Default)"
+.....XY (112033634, 31471035)  ! (112.03mm, 31.47mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (112683009, 31968859)  ! (112.68mm, 31.97mm)
+.PROXIMITY
+..VIO_XY (86859624, 98802673)  ! (86.86mm, 98.8mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=1, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 200000
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (73920124, 99027419)  ! (73.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "1"
+.....LYR 1
+.....HGT 2000000
+.....WDT 2121000
+.....TEXT_TYPE COND
+.....XY (87920124, 97027419)  ! (87.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (86859624, 98802673)  ! (86.86mm, 98.8mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=1, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 200000
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (77920124, 99027419)  ! (77.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "1"
+.....LYR 1
+.....HGT 2000000
+.....WDT 2121000
+.....TEXT_TYPE COND
+.....XY (87920124, 97027419)  ! (87.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (86859624, 98802673)  ! (86.86mm, 98.8mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=1, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 200000
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (81920124, 99027419)  ! (81.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "1"
+.....LYR 1
+.....HGT 2000000
+.....WDT 2121000
+.....TEXT_TYPE COND
+.....XY (87920124, 97027419)  ! (87.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (86859624, 98802673)  ! (86.86mm, 98.8mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=1, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 1
+.....WDT 200000
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (85920124, 99027419)  ! (85.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "1"
+.....LYR 1
+.....HGT 2000000
+.....WDT 2121000
+.....TEXT_TYPE COND
+.....XY (87920124, 97027419)  ! (87.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (86741324, 99030000)  ! (86.74mm, 99.03mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=1, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....COND_AREA
+.....LYR 1
+.....NET "(Net0)"
+.....XY (85920001, 99030000)  ! (85.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "1"
+.....LYR 1
+.....HGT 2000000
+.....WDT 2121000
+.....TEXT_TYPE COND
+.....XY (87920124, 97027419)  ! (87.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (134345102, 20595188)  ! (134.35mm, 20.6mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41302971, NetName2=GND_SIGNAL_NPI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302971"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 1.8000x0.6000"
+.....REF_DES "T2"
+.....XY (134065749, 21495188)  ! (134.07mm, 21.5mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (134654912, 20269168)  ! (134.65mm, 20.27mm)
+.PROXIMITY
+..VIO_XY (138845749, 20595188)  ! (138.85mm, 20.6mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41302695, NetName2=GND_SIGNAL_NPI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302695"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 1.8000x0.6000"
+.....REF_DES "T2"
+.....XY (139145749, 21495188)  ! (139.15mm, 21.5mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (138505835, 20310091)  ! (138.51mm, 20.31mm)
+.PROXIMITY
+..VIO_XY (138157997, 20595188)  ! (138.16mm, 20.6mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41302590, NetName2=GND_SIGNAL_NPI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302590"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 1.8000x0.6000"
+.....REF_DES "T2"
+.....XY (137875749, 21495188)  ! (137.88mm, 21.5mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (138505835, 20310091)  ! (138.51mm, 20.31mm)
+.PROXIMITY
+..VIO_XY (131225749, 20595188)  ! (131.23mm, 20.6mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41302701, NetName2=GND_SIGNAL_NPI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302701"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 1.8000x0.6000"
+.....REF_DES "T2"
+.....XY (131525749, 21495188)  ! (131.53mm, 21.5mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (130891264, 20314490)  ! (130.89mm, 20.31mm)
+.PROXIMITY
+..VIO_XY (130539867, 20595188)  ! (130.54mm, 20.6mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41302699, NetName2=GND_SIGNAL_NPI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41302699"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 1.8000x0.6000"
+.....REF_DES "T2"
+.....XY (130255749, 21495188)  ! (130.26mm, 21.5mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (130891264, 20314490)  ! (130.89mm, 20.31mm)
+.PROXIMITY
+..VIO_XY (113135809, 30683428)  ! (113.14mm, 30.68mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=N41911745, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "N41911745"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (113318009, 30600947)  ! (113.32mm, 30.6mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112789908, 30970872)  ! (112.79mm, 30.97mm)
+.PROXIMITY
+..VIO_XY (114755123, 36317000)  ! (114.76mm, 36.32mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=(Net0), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (114918009, 36200947)  ! (114.92mm, 36.2mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (114518504, 36699469)  ! (114.52mm, 36.7mm)
+.PROXIMITY
+..VIO_XY (114197488, 36384476)  ! (114.2mm, 36.38mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=(Net0), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (114118009, 36200947)  ! (114.12mm, 36.2mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (114518504, 36699469)  ! (114.52mm, 36.7mm)
+.PROXIMITY
+..VIO_XY (113959940, 36323480)  ! (113.96mm, 36.32mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=1, NetName1=(Net0), NetName2=1V2_8221, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.4000"
+.....REF_DES "U33"
+.....XY (114118009, 36200947)  ! (114.12mm, 36.2mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (113727599, 36708563)  ! (113.73mm, 36.71mm)
+.PROXIMITY
+..VIO_XY (112354587, 34641878)  ! (112.35mm, 34.64mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Via-To-Via : Scheme=(Master), Layer=1, NetName1=1V2_8221, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (112444096, 34954309)  ! (112.44mm, 34.95mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 1
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112407107, 34195209)  ! (112.41mm, 34.2mm)
+.PROXIMITY
+..VIO_XY (82705470, 99032583)  ! (82.71mm, 99.03mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=2, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....COND_AREA
+.....LYR 2
+.....NET "(Net0)"
+.....XY (81920001, 99032583)  ! (81.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "2"
+.....LYR 2
+.....HGT 2000000
+.....WDT 2194500
+.....TEXT_TYPE COND
+.....XY (83920124, 97027419)  ! (83.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (112354587, 34641878)  ! (112.35mm, 34.64mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Via-To-Via : Scheme=(Master), Layer=2, NetName1=1V2_8221, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD VIA
+.....LYR 2
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (112444096, 34954309)  ! (112.44mm, 34.95mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 2
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112407107, 34195209)  ! (112.41mm, 34.2mm)
+.PROXIMITY
+..VIO_XY (78705470, 99032583)  ! (78.71mm, 99.03mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=3, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....COND_AREA
+.....LYR 3
+.....NET "(Net0)"
+.....XY (77920001, 99032583)  ! (77.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "3"
+.....LYR 3
+.....HGT 2000000
+.....WDT 2194500
+.....TEXT_TYPE COND
+.....XY (79920124, 97027419)  ! (79.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (112354587, 34641878)  ! (112.35mm, 34.64mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Via-To-Via : Scheme=(Master), Layer=3, NetName1=1V2_8221, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD VIA
+.....LYR 3
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (112444096, 34954309)  ! (112.44mm, 34.95mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 3
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112407107, 34195209)  ! (112.41mm, 34.2mm)
+.PROXIMITY
+..VIO_XY (111794175, 82361250)  ! (111.79mm, 82.36mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PCPERSTN, NetClass1Override=(null), NetName2=(Net0), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPERSTN"
+.....NETCLASS "(Default)"
+.....XY (111981421, 82093298)  ! (111.98mm, 82.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 82511250)  ! (111.08mm, 82.51mm)
+.PROXIMITY
+..VIO_XY (111794175, 84761250)  ! (111.79mm, 84.76mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PCPERSTN, NetClass1Override=(null), NetName2=PSI_CLK, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPERSTN"
+.....NETCLASS "(Default)"
+.....XY (111981421, 82093298)  ! (111.98mm, 82.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PSI_CLK"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 84911250)  ! (111.08mm, 84.91mm)
+.PROXIMITY
+..VIO_XY (111794175, 83961250)  ! (111.79mm, 83.96mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PCPERSTN, NetClass1Override=(null), NetName2=PSI_DI, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPERSTN"
+.....NETCLASS "(Default)"
+.....XY (111981421, 82093298)  ! (111.98mm, 82.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PSI_DI"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 84111250)  ! (111.08mm, 84.11mm)
+.PROXIMITY
+..VIO_XY (111794175, 83161250)  ! (111.79mm, 83.16mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PCPERSTN, NetClass1Override=(null), NetName2=PSI_DO, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPERSTN"
+.....NETCLASS "(Default)"
+.....XY (111981421, 82093298)  ! (111.98mm, 82.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PSI_DO"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 83311250)  ! (111.08mm, 83.31mm)
+.PROXIMITY
+..VIO_XY (111795099, 85561250)  ! (111.8mm, 85.56mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PCPERSTN, NetClass1Override=(null), NetName2=PSPI_NCS0, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPERSTN"
+.....NETCLASS "(Default)"
+.....XY (111981421, 82093298)  ! (111.98mm, 82.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PSPI_NCS0"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 85711250)  ! (111.08mm, 85.71mm)
+.PROXIMITY
+..VIO_XY (104155000, 90426686)  ! (104.16mm, 90.43mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=N418882101, NetClass1Override=(null), NetName2=PS4_RXN, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "N418882101"
+.....NETCLASS "(Default)"
+.....XY (103968120, 90676898)  ! (103.97mm, 90.68mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PS4_RXN"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (104880000, 90511250)  ! (104.88mm, 90.51mm)
+.PROXIMITY
+..VIO_XY (113090000, 80851250)  ! (113.09mm, 80.85mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Pad : Scheme=(Master), Layer=4, NetName1=PSB_RTN, NetClass1Override=(null), NetName2=(Net0), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PSB_RTN"
+.....NETCLASS "(Default)"
+.....XY (112917500, 79761981)  ! (112.92mm, 79.76mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 1.1000"
+.....REF_DES "J2"
+.....XY (113640000, 80851250)  ! (113.64mm, 80.85mm)
+.PROXIMITY
+..VIO_XY (113929033, 77843318)  ! (113.93mm, 77.84mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Pad : Scheme=(Master), Layer=4, NetName1=PCPRSNTN, NetClass1Override=(null), NetName2=PS8_RXN, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 125000
+.....NET "PCPRSNTN"
+.....NETCLASS "(Default)"
+.....XY (112124270, 75773750)  ! (112.12mm, 75.77mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "PS8_RXN"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "CIRCLE 1.1000"
+.....REF_DES "J2"
+.....XY (113640000, 78311250)  ! (113.64mm, 78.31mm)
+.PROXIMITY
+..VIO_XY (74822874, 98813002)  ! (74.82mm, 98.81mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=4, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE REGULAR
+.....LYR 4
+.....WDT 200000
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (73919877, 99037748)  ! (73.92mm, 99.04mm)
+..OBJECT_2
+...OBJECT
+....TEXT "4"
+.....LYR 4
+.....HGT 2000000
+.....WDT 2194500
+.....TEXT_TYPE COND
+.....XY (75920124, 97027419)  ! (75.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (74705470, 99032583)  ! (74.71mm, 99.03mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Trace : Scheme=(Master), Layer=4, NetName1=(Net0), NetClass1Override=(null), NetName2=(Net0), NetClass2Override=(null), Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....COND_AREA
+.....LYR 4
+.....NET "(Net0)"
+.....XY (73920001, 99032583)  ! (73.92mm, 99.03mm)
+..OBJECT_2
+...OBJECT
+....TEXT "4"
+.....LYR 4
+.....HGT 2000000
+.....WDT 2194500
+.....TEXT_TYPE COND
+.....XY (75920124, 97027419)  ! (75.92mm, 97.03mm)
+.PROXIMITY
+..VIO_XY (104155000, 91444782)  ! (104.16mm, 91.44mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=PS4_RXP, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104054283, 91608870)  ! (104.05mm, 91.61mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PS4_RXP"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (104880000, 91311250)  ! (104.88mm, 91.31mm)
+.PROXIMITY
+..VIO_XY (104155000, 91451019)  ! (104.16mm, 91.45mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=PS4_RXP, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104174700, 91899582)  ! (104.17mm, 91.9mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PS4_RXP"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (104880000, 91311250)  ! (104.88mm, 91.31mm)
+.PROXIMITY
+..VIO_XY (111799655, 77561250)  ! (111.8mm, 77.56mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_RXP, NetClass1Override=(null), NetName2=P3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_RXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (111803911, 77089924)  ! (111.8mm, 77.09mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "P3V3"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 77711250)  ! (111.08mm, 77.71mm)
+.PROXIMITY
+..VIO_XY (111795339, 77561250)  ! (111.8mm, 77.56mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_RXP, NetClass1Override=(null), NetName2=P3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_RXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (111982585, 77521281)  ! (111.98mm, 77.52mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "P3V3"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 77711250)  ! (111.08mm, 77.71mm)
+.PROXIMITY
+..VIO_XY (111795339, 77577754)  ! (111.8mm, 77.58mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_RXP, NetClass1Override=(null), NetName2=P3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_RXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (111982585, 77577754)  ! (111.98mm, 77.58mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "P3V3"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.3000x1.4500"
+.....REF_DES "J3"
+.....XY (111080000, 77711250)  ! (111.08mm, 77.71mm)
+.PROXIMITY
+..VIO_XY (103987454, 91899800)  ! (103.99mm, 91.9mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=N418882301, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104174700, 91899582)  ! (104.17mm, 91.9mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "N418882301"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.5004x0.5994"
+.....REF_DES "C127"
+.....XY (103702500, 92150000)  ! (103.7mm, 92.15mm)
+.PROXIMITY
+..VIO_XY (103987454, 91899800)  ! (103.99mm, 91.9mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=N418882301, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104174700, 93120513)  ! (104.17mm, 93.12mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "N418882301"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.5004x0.5994"
+.....REF_DES "C127"
+.....XY (103702500, 92150000)  ! (103.7mm, 92.15mm)
+.PROXIMITY
+..VIO_XY (103987454, 92899800)  ! (103.99mm, 92.9mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=PS8_TXN, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104174700, 93120513)  ! (104.17mm, 93.12mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PS8_TXN"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "RECTANGLE 0.5004x0.5994"
+.....REF_DES "C127"
+.....XY (103702500, 93150000)  ! (103.7mm, 93.15mm)
+.PROXIMITY
+..VIO_XY (103987454, 93120513)  ! (103.99mm, 93.12mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Smd : Scheme=(Master), Layer=4, NetName1=PS8_TXP, NetClass1Override=(null), NetName2=PS8_TXN, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (104296676, 93414989)  ! (104.3mm, 93.41mm)
+..OBJECT_2
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "PS8_TXN"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "RECTANGLE 0.5004x0.5994"
+.....REF_DES "C127"
+.....XY (103702500, 93150000)  ! (103.7mm, 93.15mm)
+.PROXIMITY
+..VIO_XY (115648542, 88691969)  ! (115.65mm, 88.69mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Trace-To-Pad : Scheme=(Master), Layer=4, NetName1=PS8_TXN, NetClass1Override=(null), NetName2=PS8_TXP, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....TRACE DIFF_PAIR
+.....LYR 4
+.....WDT 125000
+.....NET "PS8_TXN"
+.....NETCLASS "(Default)/DiffPair"
+.....XY (115759964, 88537702)  ! (115.76mm, 88.54mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "PS8_TXP"
+.....NETCLASS "(Default)/DiffPair"
+.....NAME "CIRCLE 1.1000"
+.....REF_DES "J2"
+.....XY (115290555, 89109516)  ! (115.29mm, 89.11mm)
+.PROXIMITY
+..VIO_XY (120179372, 27865947)  ! (120.18mm, 27.87mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Smd-To-Via : Scheme=(Master), Layer=4, NetName1=GND_SIGNAL_NPI, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD SMD
+.....LYR 4
+.....NET "GND_SIGNAL_NPI"
+.....NETCLASS "(Default)"
+.....NAME "RECTANGLE 0.8000x0.8000"
+.....REF_DES "C208"
+.....XY (119793009, 27465947)  ! (119.79mm, 27.47mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 4
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (120265587, 28307352)  ! (120.27mm, 28.31mm)
+.PROXIMITY
+..VIO_XY (112354587, 34641878)  ! (112.35mm, 34.64mm)
+..CLEARANCE 125000  ! 0.13mm
+!..CLEARANCE_STRING "NetClass Via-To-Via : Scheme=(Master), Layer=4, NetName1=1V2_8221, NetName2=N3V3, Clearance=0.13mm  "
+..OBJECT_1
+...OBJECT
+....PAD VIA
+.....LYR 4
+.....NET "1V2_8221"
+.....NETCLASS "(Default)/Power"
+.....NAME "CIRCLE 0.650"
+.....XY (112444096, 34954309)  ! (112.44mm, 34.95mm)
+..OBJECT_2
+...OBJECT
+....PAD VIA
+.....LYR 4
+.....NET "N3V3"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.650"
+.....XY (112407107, 34195209)  ! (112.41mm, 34.2mm)
+.PROXIMITY
+..VIO_XY (85920255, 99499995)  ! (85.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 1
+.....NET "(Net0)"
+.....XY (85920001, 99030000)  ! (85.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58450254)  ! (141.5mm, 58.45mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18550254)  ! (141.5mm, 18.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119745254, 99500000)  ! (119.75mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55650254)  ! (141.5mm, 55.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102250254, 99500000)  ! (102.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93650254)  ! (141.5mm, 93.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99250254, 99500000)  ! (99.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 1
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (135900255, -7400000)  ! (135.9mm, -7.4mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, -7400000)  ! (141.5mm, -7.4mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (136000001, -7400000)  ! (136mm, -7.4mm)
+.....HGT 0
+.....UNDER_HGT 0
+.PROXIMITY
+..VIO_XY (400254, 99499995)  ! (0.4mm, 99.5mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (5500000, 99500000)  ! (5.5mm, 99.5mm)
+.....HGT 0
+.....UNDER_HGT 0
+.PROXIMITY
+..VIO_XY (141499995, 38036067)  ! (141.5mm, 38.04mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (141635749, 38135813)  ! (141.64mm, 38.14mm)
+.....HGT 13500000
+.....UNDER_HGT 0
+.....REF_DES "J18"
+.PROXIMITY
+..VIO_XY (400253, -7400000)  ! (0.4mm, -7.4mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, -7400000)  ! (141.5mm, -7.4mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (5499999, -2400000)  ! (5.5mm, -2.4mm)
+.....HGT 0
+.....UNDER_HGT 0
+.PROXIMITY
+..VIO_XY (135900254, 99499995)  ! (135.9mm, 99.5mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE TOP
+.....XY (136000000, 94500000)  ! (136mm, 94.5mm)
+.....HGT 0
+.....UNDER_HGT 0
+.PROXIMITY
+..VIO_XY (85920255, 99499995)  ! (85.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 1
+.....NET "(Net0)"
+.....XY (85920001, 99030000)  ! (85.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (81920255, 99499995)  ! (81.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 2
+.....NET "(Net0)"
+.....XY (81920001, 99032583)  ! (81.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58450254)  ! (141.5mm, 58.45mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18550254)  ! (141.5mm, 18.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119745254, 99500000)  ! (119.75mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55650254)  ! (141.5mm, 55.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102250254, 99500000)  ! (102.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93650254)  ! (141.5mm, 93.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99250254, 99500000)  ! (99.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 2
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (81920255, 99499995)  ! (81.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 2
+.....NET "(Net0)"
+.....XY (81920001, 99032583)  ! (81.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (77920255, 99499995)  ! (77.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 3
+.....NET "(Net0)"
+.....XY (77920001, 99032583)  ! (77.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58450254)  ! (141.5mm, 58.45mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18550254)  ! (141.5mm, 18.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119745254, 99500000)  ! (119.75mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55650254)  ! (141.5mm, 55.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102250254, 99500000)  ! (102.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93650254)  ! (141.5mm, 93.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99250254, 99500000)  ! (99.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 3
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (77920255, 99499995)  ! (77.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 3
+.....NET "(Net0)"
+.....XY (77920001, 99032583)  ! (77.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (73920255, 99499995)  ! (73.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 4
+.....NET "(Net0)"
+.....XY (73920001, 99032583)  ! (73.92mm, 99.03mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ ROUTE_BORDER
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58550254)  ! (141.5mm, 58.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18650254)  ! (141.5mm, 18.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119845254, 99500000)  ! (119.85mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55750254)  ! (141.5mm, 55.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102350254, 99500000)  ! (102.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93750254)  ! (141.5mm, 93.75mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99350254, 99500000)  ! (99.35mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....PAD PART
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....NAME "CIRCLE 0.500"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 58450254)  ! (141.5mm, 58.45mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 58800000)  ! (141.5mm, 58.8mm)
+.PROXIMITY
+..VIO_XY (141499995, 18550254)  ! (141.5mm, 18.55mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 18900000)  ! (141.5mm, 18.9mm)
+.PROXIMITY
+..VIO_XY (119745254, 99500000)  ! (119.75mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (120095000, 99500000)  ! (120.1mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 55650254)  ! (141.5mm, 55.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 56000000)  ! (141.5mm, 56mm)
+.PROXIMITY
+..VIO_XY (102250254, 99500000)  ! (102.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (102600000, 99500000)  ! (102.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 93650254)  ! (141.5mm, 93.65mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (141500000, 94000000)  ! (141.5mm, 94mm)
+.PROXIMITY
+..VIO_XY (99250254, 99500000)  ! (99.25mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....HOLE MOUNTING
+.....LYR 4
+.....NET "(Net0)"
+.....NETCLASS "(Default)"
+.....XY (99600000, 99500000)  ! (99.6mm, 99.5mm)
+.PROXIMITY
+..VIO_XY (141499995, 59915254)  ! (141.5mm, 59.92mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (144880000, 76655000)  ! (144.88mm, 76.66mm)
+.....HGT 13500000
+.....UNDER_HGT 0
+.....REF_DES "J16"
+.PROXIMITY
+..VIO_XY (141499995, 43644439)  ! (141.5mm, 43.64mm)
+..CLEARANCE 100000  ! 0.1mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0.1mm   "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (141500000, 99500000)  ! (141.5mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....OUTLINE_OBJ PLACE
+.....SIDE BOTTOM
+.....XY (139135750, 49344185)  ! (139.14mm, 49.34mm)
+.....HGT 0
+.....UNDER_HGT 0
+.....REF_DES "D18"
+.PROXIMITY
+..VIO_XY (73920255, 99499995)  ! (73.92mm, 99.5mm)
+..CLEARANCE 0  ! 0mm
+!..CLEARANCE_STRING "Element-To-Element Matrix : Clearance=0mm     "
+..OBJECT_1
+...OBJECT
+....OUTLINE_OBJ BOARD
+.....XY (0, 99500000)  ! (0mm, 99.5mm)
+..OBJECT_2
+...OBJECT
+....COND_AREA
+.....LYR 4
+.....NET "(Net0)"
+.....XY (73920001, 99032583)  ! (73.92mm, 99.03mm)
+.HANGER
+..XY (73920001, 99032583)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (73920001, 99032583) (73920001, 99032583)
+.HANGER
+..XY (77920001, 99032583)
+..OBJECT
+...TRACE REGULAR
+....LYR 3
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (77920001, 99032583) (77920001, 99032583)
+.HANGER
+..XY (81920001, 99032583)
+..OBJECT
+...TRACE REGULAR
+....LYR 2
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (81920001, 99032583) (81920001, 99032583)
+.HANGER
+..XY (85920001, 99030000)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (85920001, 99030000) (85920001, 99030000)
+.HANGER
+..XY (73919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (73919877, 95037748) (73919877, 95037748)
+.HANGER
+..XY (73919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (73919877, 95037748) (73919877, 95037748)
+.HANGER
+..XY (73920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (73920124, 95027419) (73920124, 95027419)
+.HANGER
+..XY (73920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (73920124, 95027419) (73920124, 95027419)
+.HANGER
+..XY (77919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (77919877, 95037748) (77919877, 95037748)
+.HANGER
+..XY (77919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (77919877, 95037748) (77919877, 95037748)
+.HANGER
+..XY (77920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (77920124, 95027419) (77920124, 95027419)
+.HANGER
+..XY (77920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (77920124, 95027419) (77920124, 95027419)
+.HANGER
+..XY (81919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (81919877, 95037748) (81919877, 95037748)
+.HANGER
+..XY (81919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (81919877, 95037748) (81919877, 95037748)
+.HANGER
+..XY (81920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (81920124, 95027419) (81920124, 95027419)
+.HANGER
+..XY (81920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (81920124, 95027419) (81920124, 95027419)
+.HANGER
+..XY (85919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (85919877, 95037748) (85919877, 95037748)
+.HANGER
+..XY (85919877, 95037748)
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (85919877, 95037748) (85919877, 95037748)
+.HANGER
+..XY (85920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (85920124, 95027419) (85920124, 95027419)
+.HANGER
+..XY (85920124, 95027419)
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (85920124, 95027419) (85920124, 95027419)
+.PLANE_ISLAND
+..XY (56960705, 26389561)
+..LYR 1
+..NET "GND_SIGNAL"
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (74020124, 95127419) (74020124, 95127419)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (78020124, 95127419) (78020124, 95127419)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (82020124, 95127419) (82020124, 95127419)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 1
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (86020124, 95127419) (86020124, 95127419)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (74019877, 95137748) (74019877, 95137748)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (78019877, 95137748) (78019877, 95137748)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (82019877, 95137748) (82019877, 95137748)
+.TRACE_LOOP
+..SINGLE YES
+..OBJECT
+...TRACE REGULAR
+....LYR 4
+....NET "(Net0)"
+....NETCLASS "(Default)"
+....XY (86019877, 95137748) (86019877, 95137748)
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3225000, 26700000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (3225000, 26700000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4125000, 26700000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (4125000, 26700000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4125000, 27600000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (4125000, 27600000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3225000, 28500000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (3225000, 28500000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 81650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 81650000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 73050000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 73050000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 71250000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 71250000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 71250000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 71250000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 73050000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 73050000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 70350000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 70350000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 73050000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 73050000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 72150000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 72150000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 72150000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 72150000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 72150000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 72150000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 71250000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 71250000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 70350000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 70350000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 80750000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 80750000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 79850000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 79850000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 79850000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 79850000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 79850000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 79850000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 81650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 81650000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 78950000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 78950000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 80750000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 80750000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 70350000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 70350000)
+.....LYR 1
+.....REF_DES "U1"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (79775000, 78950000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (79775000, 78950000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 78950000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 78950000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (78875000, 81650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (78875000, 81650000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (77975000, 80750000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "so08-EDP-2"
+.....XY (77975000, 80750000)
+.....LYR 1
+.....REF_DES "U2"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17150000, 50550000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (17150000, 50550000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (17150000, 49650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (17150000, 49650000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (15350000, 50550000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (15350000, 50550000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (49700000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (49700000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (51300000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (51300000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (52100000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (52100000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (50500000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (50500000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 38000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 38000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 38800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 38800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (46500000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (46500000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 37200000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 37200000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 34800000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 34800000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 35600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 35600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (47300000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (47300000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48100000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48100000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (48900000, 36400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (48900000, 36400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20470000, 37850000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (20470000, 37850000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (19670000, 37050000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (19670000, 37050000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (19670000, 36250000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (19670000, 36250000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (19670000, 35450000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (19670000, 35450000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (22070000, 37050000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (22070000, 37050000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (21270000, 37050000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (21270000, 37050000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20470000, 37050000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (20470000, 37050000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20470000, 35450000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (20470000, 35450000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (22070000, 35450000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (22070000, 35450000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (21270000, 36250000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (21270000, 36250000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (22070000, 36250000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (22070000, 36250000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (20470000, 36250000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (20470000, 36250000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (21270000, 35450000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (21270000, 35450000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (19670000, 37850000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (19670000, 37850000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (21270000, 37850000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (21270000, 37850000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (22070000, 37850000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "QFN-12X12-138L"
+.....XY (22070000, 37850000)
+.....LYR 1
+.....REF_DES "U5"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 39600000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 39600000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 40400000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 40400000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45700000, 34000000)
+.....PADSTACK "VIA_030_OM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DRQFN172-p0_50_13mm"
+.....XY (45700000, 34000000)
+.....LYR 1
+.....REF_DES "U4"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (16250000, 49650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (16250000, 49650000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (16250000, 50550000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (16250000, 50550000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (4125000, 28500000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (4125000, 28500000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (15350000, 49650000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN3030-10"
+.....XY (15350000, 49650000)
+.....LYR 1
+.....REF_DES "U3"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (3225000, 27600000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 1
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "DFN-12_PAD"
+.....XY (3225000, 27600000)
+.....LYR 1
+.....REF_DES "U10"
+......SIDE TOP
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45236740, 29050150)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "2V5_AH"
+..OBJECT_2
+...OBJECT
+....CMP "0603"
+.....XY (45236740, 29050150)
+.....LYR 4
+.....REF_DES "C84"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45512757, 28673640)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "2V5_AH"
+..OBJECT_2
+...OBJECT
+....CMP "0603"
+.....XY (45512757, 28673640)
+.....LYR 4
+.....REF_DES "C84"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (45200648, 28250150)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "2V5_AH"
+..OBJECT_2
+...OBJECT
+....CMP "0603"
+.....XY (45200648, 28250150)
+.....LYR 4
+.....REF_DES "C84"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (66628838, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (66628838, 47849800)
+.....LYR 4
+.....REF_DES "C65"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (67250150, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (67250150, 47849800)
+.....LYR 4
+.....REF_DES "C64"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (65428838, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (65428838, 47849800)
+.....LYR 4
+.....REF_DES "C66"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (66050150, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (66050150, 47849800)
+.....LYR 4
+.....REF_DES "C65"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (64850150, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (64850150, 47849800)
+.....LYR 4
+.....REF_DES "C66"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (64228838, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (64228838, 47849800)
+.....LYR 4
+.....REF_DES "C53"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (63028838, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (63028838, 47849800)
+.....LYR 4
+.....REF_DES "C54"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (63650150, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (63650150, 47849800)
+.....LYR 4
+.....REF_DES "C53"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (63650150, 51275361)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (63650150, 51275361)
+.....LYR 4
+.....REF_DES "C49"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (63025000, 51400000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (63025000, 51400000)
+.....LYR 4
+.....REF_DES "C61"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (67250450, 51276086)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (67250450, 51276086)
+.....LYR 4
+.....REF_DES "C63"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (66625000, 51400000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (66625000, 51400000)
+.....LYR 4
+.....REF_DES "C62"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (67825000, 51400000)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (67825000, 51400000)
+.....LYR 4
+.....REF_DES "C63"
+......SIDE BOTTOM
+.VIA_UNDER_SMD
+..OBJECT_1
+...OBJECT
+....VIA
+.....XY (67828838, 47849800)
+.....PADSTACK "VIA_030_CM_02"
+.....LYR 4
+.....NET "GND_SIGNAL"
+..OBJECT_2
+...OBJECT
+....CMP "0402"
+.....XY (67828838, 47849800)
+.....LYR 4
+.....REF_DES "C64"
+......SIDE BOTTOM
+.MISSING_PAD PASTE
+..SIDE TOP
+..NET "GND_SIGNAL"
+..PADSTACK "750SMD750_NOPASTE"
+..XY (49225000, 37200000)
+.MISSING_PAD PASTE
+..SIDE TOP
+..NET "GND_SIGNAL"
+..PADSTACK "PadSQ190x190"
+..XY (21200000, 36650000)

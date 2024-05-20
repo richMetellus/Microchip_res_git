@@ -1,0 +1,18 @@
+Mon Feb 07 17:45:07 2011
+
+iCDB version: ver.1.008 (build 397763 created 2010-04-20 11:51:09)
+iCDB engine version: ver.2.051 (build 397763 created 2010-04-20 11:51:09)
+iCDB snapshot: PCB_Layout_Temp
+iCDB top block: PCB
+CES client info: address: work-mag:mag:3248, session id: 0x434
+List of all iCDB clients:
+ => Client info: address: work-mag:mag:3964, session id: 0x428, offline: 0, offline seconds: 0
+    (*) Sub-client: Expedition PCB_861076328
+    (*) Sub-client: ExpeditionCrossProber
+ => Client info: address: work-mag:mag:3248, session id: 0x434, offline: 0, offline seconds: 0
+    (*) Sub-client: mag (BE CES)
+Loading "C:\MentorGraphics\2007.8EE\SDD_HOME\standard\ce_ee.cns"
+Note: Central Library: "H:\Mentor\Central_Library.lmc"
+Note: Layout Template is not set.
+Error: Migration process could not successfully convert the project -1142: Could not open CES database file.Note: iCDB connection status changed to: OnLine
+Note: iCDB server address: "work-mag"

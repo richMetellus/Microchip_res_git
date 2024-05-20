@@ -1,0 +1,92 @@
+[2016.05.25 14:07:42] [0000m.00s.032ms] [0] WELCOME
+[2016.05.25 14:07:42] [0000m.00s.059ms] [1] iCDB Server ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2016.05.25 14:07:42] [0000m.00s.059ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2016.05.25 14:07:42] [0000m.00s.059ms] [1] Base flow version [7.9.1]
+[2016.05.25 14:07:42] [0000m.00s.060ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2016.05.25 14:07:42] [0000m.00s.060ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2016.05.25 14:07:42] [0000m.00s.064ms] [1] Machine [HERENT0076]  User [mag]  PID [8952]
+[2016.05.25 14:07:42] [0000m.00s.064ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.05.25 14:07:42] [0000m.00s.064ms] [1] Current working dir [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\PCB]
+[2016.05.25 14:07:42] [0000m.00s.066ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2016.05.25 14:07:42] [0000m.00s.067ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2016.05.25 14:07:42] [0000m.00s.067ms] [1] SDD_PLATFORM [win32]
+[2016.05.25 14:07:42] [0000m.00s.067ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2016.05.25 14:07:42] [0000m.00s.067ms] [2] S: Loading config files
+[2016.05.25 14:07:42] [0000m.00s.072ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.05.25 14:07:42] [0000m.00s.074ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.05.25 14:07:42] [0000m.00s.076ms] [1] Config file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\cdbsvr\Server.cfg] not found
+[2016.05.25 14:07:42] [0000m.00s.081ms] [3] S: Config loaded
+[2016.05.25 14:07:42] [0000m.00s.175ms] [0] S: Project path [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.05.25 14:07:42] [0000m.00s.177ms] [0] S: Project global path [\\rumba.dk.vitesse.com\hardware\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.05.25 14:07:42] [0000m.00s.183ms] [0] S: Single-user mode (auto)
+[2016.05.25 14:07:42] [0000m.00s.183ms] [0] S: Event polling mode autodetection
+[2016.05.25 14:07:42] [0000m.00s.185ms] [0] S: Started up automatically by iCDB Client: HERENT0076:mag:7608
+[2016.05.25 14:07:42] [0000m.00s.185ms] [0] S: Auto close mode
+[2016.05.25 14:07:42] [0000m.00s.185ms] [0] S: Database ID [e8f3-3b89-1afd-aabe-e859-5473-9595-4750-0b60-fb49-37d1-20ee]
+[2016.05.25 14:07:42] [0000m.00s.185ms] [0] S: START
+[2016.05.25 14:07:42] [0000m.00s.189ms] [0] S: Server startup lock file created
+[2016.05.25 14:07:42] [0000m.00s.201ms] [0] S: Listening for client connections on port [10003]
+[2016.05.25 14:07:42] [0000m.00s.201ms] [0] S: Server network ID [HERENT0076:10.10.130.97,192.168.254.1,192.168.255.1,HERENT0076,HERENT0076.microsemi.net:10003]
+[2016.05.25 14:07:42] [0000m.00s.201ms] [0] S: Server GUID [f395-6001-0a68-d5e3-e859-5473-9595-4750-c0b0-fb49-37d1-20ee]
+[2016.05.25 14:07:42] [0000m.00s.223ms] [0] S: Project GUID [e8f3-3b89-1afd-aabe-e859-5473-9595-4750-0b60-fb49-37d1-20ee]
+[2016.05.25 14:07:42] [0000m.00s.244ms] [0] S: Wrote data to server address file
+[2016.05.25 14:07:42] [0000m.00s.247ms] [0] S: Server startup lock file removed
+[2016.05.25 14:07:42] [0000m.00s.456ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.05.25 14:07:42] [0000m.00s.458ms] [0] S: Local disc access time: 49 us
+[2016.05.25 14:07:42] [0000m.00s.458ms] [0] S: File server access time: 2059 us
+[2016.05.25 14:07:42] [0000m.00s.458ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2016.05.25 14:07:42] [0000m.00s.463ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [149752]
+[2016.05.25 14:07:42] [0000m.00s.466ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.05.25 14:07:42] [0000m.00s.468ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.05.25 14:07:42] [0000m.00s.479ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] closed with size [149752]
+[2016.05.25 14:07:42] [0000m.00s.487ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [149752]
+[2016.05.25 14:07:42] [0000m.00s.489ms] [1] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.05.25 14:07:42] [0000m.00s.492ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.05.25 14:07:42] [0000m.00s.492ms] [0] SingleFile: [ccbd-7b46-e665-12fd] SFI version check [1008] [1008]
+[2016.05.25 14:07:42] [0000m.00s.494ms] [0] SingleFile: [ccbd-7b46-e665-12fd] Reset holes information - force defragmentation
+[2016.05.25 14:07:42] [0000m.00s.498ms] [0] iCDB Server PI: Server & plugin session [2700]
+[2016.05.25 14:07:42] [0000m.00s.498ms] [0] iCDB Server PI: Opening database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb]
+[2016.05.25 14:07:42] [0000m.00s.498ms] [0] iCDB Server PI: Database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] opened
+[2016.05.25 14:07:42] [0000m.00s.551ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.05.25 14:07:42] [0000m.00s.551ms] [0] iCDB Database: Checking constraint definitions version
+[2016.05.25 14:07:42] [0000m.00s.587ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6;user.cns=c90c-abdf-b493-99ef-aebf-1f3f-ebf1-f350-cc9f-edab-2563-3352] up to date
+[2016.05.25 14:07:42] [0000m.00s.588ms] [0] iCDB Server PI: Initializing plugins
+[2016.05.25 14:07:42] [0000m.00s.594ms] [0] iCDB Server PI: Plugins initialized
+[2016.05.25 14:07:42] [0000m.00s.594ms] [0] S: iCDB database loaded
+[2016.05.25 14:07:42] [0000m.00s.595ms] [0] S: Starting threads
+[2016.05.25 14:07:42] [0000m.00s.595ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.05.25 14:07:42] [0000m.00s.596ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.05.25 14:07:42] [0000m.00s.596ms] [0] IT: Session [2701] for host [HERENT0076] user [mag] with process ID [7608] created
+[2016.05.25 14:07:42] [0000m.00s.597ms] [1] SC[2701]: Registered sub-client [EEVM_EEVM_129353492] with ID [1] for session ID [2701] host [HERENT0076] user [mag] process ID [7608]
+[2016.05.25 14:07:42] [0000m.00s.599ms] [0] IT: iCDB Server Monitor session [1] for host [HERENT0076] user [mag] with process ID [5244] created
+[2016.05.25 14:07:42] [0000m.00s.599ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2016.05.25 14:07:42] [0000m.00s.604ms] [1] SC[2701]: UnRegistered sub-client [EEVM_EEVM_129353492] with ID [1] for session ID [2701] host [HERENT0076] user [mag] process ID [7608]
+[2016.05.25 14:07:43] [0000m.00s.696ms] [1] CMT: There are [1] clients now
+[2016.05.25 14:07:43] [0000m.00s.696ms] [1] CMT: Removed client [2701]
+[2016.05.25 14:07:43] [0000m.00s.696ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.05.25 14:07:43] [0000m.01s.099ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2016.05.25 14:07:45] [0000m.02s.696ms] [0] CMT: Starting server auto-close
+[2016.05.25 14:07:45] [0000m.02s.699ms] [0] S: Closing server
+[2016.05.25 14:07:45] [0000m.02s.899ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2016.05.25 14:07:45] [0000m.02s.900ms] [0] iCDB Server PI: Closing plugins
+[2016.05.25 14:07:45] [0000m.02s.900ms] [0] iCDB Server PI: Plugins closed
+[2016.05.25 14:07:45] [0000m.02s.900ms] [0] iCDB Server PI: Unloading database
+[2016.05.25 14:07:45] [0000m.02s.913ms] [0] iCDB Server PI: Saving storage
+[2016.05.25 14:07:45] [0000m.02s.913ms] [0] iCDB Server PI: Closing database
+[2016.05.25 14:07:45] [0000m.02s.915ms] [1] iCDB Server PI: Stats: Database defragmentation: max[3] avg[1] holes[0%] data[100%]
+[2016.05.25 14:07:45] [0000m.02s.915ms] [1] iCDB Server PI: Stats: Database file size [149892] bytes
+[2016.05.25 14:07:45] [0000m.02s.917ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.05.25 14:07:45] [0000m.02s.932ms] [0] iCDB Server PI: Database closed
+[2016.05.25 14:07:45] [0000m.02s.933ms] [0] iCDB Server PI: Defragmenting database
+[2016.05.25 14:07:45] [0000m.02s.936ms] [0] iCDB Server PI: Backuping database [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb] to file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\cdbback\2016-05-25 14.07.45-8952-d.zip]
+[2016.05.25 14:07:45] [0000m.03s.526ms] [0] iCDB Server PI: Backup database: DONE
+[2016.05.25 14:07:45] [0000m.03s.562ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.05.25 14:07:45] [0000m.03s.564ms] [0] SingleFile: [ccbd-7b46-e665-12fd] SFI version check [1008] [1008]
+[2016.05.25 14:07:46] [0000m.03s.627ms] [1] iCDB Server PI: Stats: Database file size: before[149892], after[146224], gain[3668]
+[2016.05.25 14:07:46] [0000m.03s.647ms] [0] Single file [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] closed with size [146224]
+[2016.05.25 14:07:46] [0000m.03s.651ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.05.25 14:07:46] [0000m.03s.653ms] [1] BackupTransaction: Removing database backup [H:\PCB100-199\PCB121_Ferret_Cu8_SFP2_Unmngd_ref_board\Rev1\Layout\working\keyin.icdb\cdbback\2016-05-25 14.07.45-8952-d.zip]
+[2016.05.25 14:07:46] [0000m.03s.665ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [0] ticks
+[2016.05.25 14:07:46] [0000m.03s.667ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [0] microseconds
+[2016.05.25 14:07:46] [0000m.03s.670ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [0]
+[2016.05.25 14:07:46] [0000m.03s.796ms] [0] S: STOP

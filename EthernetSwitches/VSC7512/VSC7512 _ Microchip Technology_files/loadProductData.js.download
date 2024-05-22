@@ -1,0 +1,84 @@
+﻿/**
+  * @desc This javascript file can be used by external sites to bring microchipDirect Product page
+  * Use this as an external script
+  * @required -- register the external domain with mirochipDIRECT to enable CORS
+*/
+
+var mDBaseURL = "https://www.microchipdirect.com";
+
+function getmDProductPage(deviceFamilyName) {
+    productFamily = deviceFamilyName;
+    var tag_id = document.getElementById('BuyProductsTable');
+    // We are loading this JS file in Marcom BuyProducts & Parametric Charts in .com pages, so making sure no console erros even when tag ID is missing.
+    if (tag_id !== null && typeof tag_id !== 'undefined') {
+        var time = new Date();
+        $.ajax({
+            url: mDBaseURL + "/api/product/MarcomProductPage?deviceFamily=" + deviceFamilyName + "&_t=" + time.getDate() + time.getMonth() + time.getFullYear(),
+            type: "GET",
+            timeout: 5000,
+            cache: true,
+            crossDomain: true,
+            xhrFields: { withCredentials: true },
+            success: function (responsedata) {
+                tag_id.innerHTML = responsedata;
+            },
+            error: function (xhr, textStatus, thrownError) {
+                console.log(thrownError);
+                if (textStatus === 'timeout') {
+                    var message = 'Something didn’t work, please refresh the page or visit ' +
+                        '<a href="' + mDBaseURL + '" target="_blank">' + mDBaseURL + '</a> ' +
+                        'to search and add products to cart.';
+                    tag_id.innerHTML = message;
+                }
+            }
+        });
+    }
+    
+}
+function getmDParamChartDetails(deviceFamilyName) {
+    productFamily = deviceFamilyName;
+    var tag_id = document.getElementById('param-chart-table');
+    var time = new Date();
+    $.ajax({
+        url: mDBaseURL + "/api/product/ParametricChart?deviceFamily=" + deviceFamilyName + "&_t=" + time.getDate() + time.getMonth() + time.getFullYear(),
+        type: "GET",
+        timeout: 5000,
+        cache: true,
+        crossDomain: true,
+        xhrFields: { withCredentials: true },
+        success: function (responsedata) {
+            tag_id.innerHTML = responsedata;
+        },
+        error: function (xhr, textStatus, thrownError) {
+            console.log(thrownError);
+            if (textStatus === 'timeout') {
+                var message = 'Something didn’t work, please refresh the page or visit ' +
+                    '<a href="' + mDBaseURL + '" target="_blank">' + mDBaseURL + '</a> ' +
+                    'to search and add products to cart.';
+                tag_id.innerHTML = message;
+            }
+        }
+    });
+}
+
+function addToCart(cntrl, cpnId, imageUrl, minOrderQty, maxOrderQty) {
+    if (cntrl.parent())
+        qtyCntrl = cntrl.parent().find('[name=QtyAmt]');
+    else
+        qtyCntrl = cntrl.prev();
+
+    var prodQty = qtyCntrl.val();
+    productImageUrl = imageUrl;
+    microchipDIRECT.addToCart(cpnId, prodQty);
+}
+
+$(function () {
+    var x = document.getElementById("BuyProductsTable")
+    let deviceFamily = ''
+    if (x !== null && typeof x !== 'undefined' && x.hasAttribute('partnumber')) {
+        deviceFamily = x.getAttribute('partnumber')
+    }
+     
+    getmDProductPage(deviceFamily)
+       
+});

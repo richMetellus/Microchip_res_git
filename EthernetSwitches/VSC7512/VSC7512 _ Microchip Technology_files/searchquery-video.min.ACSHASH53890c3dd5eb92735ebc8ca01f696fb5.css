@@ -1,0 +1,68 @@
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-Regular.ttf')}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-Italic.ttf');font-style:italic}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-Bold.ttf');font-weight:700}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-BoldItalic.ttf');font-weight:700;font-style:italic}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-SemiBold.ttf');font-weight:600}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-SemiBoldItalic.ttf');font-weight:600;font-style:italic}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-Light.ttf');font-weight:300}
+@font-face{font-family:'Open Sans';src:url('../../../../../etc.clientlibs/mchp/clientlibs/clientlib-site/resources/Open_Sans/OpenSans-LightItalic.ttf');font-weight:300;font-style:italic}
+.default-font-family{font-family:'Open Sans',sans-serif}
+.font-family-sans{font-family:"Open Sans",sans-serif}
+.h1-mixin{color:#34333e;font-size:35px;font-weight:700;line-height:40px;font-family:'Open Sans',sans-serif}
+.h2-mixin{font-size:23px;font-weight:600;line-height:27px;font-family:'Open Sans',sans-serif}
+.h3-mixin{font-size:17px;font-weight:600;line-height:20px;font-family:'Open Sans',sans-serif}
+.h4-5-6-mixin{font-size:15px;font-weight:700;line-height:24px;font-family:'Open Sans',sans-serif}
+.p-mixin,.td-mixin{font-size:15px;font-weight:400;line-height:24px;font-family:'Open Sans',sans-serif}
+.form-field-label{font-size:17px;font-weight:500;line-height:null;font-family:"Open Sans",sans-serif}
+.searchquery-video h2.video-title-center{text-align:center}
+.searchquery-video .limit-max-width{margin-right:auto;margin-left:auto}
+.searchquery-video .iframe-container{padding-top:56.25%;position:relative}
+.searchquery-video .iframe-container iframe{width:100%;border:0;border-radius:8px;position:absolute;height:100%;top:0;left:0;bottom:0;right:0}
+.searchquery-video [data-video-player] *,.searchquery-video [data-video-player-playlist] *{margin:0;padding:0;box-sizing:border-box;outline:0;border:0;text-decoration:none}
+.searchquery-video [data-video-player] video{border-radius:6px;max-width:100%}
+.searchquery-video [data-video-player] .main-player-container{text-align:center}
+.searchquery-video [data-video-player-playlist] .player-container{max-width:1200px;margin:100px auto;display:flex;flex-wrap:wrap;align-items:flex-start;gap:20px}
+.searchquery-video [data-video-player-playlist] .player-container .main-player-container{flex:1 1 700px;border-radius:6px;box-shadow:0 5px 15px rgba(0,0,0,0.1);background-color:#fff;padding:15px}
+.searchquery-video [data-video-player-playlist] .player-container .main-player-container .main-video{margin-bottom:7px;border-radius:6px;width:100%}
+.searchquery-video [data-video-player-playlist] .player-container .main-player-container .main-vid-title{font-size:20px;color:#53575a}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container{flex:1 1 350px;height:485px;overflow-y:scroll;border-radius:6px;box-shadow:0 5px 15px rgba(0,0,0,0.1);background-color:#fff;padding:15px}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container input{border-radius:6px;padding:10px;box-shadow:0 5px 15px rgba(0,0,0,0.1);width:100%;margin-bottom:10px;background-color:#fff;border:2px solid #e6e6e6;font-size:17px}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .note{padding:10px;text-align:center;color:#53575a;display:none}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list{display:flex;gap:15px;padding:10px;background-color:#e6e6e6;cursor:pointer;border-radius:6px;margin-bottom:10px;position:relative}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list .list-label{position:absolute;color:#fff;padding-top:4px;padding-bottom:4px;padding-left:6px;padding-right:6px;background-color:#000;border-radius:3px;opacity:.75;margin-top:6px;margin-left:6px;font-size:12px;line-height:14px;font-weight:600;min-width:20px;text-align:center}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list .list-label i{margin-left:8px;margin-right:2px;margin-top:-2px;font-size:10px;vertical-align:middle}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list .list-label i.fa-play{animation:heartbeat 3s ease infinite}
+@keyframes heartbeat{0{transform:scale(1)}
+5%{transform:scale(1.25)}
+20%{transform:scale(1)}
+30%{transform:scale(1)}
+35%{transform:scale(1.25)}
+50%{transform:scale(1)}
+55%{transform:scale(1.25)}
+70%{transform:scale(1)}
+}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list img{width:120px;border-radius:6px;align-self:self-start !important}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list .list-title{font-size:17px;color:#53575a}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list:last-child{margin-bottom:0}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list.active,.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list:hover{background-color:#53575a}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list.active .list-title,.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list:hover .list-title,.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list.active .list-details,.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list:hover .list-details{color:#fff}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container::-webkit-scrollbar{width:10px}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container::-webkit-scrollbar-track{background-color:#fff;border-radius:6px}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container::-webkit-scrollbar-thumb{background-color:#53575a;border-radius:6px;margin-right:4px}
+@media(max-width:1200px){.searchquery-video [data-video-player-playlist] .player-container{margin:0}
+}
+@media(max-width:450px){.searchquery-video [data-video-player-playlist] .player-container .main-player-container .main-vid-title{font-size:15px;text-align:center}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list{flex-flow:column;gap:10px}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list img{width:100%}
+.searchquery-video [data-video-player-playlist] .player-container .video-list-container .list .list-title{font-size:15px;text-align:center}
+}
+.videoTabStrip::-webkit-scrollbar{height:12px}
+.videoTabStrip::-webkit-scrollbar-track{background-color:#fff;border-radius:6px}
+.videoTabStrip::-webkit-scrollbar-thumb{background-color:#53575a;border-radius:6px}
+.videoTabStrip{overflow:auto;display:flex;gap:20px;padding-top:10px;padding-bottom:15px}
+.videoTabStrip div:hover i,.videoTabStrip div.active i{transition:.6s ease;opacity:.9;transform:scale(1.2);text-shadow:0 0 40px #000}
+.videoTabStrip div{border-radius:8px;box-shadow:5px 5px 10px #646464;line-height:0;cursor:pointer;text-align:center}
+.videoTabStrip div div{align-items:center;background-size:contain !important}
+.videoTabStrip div i{color:white;opacity:.5;text-shadow:0 0 30px #252525}
+.videoTabContent{display:none}
+.videoTabContent .player-container{margin-top:10px !important;margin-bottom:40px !important}

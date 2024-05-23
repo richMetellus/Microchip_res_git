@@ -1,0 +1,196 @@
+function videoPlayer() {
+    if (typeof window.videoPlayerTimer !== 'undefined') {
+        clearTimeout(window.videoPlayerTimer);
+    }
+    window.videoPlayerTimer = setTimeout(function () {
+        const identDataVideoID = 'data-video-id';
+        const selectPlaylists = $('[data-video-player-playlist]').not('.videoPlayerLoaded');
+        const selectVideos = $('[data-video-player]').not('.videoPlayerLoaded');
+        if(selectVideos.length > 0 || selectPlaylists.length > 0){
+            const player = function(id){
+                const embedCode = `
+                    <div class="main-player-container">
+                        <video src="https://media.microchip.com/videos/${id}.mp4" class="main-video" controls poster="https://media.microchip.com/videos/${id}.jpg"></video>
+                        <h3 class="main-vid-title"></h3>
+                    </div>              
+                `;
+                return embedCode;
+            };  
+            selectPlaylists.each(function(){
+                const element = $(this);
+                const autoHeight = function(){
+                    if(element.find('.player-container').width() >= 1070){ //only if not responsive
+                        const img = new Image();
+                        img.src = element.find('video').prop('poster');
+                        img.onload = function(){
+                            setTimeout(() => {
+                                element.find('.video-list-container').height(element.find('.main-player-container').height());
+                            }, 300);
+                        }
+                    }
+                };
+                const playVideo = function(ytid,scrollTo){
+                    scrollTo = scrollTo || false;
+                    const posterURL = 'https://media.microchip.com/videos/' + ytid + '.large.jpg';
+                    const videoURL = 'https://media.microchip.com/videos/' + ytid + '.mp4';
+                    const video = element.find('video').get(0);
+                    video.pause();
+                    video.currentTime = 0;
+                    element.find('[' + identDataVideoID + ']').removeClass('active');
+                    element.find('[' + identDataVideoID + '="' + ytid + '"]').addClass('active');
+                    element.find('[' + identDataVideoID + ']').find('.list-label i').remove();
+                    element.find('[' + identDataVideoID + '="' + ytid + '"]').find('.list-label').append('<i class="fas fa-spinner fa-pulse"></i>');
+                    if(element.parents('.template-single').length === 0){
+                        window.location.hash = 'play-' + ytid;
+                    }
+                    const img = new Image();
+                    img.src = posterURL;
+                    img.onload = function(){
+                        element.find('video').prop('poster',posterURL);
+                        element.find('video').prop('src',videoURL);
+                        element.find('.main-vid-title').html(element.find('[' + identDataVideoID + '="' + ytid + '"] .list-title').text());
+                        video.play();
+                        autoHeight();
+                    }
+                    video.onloadeddata = function(){ //adding play icon
+                        element.find('[' + identDataVideoID + ']').find('.list-label i').remove();
+                        element.find('[' + identDataVideoID + '="' + ytid + '"]').find('.list-label').append('<i class="fas fa-play"></i>');
+                    }
+                    video.onended = function(){ //auto play next item in the playlist (only visible items, others might be hidden due to search)
+                        element.find('.active').nextAll(':visible').first().click();
+                    }
+                    if(scrollTo){
+                        setTimeout(() => {
+                            element.find('[' + identDataVideoID + '="' + ytid + '"]')[0].scrollIntoView({behavior: "smooth", block: "center", inline: "nearest"});
+                        }, 500);
+                    }
+                };
+
+                const Items = element.data('video-player-playlist');
+                let embedCode = player(Items[0].id);
+                embedCode += '<div class="video-list-container">';
+                if(Items.length >= 10){
+                    embedCode += '<input type="text" placeholder="Search List ...">';
+                    embedCode += '<div class="note">Nothing Found!</div>';
+                }
+                let counter = 0;
+                Items.forEach(function(item){
+                    counter ++;
+                    const info = [
+                        'Date ' + item.published,
+                        // 'Views ' + item.viewCount.toString().replace(/\B(?=(\d{3})+(?!\d))/g, "."),
+                        'Duration ' + String(item.duration).toHHMMSS().trim()
+                    ];
+                    embedCode += `
+                        <div class="list" data-tooltip="${info.join("<br>")}" ${identDataVideoID}="${item.id}" data-tooltip-position="top">
+                            <div class="list-label">${counter}</div>
+                            <img class="list-video" src="https://media.microchip.com/videos/${item.id}.small.jpg" />
+                            <h3 class="list-title">${item.title}</h3>
+                        </div>
+                    `;
+                });
+                embedCode += '</div>';
+                element.html(`
+                    <div class="player-container">
+                        ${embedCode}
+                    </div>
+                `);
+
+                autoHeight();
+                element.find('.video-list-container .list[' + identDataVideoID + '="' + Items[0].id + '"]').addClass('active');
+                element.find('.main-player-container h3').text(Items[0].title);
+
+                element.find('input').off('keyup').on('keyup',function(){
+                    element.find('.note').hide();
+                    const inputText = $(this).val();
+                    if(inputText.length >= 3){
+                        let foundCounter = 0;
+                        element.find('.video-list-container .list').each(function(){
+                            if($(this).find('h3').text().minimize().includes(inputText.minimize())){
+                                $(this).show();
+                                foundCounter ++;
+                            } else {
+                                $(this).hide();
+                            }
+                        });
+                        if(foundCounter < 1){
+                            element.find('.note').show();
+                        }
+                    } else {
+                        element.find('.video-list-container .list').show();
+                    }
+                });
+
+                element.find('[' + identDataVideoID + ']').off('click').on('click',function(){
+                    playVideo($(this).data('video-id'));
+                });
+
+                const hash = window.location.hash;
+                if(element.find('.video-list-container .list[' + identDataVideoID + '="' + hash.replace('#play-','') + '"]').length){
+                    playVideo(hash.replace('#play-',''),true);
+                }
+
+                $(this).addClass('videoPlayerLoaded');
+            });
+            selectVideos.each(function(){
+                $(this).addClass('videoPlayerLoaded');
+                $(this).html(`<div class="player-container">${player($(this).data('video-player'))}</div>`);
+            });
+            videoPlayer();
+        }
+    }, 400);
+}
+function calcNewDimension(srcWidth, srcHeight, maxWidth, maxHeight) {
+    const dim = Math.min(maxWidth / srcWidth, maxHeight / srcHeight);
+    return { width: srcWidth * dim, height: srcHeight * dim };
+ }
+function enableIframes(){
+    if (typeof window.enableIframesTimer !== 'undefined') {
+        clearTimeout(window.enableIframesTimer);
+    }
+    window.enableIframesTimer = setTimeout(() => {
+        $('iframe[src="about:blank"]:visible').each(function(){
+            if($(this).isInViewport()){
+                $(this).prop('src',$(this).data('src'));
+            }
+        });
+        enableIframes();
+    }, 300);
+}
+
+$(function () {
+    setTimeout(() => {
+        videoPlayer();
+        enableIframes();
+    }, 0);
+    const elementStripItem = $('.videoTabStrip [data-id]');
+    $('.videoTabContent').first().show();
+    elementStripItem.first().addClass('active');
+    elementStripItem.off('click').on('click',function(){
+        $('.videoTabContent').hide();
+        $('.videoTabContent[data-id="' + $(this).data('id') + '"]').show();
+        elementStripItem.removeClass('active');
+        $(this).addClass('active');
+        $('[data-video-player] video,[data-video-player-playlist] video').each(function() { //stop all media.microchip.com videos when changing tab
+            $(this).get(0).pause();
+        });
+        $('.videoTabContent iframe').each(function() { //stop all youtube videos when changing tab
+            $(this).prop('src','about:blank');
+        });
+    });
+    elementStripItem.each(function(){
+        const maxHeight = 90;
+        const parentElement = $(this);
+        const img = new Image();
+        img.src = parentElement.data('thumbnail');
+        img.onload = function() {
+            const dimensions = calcNewDimension(this.width,this.height,99999,maxHeight);
+            const newHeight = dimensions.height;
+            const newWidth = dimensions.width;
+            const style = 'height: ' + newHeight + 'px; width: ' + newWidth + 'px; background-image: url(\'' + parentElement.data('thumbnail') + '\');';
+            parentElement.find('div').first().prop('style',style);
+            const icon = parentElement.find('div i').first();
+            icon.attr('style','margin-top: ' + ((newHeight / 2) - (icon.height() / 2)) + 'px;');
+        }
+    });
+});

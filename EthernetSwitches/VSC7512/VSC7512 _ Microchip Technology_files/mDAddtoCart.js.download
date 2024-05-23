@@ -1,0 +1,15 @@
+﻿/**
+  * @desc This javascript file can be used by external sites to bring microchipDirect Product page
+  * Use this as an external script
+  * @required -- register the external domain with mirochipDIRECT to enable CORS
+*/
+
+
+$(function () {
+    var x = document.getElementsByClassName("addtocart")
+    for (i = 0; i < x.length; i++) {
+        if (x[i].hasAttribute('partnumber') && !x[i].hasAttribute('onclick') ) {
+            x[i].setAttribute("onclick", "microchipDIRECT.addToCart('" + x[i].getAttribute('partnumber')+"',1)")
+        }
+    }
+});

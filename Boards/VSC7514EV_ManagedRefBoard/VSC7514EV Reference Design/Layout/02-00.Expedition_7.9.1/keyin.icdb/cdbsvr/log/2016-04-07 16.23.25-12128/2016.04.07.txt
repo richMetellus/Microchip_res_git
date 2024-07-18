@@ -1,0 +1,68 @@
+[2016.04.07 16:23:26] [0000m.00s.054ms] [0] WELCOME
+[2016.04.07 16:23:26] [0000m.00s.082ms] [1] iCDB Server ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2016.04.07 16:23:26] [0000m.00s.082ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2016.04.07 16:23:26] [0000m.00s.082ms] [1] Base flow version [7.9.1]
+[2016.04.07 16:23:26] [0000m.00s.082ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2016.04.07 16:23:26] [0000m.00s.082ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2016.04.07 16:23:26] [0000m.00s.090ms] [1] Machine [HERENT0076]  User [mag]  PID [12128]
+[2016.04.07 16:23:26] [0000m.00s.090ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.04.07 16:23:26] [0000m.00s.090ms] [1] Current working dir [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB]
+[2016.04.07 16:23:26] [0000m.00s.092ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2016.04.07 16:23:26] [0000m.00s.092ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2016.04.07 16:23:26] [0000m.00s.092ms] [1] SDD_PLATFORM [win32]
+[2016.04.07 16:23:26] [0000m.00s.092ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2016.04.07 16:23:26] [0000m.00s.093ms] [2] S: Loading config files
+[2016.04.07 16:23:26] [0000m.00s.095ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.04.07 16:23:26] [0000m.00s.096ms] [1] Config: WARNING: Line [99]: Default value ignored. Default key [SystemMemoryMonitor.StableMargin_Percentage] already defined at line [91]
+[2016.04.07 16:23:26] [0000m.00s.098ms] [1] Config file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\cdbsvr\Server.cfg] not found
+[2016.04.07 16:23:26] [0000m.00s.102ms] [3] S: Config loaded
+[2016.04.07 16:23:26] [0000m.00s.177ms] [0] S: Project path [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.04.07 16:23:26] [0000m.00s.179ms] [0] S: Project global path [\\rumba.dk.vitesse.com\hardware\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb] on file system [NTFS]
+[2016.04.07 16:23:26] [0000m.00s.184ms] [0] S: Single-user mode (auto)
+[2016.04.07 16:23:26] [0000m.00s.184ms] [0] S: Event polling mode autodetection
+[2016.04.07 16:23:26] [0000m.00s.186ms] [0] S: Started up automatically by iCDB Client: HERENT0076:mag:12080
+[2016.04.07 16:23:26] [0000m.00s.186ms] [0] S: Auto close mode
+[2016.04.07 16:23:26] [0000m.00s.186ms] [0] S: Database ID [b2ad-c528-1371-8bdc-f8ae-cf64-9aec-f650-4711-fb49-37d1-20ee]
+[2016.04.07 16:23:26] [0000m.00s.186ms] [0] S: START
+[2016.04.07 16:23:26] [0000m.00s.190ms] [0] S: Server startup lock file created
+[2016.04.07 16:23:26] [0000m.00s.195ms] [0] S: Listening for client connections on port [10002]
+[2016.04.07 16:23:26] [0000m.00s.196ms] [0] S: Server network ID [HERENT0076:10.10.130.97,192.168.254.1,192.168.255.1,HERENT0076,HERENT0076.microsemi.net:10002]
+[2016.04.07 16:23:26] [0000m.00s.196ms] [0] S: Server GUID [43c9-f60c-73ad-fc52-e5d6-6073-6d66-0750-8cd0-fb49-37d1-20ee]
+[2016.04.07 16:23:26] [0000m.00s.246ms] [0] S: Project GUID [fb55-e6ba-cca9-e5f2-e5d6-6073-6d66-0750-8cd0-fb49-37d1-20ee]
+[2016.04.07 16:23:26] [0000m.00s.260ms] [0] S: Wrote data to server address file
+[2016.04.07 16:23:26] [0000m.00s.264ms] [0] S: Server startup lock file removed
+[2016.04.07 16:23:26] [0000m.00s.302ms] [0] S: Plugins loaded: [PIM] [ENetGen70] 
+[2016.04.07 16:23:26] [0000m.00s.304ms] [0] S: Local disc access time: 47 us
+[2016.04.07 16:23:26] [0000m.00s.304ms] [0] S: File server access time: 2013 us
+[2016.04.07 16:23:26] [0000m.00s.304ms] [0] S: Server will not release in-memory storage after read (memory usage overhead) - for better performance
+[2016.04.07 16:23:26] [0000m.00s.310ms] [0] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [256176]
+[2016.04.07 16:23:26] [0000m.00s.312ms] [1] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.04.07 16:23:26] [0000m.00s.316ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.04.07 16:23:26] [0000m.00s.327ms] [0] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] closed with size [256176]
+[2016.04.07 16:23:26] [0000m.00s.335ms] [0] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] size [256176]
+[2016.04.07 16:23:26] [0000m.00s.337ms] [1] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] opened in read-write mode
+[2016.04.07 16:23:26] [0000m.00s.341ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.04.07 16:23:26] [0000m.00s.342ms] [0] SingleFile: [5e0d-3377-61f1-1d22] SFI version check [1008] [1008]
+[2016.04.07 16:23:26] [0000m.00s.345ms] [0] SingleFile: [5e0d-3377-61f1-1d22] Reset holes information - force defragmentation
+[2016.04.07 16:23:26] [0000m.00s.352ms] [0] iCDB Server PI: Server & plugin session [2964]
+[2016.04.07 16:23:26] [0000m.00s.352ms] [0] iCDB Server PI: Opening database [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb]
+[2016.04.07 16:23:26] [0000m.00s.352ms] [0] iCDB Server PI: Database [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb] opened
+[2016.04.07 16:23:26] [0000m.00s.374ms] [0] iCDB Database: Checking existence of constraint definitions
+[2016.04.07 16:23:26] [0000m.00s.374ms] [0] iCDB Database: Checking constraint definitions version
+[2016.04.07 16:23:26] [0000m.00s.437ms] [1] iCDB Database: Constraint definitions version [ce_ee.cns=7.10.6;user.cns=c90c-abdf-b493-99ef-aebf-1f3f-ebf1-f350-cc9f-edab-2563-3352] up to date
+[2016.04.07 16:23:26] [0000m.00s.438ms] [0] iCDB Server PI: Initializing plugins
+[2016.04.07 16:23:26] [0000m.00s.445ms] [0] iCDB Server PI: Plugins initialized
+[2016.04.07 16:23:26] [0000m.00s.445ms] [0] S: iCDB database loaded
+[2016.04.07 16:23:26] [0000m.00s.446ms] [0] S: Starting threads
+[2016.04.07 16:23:26] [0000m.00s.446ms] [0] BT: Listening for broadcast messages on port [10000]
+[2016.04.07 16:23:26] [0000m.00s.447ms] [1] CMT: There are no clients - waiting [10 seconds]
+[2016.04.07 16:23:26] [0000m.00s.448ms] [0] IT: ERROR: Creating new session with client [HERENT0076:56632] using command [Server # ClientCommandID[1] # SubClientID[0] @ Hello # ServerGUID[43c9-f60c-73ad-fc52-e5d6-6073-6d66-0750-8cd0-fb49-37d1-20ee] # ProjectGUID[b2ad-c528-1371-8bdc-f8ae-cf64-9aec-f650-4711-fb49-37d1-20ee] # ProjectPath[\\rumba.dk.vitesse.com\hardware\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb] # ClientNetAddress[HERENT0076] # ClientUserName[mag] # ClientProcessID[12080] # ClientVersion[Aw7Bk48lEKyHZL+1aadrIg] # EventPolling[0] # ServerConfigName[] # Create[0]]: Client Exception: Category[Client] Error[ServerChanged] Description[Running server for the project has changed] Message[Could not create new session with client [HERENT0076:56632] - project GUID mismatch]
+[2016.04.07 16:23:26] [0000m.00s.448ms] [0] IT: ERROR: Failed creating new session [0] with client [HERENT0076:56632]
+[2016.04.07 16:23:26] [0000m.00s.448ms] [0] IT: ERROR: Client [HERENT0076:56632] session initialization FAILED
+[2016.04.07 16:23:26] [0000m.00s.545ms] [0] IT: Session [2965] for host [HERENT0076] user [mag] with process ID [12080] created
+[2016.04.07 16:23:26] [0000m.00s.546ms] [1] SC[2965]: Registered sub-client [Expedition_1809230752] with ID [1] for session ID [2965] host [HERENT0076] user [mag] process ID [12080]
+[2016.04.07 16:23:26] [0000m.00s.547ms] [1] CMT: There are [1] clients now
+[2016.04.07 16:23:26] [0000m.00s.550ms] [0] IT: iCDB Server Monitor session [1] for host [HERENT0076] user [mag] with process ID [5524] created
+[2016.04.07 16:23:26] [0000m.00s.550ms] [1] DMT: There are [1] iCDB Server Monitor connected now
+[2016.04.07 16:23:26] [0000m.00s.590ms] [1] SC[2965]: Registered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2965] host [HERENT0076] user [mag] process ID [12080]
+[2016.04.07 16:23:45] [0000m.19s.518ms] [0] DFAMT: File server access time: 3670 us

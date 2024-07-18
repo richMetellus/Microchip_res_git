@@ -1,0 +1,543 @@
+
+                            PCB Padstack to ASCII Log
+                            -------------------------
+
+                         01:42 PM Monday, April 14, 2008
+                                   Job Name: 
+
+
+Overwriting existing Padstack ASCII file 'H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\01-00\ExpeditionPCB\Work\Layout_Temp\CES\Padstack.hkp'.
+
+
+
+Processing All Custom Drill Symbols...
+
+No Custom Drill Symbols found.
+
+
+Processing All Pads...
+
+    Current units : MM
+
+    Processing Pad 'CIRCLE 3.800'
+    Processing Pad 'CIRCLE 4.200'
+    Processing Pad 'CIRCLE 0.500'
+    Processing Pad 'CIRCLE 0.900'
+    Processing Pad 'RECTANGLE 0.300x1.400'
+    Processing Pad 'RECTANGLE 0.400x1.500'
+    Processing Pad 'RECTANGLE 1.800x3.200'
+    Processing Pad 'RECTANGLE 2.000x3.400'
+    Processing Pad 'CIRCLE 5.000'
+    Processing Pad 'CIRCLE 5.200'
+    Processing Pad 'RECTANGLE 0.500x0.600'
+    Processing Pad 'RECTANGLE 0.700x0.800'
+    Processing Pad 'RECTANGLE 0.350x1.400'
+    Processing Pad 'RECTANGLE 0.550x1.600'
+    Processing Pad 'RECTANGLE 1.199x1.900'
+    Processing Pad 'RECTANGLE 1.400x2.101'
+    Processing Pad 'CIRCLE 4.000'
+    Processing Pad 'RECTANGLE 1.800x0.600'
+    Processing Pad 'RECTANGLE 2.000x0.800'
+    Processing Pad 'RECTANGLE 1.700x5.600'
+    Processing Pad 'RECTANGLE 1.900x5.800'
+    Processing Pad 'SQUARE 1.500'
+    Processing Pad 'SQUARE 1.700'
+    Processing Pad 'RECTANGLE 0.250x0.350'
+    Processing Pad 'RECTANGLE 0.450x0.550'
+    Processing Pad 'RECTANGLE 2.800x3.800'
+    Processing Pad 'RECTANGLE 3.000x4.000'
+    Processing Pad 'RECTANGLE 0.450x1.200'
+    Processing Pad 'RECTANGLE 0.550x1.300'
+    Processing Pad 'CIRCLE 0.400'
+    Processing Pad 'CIRCLE 1.600'
+    Processing Pad 'CIRCLE 1.800'
+    Processing Pad 'CIRCLE 2.200'
+    Processing Pad 'CIRCLE 2.400'
+    Processing Pad 'CIRCLE 0.600'
+    Processing Pad 'RECTANGLE 0.400x0.500'
+    Processing Pad 'RECTANGLE 0.550x0.700'
+    Processing Pad 'RECTANGLE 0.250x0.700'
+    Processing Pad 'RECTANGLE 0.400x0.900'
+    Processing Pad 'CIRCLE 1.400'
+    Processing Pad 'CIRCLE 1.300'
+    Processing Pad 'RECTANGLE 1.100x2.500'
+    Processing Pad 'RECTANGLE 1.300x2.700'
+    Processing Pad 'CIRCLE 2.800'
+    Processing Pad 'CIRCLE 3.000'
+    Processing Pad 'SQUARE 7.000'
+    Processing Pad 'SQUARE 7.200'
+    Processing Pad 'RECTANGLE 5.500x5.700'
+    Processing Pad 'RECTANGLE 5.700x5.900'
+    Processing Pad 'RECTANGLE 1.000x1.800'
+    Processing Pad 'RECTANGLE 1.500x2.000'
+    Processing Pad 'RECTANGLE 1.300x1.800'
+    Processing Pad 'RECTANGLE 2.000x2.000'
+    Processing Pad 'RECTANGLE 2.200x2.200'
+    Processing Pad 'RECTANGLE 1.800x3.400'
+    Processing Pad 'RECTANGLE 2.000x3.600'
+    Processing Pad 'RECTANGLE 0.400x1.600'
+    Processing Pad 'RECTANGLE 0.550x1.800'
+    Processing Pad 'CIRCLE 0.650'
+    Processing Pad 'CIRCLE 0.850'
+    Processing Pad 'CIRCLE 0.550'
+    Processing Pad 'RECTANGLE 0.800x1.600'
+    Processing Pad 'RECTANGLE 0.900x1.700'
+    Processing Pad 'RECTANGLE 1.200x2.000'
+    Processing Pad 'RECTANGLE 2.200x2.800'
+    Processing Pad 'RECTANGLE 2.400x3.000'
+    Processing Pad 'CIRCLE 0.750'
+    Processing Pad 'CIRCLE 0.700'
+    Processing Pad 'RECTANGLE 1.400x4.400'
+    Processing Pad 'RECTANGLE 1.600x4.600'
+    Processing Pad 'RECTANGLE 1.400x2.000'
+    Processing Pad 'RECTANGLE 1.600x2.200'
+    Processing Pad 'RECTANGLE 2.200x0.400'
+    Processing Pad 'RECTANGLE 2.400x0.550'
+    Processing Pad 'RECTANGLE 1.200x1.000'
+    Processing Pad 'RECTANGLE 1.400x1.200'
+    Processing Pad 'RECTANGLE 0.300x2.000'
+    Processing Pad 'RECTANGLE 0.400x2.200'
+    Processing Pad 'RECTANGLE 1.000x0.500'
+    Processing Pad 'RECTANGLE 1.200x0.700'
+    Processing Pad 'CIRCLE 1.100'
+    Processing Pad 'CIRCLE 1.200'
+    Processing Pad 'RECTANGLE 2.000x1.500'
+    Processing Pad 'RECTANGLE 2.200x1.700'
+    Processing Pad 'RECTANGLE 3.800x2.000'
+    Processing Pad 'RECTANGLE 4.000x2.200'
+    Processing Pad 'RECTANGLE 0.600x1.300'
+    Processing Pad 'RECTANGLE 0.800x1.500'
+    Processing Pad 'RECTANGLE 1.900x1.700'
+    Processing Pad 'RECTANGLE 2.100x1.900'
+    Processing Pad 'CIRCLE 3.200'
+    Processing Pad 'CIRCLE 3.100'
+    Processing Pad 'CIRCLE 3.500'
+    Processing Pad 'OBLONG_X 5.000x2.600'
+    Processing Pad 'OBLONG_X 5.200x2.800'
+    Processing Pad 'CIRCLE 1.000'
+    Processing Pad 'CIRCLE 0.001'
+    Processing Pad 'CIRCLE 6.600'
+    Processing Pad 'RECTANGLE 0.900x1.000'
+    Processing Pad 'RECTANGLE 1.100x1.200'
+    Processing Pad 'RECTANGLE 2.550x2.700'
+    Processing Pad 'RECTANGLE 2.750x2.900'
+    Processing Pad 'CIRCLE 1.500'
+    Processing Pad 'CIRCLE 1.700'
+    Processing Pad 'RECTANGLE 1.200x1.900'
+    Processing Pad 'RECTANGLE 1.400x2.100'
+    Processing Pad 'RECTANGLE 1.300x1.000'
+    Processing Pad 'RECTANGLE 1.500x1.200'
+    Processing Pad 'RECTANGLE 0.800x0.800'
+    Processing Pad 'RECTANGLE 0.900x0.900'
+    Processing Pad 'CIRCLE 0'
+    Processing Pad 'RECTANGLE 4.4000x1.9000'
+    Processing Pad 'RECTANGLE 4.6000x2.1000'
+    Processing Pad 'RECTANGLE 0.7500x2.0000'
+    Processing Pad 'RECTANGLE 0.9500x2.2000'
+    Processing Pad 'CIRCLE 1.4000'
+    Processing Pad 'CIRCLE 1.6000'
+    Processing Pad 'CIRCLE 1.5000'
+    Processing Pad 'CIRCLE 1.7000'
+    Processing Pad 'CIRCLE 1.8000'
+    Processing Pad 'CIRCLE 2.8000'
+    Processing Pad 'CIRCLE 3.0000'
+    Processing Pad 'RECTANGLE 0.3000x2.2500'
+    Processing Pad 'RECTANGLE 0.5000x2.4500'
+    Processing Pad 'RECTANGLE 0.4000x2.2000'
+    Processing Pad 'RECTANGLE 0.6000x2.4000'
+    Processing Pad 'RECTANGLE 0.5000x2.0000'
+    Processing Pad 'RECTANGLE 0.7000x2.2000'
+    Processing Pad 'CIRCLE 0.8000'
+    Processing Pad 'CIRCLE 1.2000'
+    Processing Pad 'Rectangle 1.25x3.05'
+    Processing Pad 'Rectangle 1.35x3.15'
+    Processing Pad 'RECTANGLE 1.3000x2.8000'
+    Processing Pad 'RECTANGLE 1.5000x3.0000'
+    Processing Pad 'CIRCLE 1.3500'
+    Processing Pad 'CIRCLE 1.7500'
+    Processing Pad 'RECTANGLE 1.8000x0.4000'
+    Processing Pad 'RECTANGLE 1.9000x0.5000'
+    Processing Pad 'RECTANGLE 2.5500x0.6500'
+    Processing Pad 'RECTANGLE 2.7500x0.8500'
+    Processing Pad 'RECTANGLE 2.5600x3.4000'
+    Processing Pad 'RECTANGLE 2.6600x3.5000'
+    Processing Pad 'Square 4.00'
+    Processing Pad 'Square 4.10'
+    Processing Pad 'RECTANGLE 4.7000x0.6500'
+    Processing Pad 'RECTANGLE 4.9000x0.8500'
+    Processing Pad 'CIRCLE 1.0000'
+    Processing Pad 'Oblong 2.3x1.5'
+    Processing Pad 'Oblong 2.4x1.6'
+    Processing Pad 'Oblong 3.3x1.5'
+    Processing Pad 'Oblong 3.4x1.6'
+    Processing Pad 'Rectangle 0.3x2.6'
+    Processing Pad 'Rectangle 0.4x2.7'
+    Processing Pad 'Oblong 1.7x0.9'
+    Processing Pad 'Oblong 2.7x0.9'
+    Processing Pad 'OBLONG_X 5.0000x2.6000'
+    Processing Pad 'OBLONG_X 5.2000x2.8000'
+    Processing Pad 'Oblong 4x1'
+
+All Pads have been processed.
+
+
+Processing All Holes...
+
+    Current units : MM
+
+    Processing Hole 'ROUND 4.000 N'
+    Processing Hole 'ROUND 0.700 N'
+    Processing Hole 'ROUND 2.500 P'
+    Processing Hole 'ROUND 2.200 P'
+    Processing Hole 'ROUND 0.200 P'
+    Processing Hole 'ROUND 1.050 P'
+    Processing Hole 'ROUND 1.700 P'
+    Processing Hole 'ROUND 0.300 P'
+    Processing Hole 'ROUND 1.000 P'
+    Processing Hole 'ROUND 1.900 P'
+    Processing Hole 'ROUND 1.300 P'
+    Processing Hole 'ROUND 0.250 P'
+    Processing Hole 'ROUND 0.400 P'
+    Processing Hole 'ROUND 0.500 P'
+    Processing Hole 'ROUND 0.800 P'
+    Processing Hole 'ROUND 1.100 P'
+    Processing Hole 'ROUND 3.000 N'
+    Processing Hole 'ROUND 3.000 P'
+    Processing Hole 'ROUND 3.300 N'
+    Processing Hole 'ROUND 1.600 P'
+    Processing Hole 'ROUND 0.700 P'
+    Processing Hole 'ROUND 3.500 P'
+    Processing Hole 'ROUND 0.900 P'
+    Processing Hole 'ROUND 0 P'
+    Processing Hole 'ROUND 0.8500 P'
+    Processing Hole 'ROUND 0.9500 P'
+    Processing Hole 'ROUND 1.0500 P'
+    Processing Hole 'ROUND 1.9000 P'
+    Processing Hole 'ROUND 1.0000 N'
+    Processing Hole 'ROUND 1.5500 N'
+    Processing Hole 'Slot 1.7x0.9'
+    Processing Hole 'Slot 2.7x0.9'
+    Processing Hole 'Slot 1.7x0.9_1'
+    Processing Hole 'Slot 2.7x0.9_1'
+    Processing Hole 'Slot 4x1'
+    Processing Hole 'Slot 1.7x0.9_2'
+    Processing Hole 'Slot 2.7x0.9_2'
+    Processing Hole 'Slot 4x1_1'
+    Processing Hole 'Slot 1.7x0.9_3'
+    Processing Hole 'Slot 2.7x0.9_3'
+    Processing Hole 'Slot 4x1_2'
+    Processing Hole 'Slot 1.7x0.9_4'
+    Processing Hole 'Slot 2.7x0.9_4'
+    Processing Hole 'Slot 4x1_3'
+    Processing Hole 'Slot 1.7x0.9_5'
+    Processing Hole 'Slot 2.7x0.9_5'
+    Processing Hole 'Slot 4x1_4'
+    Processing Hole 'Slot 1.7x0.9_6'
+    Processing Hole 'Slot 2.7x0.9_6'
+    Processing Hole 'Slot 4x1_5'
+    Processing Hole 'Slot 1.7x0.9_7'
+    Processing Hole 'Slot 2.7x0.9_7'
+    Processing Hole 'Slot 4x1_6'
+    Processing Hole 'Slot 1.7x0.9_8'
+    Processing Hole 'Slot 2.7x0.9_8'
+    Processing Hole 'Slot 4x1_7'
+    Processing Hole 'Slot 1.7x0.9_9'
+    Processing Hole 'Slot 2.7x0.9_9'
+    Processing Hole 'Slot 4x1_8'
+    Processing Hole 'Slot 1.7x0.9_10'
+    Processing Hole 'Slot 2.7x0.9_10'
+    Processing Hole 'Slot 4x1_9'
+    Processing Hole 'Slot 1.7x0.9_11'
+    Processing Hole 'Slot 2.7x0.9_11'
+    Processing Hole 'Slot 4x1_10'
+
+All Holes have been processed.
+
+
+Processing All Padstacks...
+
+    Current units : MM
+
+
+    Processing Padstack '030SMD140_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '180SMD320_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '50P25_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '050SMD060_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '035SMD140_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '120SMD190'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '180SMD060_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '170SMD560_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '150SMD150_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '025SMD035_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '280SMD380_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '045SMD120_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'BGAPAD04_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '16P105_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '22P17_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '040SMD050P65_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '025SMD070_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_100_OM_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '110SMD250_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '700SMD700_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '550SMD570_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '130SMD180_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '200SMD200_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '22P13_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '14P10_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '180SMD340_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '040SMD160P065_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '100SMD180_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '220SMD280_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '140SMD440_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '140SMD200_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '220SMD040P065_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '100SMD120_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'BGAPAD05_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '030SMD200P05_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '100SMD050_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '11P08_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '16P11_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '150SMD200_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '200SMD380_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '060SMD130_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '190SMD170_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '280NP300_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '50P30_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '22P16_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '16P10_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'FID10P30S_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '00P00_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '10P07_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '40P35S66_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '090SMD100_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '255SMD270_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '120SMD190_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '100SMD130_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '080SMD080_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '190SMD440_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '075SMD200_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_030_TP_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '14P085_T005_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '15P09_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '15P095_T005_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '16P105_T005_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '28P19_01_pin'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '030SMD225_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '040SMD220_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '050NP070_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '050SMD200_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '080NP100_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '080SMD160_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '125SMD305_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '130SMD280_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '135NP155_T005_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '180SMD040P065_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '255SMD065_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '256SMD340_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '310NP330_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '380NP400_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '400P220_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '400SMD400_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '470SMD065_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_020_CM_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_025_CM_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_030_CM_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_030_CM_03'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_040_CM_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'VIA_050_OM_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'FID10P30S_02'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'OB_230X150_MILL090_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack 'OB_330X150_MILL090_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '030SMD260_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '150X230P090X170_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '150X330P090X270_01'
+        Processing Technology Padstack '(Default)'
+
+    Processing Padstack '260X500P100X330_01'
+        Processing Technology Padstack '(Default)'
+
+All Padstacks have been processed.
+
+Padstack ASCII file 'H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\01-00\ExpeditionPCB\Work\Layout_Temp\CES\Padstack.hkp' was created successfully.

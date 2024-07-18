@@ -1,0 +1,19 @@
+Tue Aug 26 12:24:48 2014
+
+Project path: H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\keyin.icdb
+
+Before global upgrade from version: 7.10.6 to version: 7.10.6
+
+Constraints definition "CUSTOM_1DESCRIPTION" added.
+Constraints definition "CUSTOM_1VALUE" added.
+BeforeGlobalUpgrade took 29ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 59ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 71ms, 0s
+
+After global upgrade
+AfterGlobalUpgrade took 0ms, 0s
+

@@ -1,0 +1,14 @@
+.FILETYPE DXF_IMPORT_SETTINGS
+.VERSION "VB99.1"
+.DATE "05/05/2015 13:17:15"
+
+!  This file contains settings for the most recent DXF import session
+
+.DXF_INPUT_FILE "H:\\librarys\\microsemi_logo_enhanced.dxf"
+.UNITS mm
+
+.SCALE 1
+
+.DXF_STYLE "STANDARD"
+ ..USER_FONT ""
+

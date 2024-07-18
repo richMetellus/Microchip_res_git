@@ -1,0 +1,25 @@
+Thu Sep 20 10:09:08 2012
+
+Project path: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\01-00.EE7.9\keyin.icdb
+
+Before global upgrade from version: 7.9.6 to version: 7.10.6
+
+Constraints definition "DSN_DEF_PROPAGATION_DELAY" added (default value: 165).
+Constraints definition "PIN_PACKAGE_DELAY" added.
+BeforeGlobalUpgrade took 76ms, 0s
+
+Upgrade snapshot PCB
+UpgradeSnapshot took 143ms, 0s
+
+Upgrade snapshot PCB_Layout_Temp
+UpgradeSnapshot took 157ms, 0s
+
+After global upgrade
+Constraints definition "DP_CDT" default value set to: 635000.
+Constraints definition "DP_MDC" default value set to: 2540000.
+Constraints definition "DP_MSD" default value set to: 0.
+Constraints definition "LOSS_TAN" default value set to: 0.020000000000000.
+Constraints definition "SIM_MAX_RANGE" levels updated.
+Constraints definition "TOPO_NET_PCLASS" levels updated.
+AfterGlobalUpgrade took 0ms, 0s
+

@@ -1,0 +1,13 @@
+
+                         PCB Net Properties to ASCII Log
+                         -------------------------------
+
+                         01:42 PM Monday, April 14, 2008
+                                   Job Name: 
+
+
+Linear values will be specified in the following units: MM
+
+Overwriting the existing Net Properties ASCII file 'H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\01-00\ExpeditionPCB\Work\Layout_Temp\CES\NetProps.hkp'.
+
+Net Properties ASCII file 'H:\PCB001-099\PCB076_Luton28_Enzo_ref_board\Rev1\Layout\01-00\ExpeditionPCB\Work\Layout_Temp\CES\NetProps.hkp' was created successfully.

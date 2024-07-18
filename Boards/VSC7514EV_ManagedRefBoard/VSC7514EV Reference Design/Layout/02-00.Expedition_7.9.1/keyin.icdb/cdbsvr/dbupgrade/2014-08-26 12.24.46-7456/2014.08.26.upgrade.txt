@@ -1,0 +1,30 @@
+[2014.08.26 12:24:48] [0000m.02s.690ms] [0] WELCOME
+[2014.08.26 12:24:48] [0000m.02s.713ms] [1] iCDB Server ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2014.08.26 12:24:48] [0000m.02s.716ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2014.08.26 12:24:48] [0000m.02s.720ms] [1] Base flow version [7.9.1]
+[2014.08.26 12:24:48] [0000m.02s.724ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2014.08.26 12:24:48] [0000m.02s.727ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2014.08.26 12:24:48] [0000m.02s.732ms] [1] Machine [work-mag]  User [mag]  PID [7456]
+[2014.08.26 12:24:48] [0000m.02s.736ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2014.08.26 12:24:48] [0000m.02s.741ms] [1] Current working dir [H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\PCB]
+[2014.08.26 12:24:48] [0000m.02s.745ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2014.08.26 12:24:48] [0000m.02s.750ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2014.08.26 12:24:48] [0000m.02s.754ms] [1] SDD_PLATFORM [win32]
+[2014.08.26 12:24:48] [0000m.02s.759ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2014.08.26 12:24:48] [0000m.02s.763ms] [0] Backuping database content before upgrade
+[2014.08.26 12:24:51] [0000m.06s.433ms] [0] Database content backuped to [H:\PCB100-199\PCB111_Jaguar2R_CU48_ref_board\Rev1\Layout\working\keyin.icdb\cdbback\2014-08-26 12.24.48-7456.zip] of size [283 354 bytes] in [3s 86ms]
+[2014.08.26 12:24:51] [0000m.06s.524ms] [0] Upgrading constraint definitions from version [ce_ee.cns=7.10.6]
+[2014.08.26 12:24:51] [0000m.06s.560ms] [0] Loading snapshot [1:PCB] version [2553]
+[2014.08.26 12:24:52] [0000m.06s.892ms] [0] Snapshot [1:PCB] loaded in [373ms 323us]
+[2014.08.26 12:24:52] [0000m.06s.901ms] [0] Upgrading constraint definitions for snapshot [1:PCB]
+[2014.08.26 12:24:52] [0000m.06s.968ms] [0] Constraint definitions for snapshot [1:PCB] upgraded in [710ms 58us]
+[2014.08.26 12:24:52] [0000m.06s.975ms] [0] Saving snapshot [1:PCB]
+[2014.08.26 12:24:52] [0000m.06s.983ms] [0] Snapshot [1:PCB] saved in [74ms]
+[2014.08.26 12:24:52] [0000m.07s.332ms] [0] Loading snapshot [2:PCB_Layout_Temp] version [2553]
+[2014.08.26 12:24:52] [0000m.07s.422ms] [0] Snapshot [2:PCB_Layout_Temp] loaded in [200ms 81us]
+[2014.08.26 12:24:52] [0000m.07s.440ms] [0] Upgrading constraint definitions for snapshot [2:PCB_Layout_Temp]
+[2014.08.26 12:24:52] [0000m.07s.518ms] [0] Constraint definitions for snapshot [2:PCB_Layout_Temp] upgraded in [737ms 70us]
+[2014.08.26 12:24:52] [0000m.07s.525ms] [0] Saving snapshot [2:PCB_Layout_Temp]
+[2014.08.26 12:24:52] [0000m.07s.531ms] [0] Snapshot [2:PCB_Layout_Temp] saved in [63ms]
+[2014.08.26 12:24:53] [0000m.07s.871ms] [0] Constraint definitions upgraded to version [ce_ee.cns=7.10.6;user.cns=c90c-abdf-b493-99ef-aebf-1f3f-ebf1-f350-cc9f-edab-2563-3352]
+[2014.08.26 12:24:53] [0000m.07s.899ms] [0] DONE

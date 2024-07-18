@@ -1,0 +1,86 @@
+[2016.08.16 10:09:04] [1203m.29s.380ms] [1] SC[2994]: Registered sub-client [JobPrefsDBPI_1422668340] with ID [3] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:04] [1203m.29s.531ms] [1] SC[2994]: UnRegistered sub-client [JobPrefsDBPI_1422668340] with ID [3] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:04] [1203m.29s.692ms] [1] SC[2994]: Registered sub-client [NetClassDBPI_1422668652] with ID [4] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:04] [1203m.29s.748ms] [1] SC[2994]: UnRegistered sub-client [NetClassDBPI_1422668652] with ID [4] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:04] [1203m.29s.774ms] [1] SC[2994]: Registered sub-client [JobPrefsDBPI_1422668730] with ID [5] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:04] [1203m.29s.792ms] [1] SC[2994]: UnRegistered sub-client [JobPrefsDBPI_1422668730] with ID [5] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:11] [1203m.35s.961ms] [1] SC[2994]: Registered sub-client [JobPrefsDBPI_1422674923] with ID [6] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:11] [1203m.36s.125ms] [1] SC[2994]: UnRegistered sub-client [JobPrefsDBPI_1422674923] with ID [6] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:09:12] [1203m.37s.155ms] [0] IT: Session [2995] for host [HERENT0076] user [mag] with process ID [4860] created
+[2016.08.16 10:09:12] [1203m.37s.156ms] [1] SC[2995]: Registered sub-client [JobPrefsDBPI_1422675999] with ID [1] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:12] [1203m.37s.171ms] [1] CMT: There are [2] clients now
+[2016.08.16 10:09:12] [1203m.37s.252ms] [1] SC[2995]: Registered sub-client [NetClassDBPI_1422676218] with ID [2] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:12] [1203m.37s.324ms] [0] IT: Session [2996] for host [HERENT0076] user [mag] with process ID [11428] created
+[2016.08.16 10:09:12] [1203m.37s.324ms] [0] IT: Session [2997] for host [HERENT0076] user [mag] with process ID [12116] created
+[2016.08.16 10:09:12] [1203m.37s.324ms] [1] SC[2996]: Registered sub-client [JobPrefsDBPI_1422676202] with ID [1] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:12] [1203m.37s.325ms] [1] SC[2997]: Registered sub-client [JobPrefsDBPI_1422676202] with ID [1] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:12] [1203m.37s.371ms] [1] CMT: There are [4] clients now
+[2016.08.16 10:09:12] [1203m.37s.779ms] [1] SC[2995]: Registered sub-client [JobPrefsDBPI_1422676748] with ID [3] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:13] [1203m.37s.903ms] [1] SC[2996]: Registered sub-client [JobPrefsDBPI_1422676857] with ID [2] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:13] [1203m.37s.906ms] [1] SC[2997]: Registered sub-client [JobPrefsDBPI_1422676873] with ID [2] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:13] [1203m.37s.968ms] [1] SC[2997]: Registered sub-client [NetClassDBPI_1422676935] with ID [3] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:13] [1203m.38s.017ms] [1] SC[2997]: Registered sub-client [Expedition_1422676982] with ID [4] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:13] [1203m.38s.019ms] [1] SC[2997]: UnRegistered sub-client [Expedition_1422676982] with ID [4] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:13] [1203m.38s.278ms] [0] IT: Session [2998] for host [HERENT0076] user [mag] with process ID [9048] created
+[2016.08.16 10:09:13] [1203m.38s.279ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_1422677185] with ID [1] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:13] [1203m.38s.371ms] [1] CMT: There are [5] clients now
+[2016.08.16 10:09:13] [1203m.38s.484ms] [1] SC[2998]: Registered sub-client [JobPrefsDBPI_1422677450] with ID [2] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:13] [1203m.38s.532ms] [1] SC[2998]: Registered sub-client [NetClassDBPI_1422677497] with ID [3] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:14] [1203m.38s.963ms] [1] SC[2996]: Registered sub-client [NetClassDBPI_1422677918] with ID [3] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:15] [1203m.40s.771ms] [1] SC[2995]: Registered sub-client [Expedition_1422679728] with ID [4] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:17] [1203m.42s.030ms] [1] SC[2995]: UnRegistered sub-client [Expedition_1422679728] with ID [4] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:18] [1203m.42s.834ms] [1] SC[2996]: UnRegistered sub-client [JobPrefsDBPI_1422676857] with ID [2] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:18] [1203m.42s.835ms] [1] SC[2996]: UnRegistered sub-client [JobPrefsDBPI_1422676202] with ID [1] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:18] [1203m.42s.838ms] [1] SC[2996]: UnRegistered sub-client [NetClassDBPI_1422677918] with ID [3] for session ID [2996] host [HERENT0076] user [mag] process ID [11428]
+[2016.08.16 10:09:18] [1203m.42s.871ms] [1] CMT: Removed client [2996]
+[2016.08.16 10:09:18] [1203m.42s.871ms] [1] CMT: There are [4] clients now
+[2016.08.16 10:09:18] [1203m.43s.068ms] [1] SC[2995]: UnRegistered sub-client [JobPrefsDBPI_1422676748] with ID [3] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:18] [1203m.43s.069ms] [1] SC[2995]: UnRegistered sub-client [JobPrefsDBPI_1422675999] with ID [1] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:18] [1203m.43s.072ms] [1] SC[2995]: UnRegistered sub-client [NetClassDBPI_1422676218] with ID [2] for session ID [2995] host [HERENT0076] user [mag] process ID [4860]
+[2016.08.16 10:09:18] [1203m.43s.171ms] [1] CMT: Removed client [2995]
+[2016.08.16 10:09:18] [1203m.43s.171ms] [1] CMT: There are [3] clients now
+[2016.08.16 10:09:19] [1203m.44s.471ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_1422677450] with ID [2] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:19] [1203m.44s.472ms] [1] SC[2998]: UnRegistered sub-client [JobPrefsDBPI_1422677185] with ID [1] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:19] [1203m.44s.476ms] [1] SC[2998]: UnRegistered sub-client [NetClassDBPI_1422677497] with ID [3] for session ID [2998] host [HERENT0076] user [mag] process ID [9048]
+[2016.08.16 10:09:19] [1203m.44s.571ms] [1] CMT: Removed client [2998]
+[2016.08.16 10:09:19] [1203m.44s.571ms] [1] CMT: There are [2] clients now
+[2016.08.16 10:09:24] [1203m.48s.865ms] [1] SC[2997]: UnRegistered sub-client [JobPrefsDBPI_1422676873] with ID [2] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:24] [1203m.48s.866ms] [1] SC[2997]: UnRegistered sub-client [JobPrefsDBPI_1422676202] with ID [1] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:24] [1203m.48s.869ms] [1] SC[2997]: UnRegistered sub-client [NetClassDBPI_1422676935] with ID [3] for session ID [2997] host [HERENT0076] user [mag] process ID [12116]
+[2016.08.16 10:09:24] [1203m.48s.871ms] [1] CMT: Removed client [2997]
+[2016.08.16 10:09:24] [1203m.48s.871ms] [1] CMT: There are [1] clients now
+[2016.08.16 10:31:24] [1225m.48s.913ms] [1] SC[2994]: UnRegistered sub-client [ExpeditionCrossProber] with ID [2] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:31:24] [1225m.49s.420ms] [1] SC[2994]: Registered sub-client [iCDBBackup] with ID [7] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:31:24] [1225m.49s.421ms] [1] iCDB Storage Server: Backup queued: NetSubClientData[ClientData[ClientNetAddress[HERENT0076] # ClientUserName[mag] # ClientProcessID[9832] # SessionID[2994]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] ProjectPath[H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\keyin.icdb] BackupPath[H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\AutoBackup\1471336284\keyin.icdb] WithLogFiles[1] Overwrite[0]
+[2016.08.16 10:31:25] [1225m.50s.162ms] [1] SC[2994]: UnRegistered sub-client [iCDBBackup] with ID [7] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:31:25] [1225m.50s.454ms] [1] SC[2994]: UnRegistered sub-client [Expedition PCB_1350454635] with ID [1] for session ID [2994] host [HERENT0076] user [mag] process ID [9832]
+[2016.08.16 10:31:25] [1225m.50s.471ms] [1] CMT: Removed client [2994]
+[2016.08.16 10:31:25] [1225m.50s.473ms] [1] CMT: There are no clients left - waiting [1 seconds]
+[2016.08.16 10:31:25] [1225m.50s.518ms] [1] SDL: The last connected iCDB Server Monitor [1] is waiting for server close
+[2016.08.16 10:31:26] [1225m.51s.125ms] [1] iCDB Storage Server Backup Thread: Backup done: NetSubClientData[ClientData[ClientNetAddress[HERENT0076] # ClientUserName[mag] # ClientProcessID[9832] # SessionID[2994]] # SubClientData[SubClientName[iCDBBackup] # SubClientID[7]]] BackupPath[H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\AutoBackup\1471336284] WithLogFiles[1] Overwrite[0]
+[2016.08.16 10:31:27] [1225m.51s.876ms] [0] CMT: Starting server auto-close
+[2016.08.16 10:31:27] [1225m.51s.881ms] [0] S: Closing server
+[2016.08.16 10:31:27] [1225m.52s.004ms] [1] SD[1]: Removing the last connected iCDB Server Monitor [1]
+[2016.08.16 10:31:27] [1225m.52s.008ms] [0] iCDB Server PI: Closing plugins
+[2016.08.16 10:31:27] [1225m.52s.011ms] [0] iCDB Server PI: Plugins closed
+[2016.08.16 10:31:27] [1225m.52s.013ms] [0] iCDB Server PI: Unloading database
+[2016.08.16 10:31:27] [1225m.52s.016ms] [0] iCDB Server PI: Saving storage
+[2016.08.16 10:31:27] [1225m.52s.019ms] [0] iCDB Server PI: Closing database
+[2016.08.16 10:31:27] [1225m.52s.035ms] [1] iCDB Server PI: Stats: Database defragmentation: max[1] avg[1] holes[62%] data[99%]
+[2016.08.16 10:31:27] [1225m.52s.037ms] [1] iCDB Server PI: Stats: Database file size [305056] bytes
+[2016.08.16 10:31:27] [1225m.52s.041ms] [1] iCDB Server PI: WARNING: Database needs defragmentation!
+[2016.08.16 10:31:27] [1225m.52s.054ms] [0] iCDB Server PI: Database closed
+[2016.08.16 10:31:27] [1225m.52s.057ms] [0] iCDB Server PI: Defragmenting database
+[2016.08.16 10:31:27] [1225m.52s.061ms] [0] iCDB Server PI: Backuping database [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\keyin.icdb] to file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\keyin.icdb\cdbback\2016-08-16 10.31.27-12432-d.zip]
+[2016.08.16 10:31:27] [1225m.52s.488ms] [0] iCDB Server PI: Backup database: DONE
+[2016.08.16 10:31:27] [1225m.52s.520ms] [0] SingleFile: [0000-0000-0000-0000] SFI header version check [1008] [1008]
+[2016.08.16 10:31:27] [1225m.52s.523ms] [0] SingleFile: [aee8-1c1d-04fd-679c] SFI version check [1008] [1008]
+[2016.08.16 10:31:27] [1225m.52s.592ms] [1] iCDB Server PI: Stats: Database file size: before[305056], after[164464], gain[140592]
+[2016.08.16 10:31:27] [1225m.52s.626ms] [0] Single file [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\keyin.icdb\icdb.dat] closed with size [164464]
+[2016.08.16 10:31:27] [1225m.52s.632ms] [0] iCDB Server PI: Database defragmentation completed successfully
+[2016.08.16 10:31:27] [1225m.52s.637ms] [1] BackupTransaction: Removing database backup [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\keyin.icdb\cdbback\2016-08-16 10.31.27-12432-d.zip]
+[2016.08.16 10:31:27] [1225m.52s.654ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [1180693] ticks
+[2016.08.16 10:31:27] [1225m.52s.657ms] [1] iCDB Server PI: Stats: Total iCDB execution time: [356398] microseconds
+[2016.08.16 10:31:27] [1225m.52s.660ms] [1] iCDB Server PI: Stats: Total iCDB commands count: [5449]
+[2016.08.16 10:31:27] [1225m.52s.663ms] [1] iCDB Server PI: Stats: Average iCDB speed:        [15289] commands per second
+[2016.08.16 10:31:27] [1225m.52s.811ms] [0] S: STOP

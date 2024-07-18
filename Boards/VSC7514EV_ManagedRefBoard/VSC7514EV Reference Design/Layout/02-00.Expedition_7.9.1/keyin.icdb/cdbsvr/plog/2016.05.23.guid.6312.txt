@@ -1,0 +1,29 @@
+[2016.05.23 10:03:11] [40217m.25s.415ms] [0] WELCOME
+[2016.05.23 10:03:11] [40217m.25s.432ms] [1] iCDB Database ver.1.091, Aw7Bk48lEKyHZL+1aadrIg, build:485217 created 2012-01-04 12:45:03, sources stamp:Aw7Bk48lEKyHZL+1aadrIg
+[2016.05.23 10:03:11] [40217m.25s.432ms] [1] Copyright 2012 Mentor Graphics Corporation. All Rights Reserved.
+[2016.05.23 10:03:11] [40217m.25s.432ms] [1] Base flow version [7.9.1]
+[2016.05.23 10:03:11] [40217m.25s.432ms] [1] GBS Install Id [16608], Flow Id [EE7.9.1], Full Flow Name [Expedition Enterprise Flow], Exact Access Date [Mar 1 2010]
+[2016.05.23 10:03:11] [40217m.25s.432ms] [1] UPDATE Install Info, GBS Install Id [24398], UPDATE Name [Expedition Enterprise Flow Update 20]
+[2016.05.23 10:03:11] [40217m.25s.433ms] [1] Machine [HERENT0076]  User [mag]  PID [6312]
+[2016.05.23 10:03:11] [40217m.25s.433ms] [1] Operating system [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.05.23 10:03:11] [40217m.25s.433ms] [1] Current working dir [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB]
+[2016.05.23 10:03:11] [40217m.25s.435ms] [1] PATH [C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\bin;C:\MentorGraphics\7.9EE\SDD_HOME\common\win32\lib;c:\Program Files (x86)\Intel\iCLS Client\;c:\Program Files\Intel\iCLS Client\;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\MENTOR~1\LICENS~1;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/bin;C:/MentorGraphics/7.9EE/MGC_HOME.ixn/lib;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\bin;C:\MentorGraphics\7.9EE\MGC_HOME.ixn\lib;;C:\Cadence\SPB_16.01\tools\fet\bin;C:\Cadence\SPB_16.01\tools\bin;C:\Cadence\SPB_16.01\tools\Capture;C:\Cadence\SPB_16.01\tools\pcb\bin]
+[2016.05.23 10:03:11] [40217m.25s.435ms] [1] SDD_HOME [C:\MentorGraphics\7.9EE\SDD_HOME] on file system [NTFS]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [1] SDD_PLATFORM [win32]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [1] Local iCDB working dir [C:\MentorGraphics\WDIR\iCDB] on file system [NTFS]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] WARNING: Database [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat] was manually copied
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] File change time:        [2016-05-19 15.26.49]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] File modification time:  [2016-05-19 15.26.49]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Last change time:        [2016-05-19 15.26.15]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Last database open information:
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Time:             [2016-05-19 15.26.25]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Location:         [H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\keyin.icdb\icdb.dat]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Machine:          [HERENT0076]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] User:             [mag]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] PID:              [16944]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Application:      [iCDB Server]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Operating system: [Microsoft Windows 7 Business Edition, 64-bit Service Pack 1 (build 7601)]
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] WARNING: Regenerating database GUID
+[2016.05.23 10:03:11] [40217m.25s.436ms] [3] Previous database GUID [cb5f-16af-9e0f-4403-10fb-d376-0fbd-3750-8120-fb49-37d1-20ee]
+[2016.05.23 10:03:11] [40217m.25s.437ms] [3] Current database GUID  [393d-fb5f-8369-006d-f39b-2474-49b2-4750-8120-fb49-37d1-20ee]
+[2016.05.23 10:03:11] [40217m.25s.437ms] [3] DONE

@@ -1,0 +1,2 @@
+[2016.05.21 12:08:21] [2681m.56s.585ms] [0] DFAMT: WARNING: Critically slow file server access time: 496479 us
+[2016.05.21 12:09:20] [2682m.55s.170ms] [0] DFAMT: Optimal file server access time: 5358 us

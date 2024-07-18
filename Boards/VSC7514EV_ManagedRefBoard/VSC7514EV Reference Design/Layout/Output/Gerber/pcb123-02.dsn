@@ -1,0 +1,126 @@
+{Program	Expedition GerbTool(tm)
+	{Version	8.1.2 X1}
+	{Created	Tue Aug 16 15:48:21 2016}
+}
+{Environment
+	{ViewMetric	Yes}
+}
+{Layers
+	{Layer  1
+		{File		15_Macaos.gdo}
+		{LyrName	15_Macaos}
+		{Visibility	On}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  2
+		{File		14_Drills.gdo}
+		{LyrName	14_Drills}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer  3
+		{File		13_Outline.gdo}
+		{LyrName	13_Outline}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  4
+		{File		12_AssyBot.gdo}
+		{LyrName	12_AssyBot}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  5
+		{File		11_SilkBot.gdo}
+		{LyrName	11_SilkBot}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  6
+		{File		10_PasteBot.gdo}
+		{LyrName	10_PasteBot}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  7
+		{File		09_SolderBot.gdo}
+		{LyrName	09_SolderBot}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer  8
+		{File		08_Layer4.gdo}
+		{LyrName	08_Layer4}
+		{Visibility	Off}
+		{Type		Bottom}
+		{Ftype		Gerber}
+	}
+	{Layer  9
+		{File		07_Layer3(pwr).gdo}
+		{LyrName	07_Layer3(pwr)}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer 10
+		{File		06_Layer2(gnd).gdo}
+		{LyrName	06_Layer2(gnd)}
+		{Visibility	Off}
+		{Type		Plane}
+		{Ftype		Gerber}
+	}
+	{Layer 11
+		{File		05_Layer1.gdo}
+		{LyrName	05_Layer1}
+		{Visibility	Off}
+		{Type		Top}
+		{Ftype		Gerber}
+	}
+	{Layer 12
+		{File		04_SolderTop.gdo}
+		{LyrName	04_SolderTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 13
+		{File		03_PasteTop.gdo}
+		{LyrName	03_PasteTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 14
+		{File		02_SilkTop.gdo}
+		{LyrName	02_SilkTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+	{Layer 15
+		{File		01_AssyTop.gdo}
+		{LyrName	01_AssyTop}
+		{Visibility	Off}
+		{Type		Other}
+		{Ftype		Gerber}
+	}
+}
+{Format Gerber
+	{Dialect		RS274X}
+	{m.n			2.4}
+	{Mode			Absolute}
+	{ZeroSuppression	Leading}
+	{Terminator		0x2a, 0xd, 0xa}
+	{Metric			Yes}
+	{Modal			Yes}
+	{CharSet		ASCII}
+	{Arcs360		No}
+	{ArcsModal		Yes}
+}

@@ -1,0 +1,74 @@
+Version: 02-00
+Previous version: 01-03
+Date: 2016-08-16
+
+Changed in this release:
+
+  * Reference board manual update (see revision history in reference board manual for details):
+    - Changed VCore-III operating frequency to 500MHz and DDR3 operating frequency to 312.5MHz
+    - Updated chapter 8.5 on single-ended REFCLK input
+
+  * Layout update:
+    - Updated for rev. 02-00 netlist
+        
+  * Schematics update (see revision history in schematics for details):
+    - VSC7514 reference clock input circuit updated
+    
+Package contents:
+
+  * BOM:
+    - Costed BOM, Microsoft Excel format
+    
+  * Layout:
+    - Layout source files, Mentor Expedition EE7.9.1 format
+    - Output folder, Extended Gerber format (artwork), Excellon format (drill), ODB++ format (combined)
+    - PCB specification (layer stackup etc), Adobe PDF format
+    
+  * Shematics:
+    - Schematics source files, Orcad Capture 16.0 format
+    - Schematics, Adobe PDF format
+    - Power budget, Microsoft Excel format
+
+Related documents:
+
+  * Reference board manual, VPPDxxx, version 01-00
+
+History:
+
+Version: 01-03
+Previous version: n/a
+Date: 2016-07-28
+
+Changed in this release:
+
+  * BOM update
+    - First release
+
+  * Reference board manual update (see revision history in reference board manual for details):
+    - First release
+
+  * Layout update:
+    - First release
+    
+  * Schematics update (see revision history in schematics for details):
+    - First release
+    
+Package contents:
+
+  * BOM:
+    - Costed BOM, Microsoft Excel format
+    
+  * Layout:
+    - Layout source files, Mentor Expedition EE7.9.1 format
+    - Output folder, Extended Gerber format (artwork), Excellon format (drill), ODB++ format (combined)
+    - PCB specification (layer stackup etc), Adobe PDF format
+    - Note that layout is based on schematics version 01-00, schematics have since been updated, these updates have not yet made it to the layout
+    
+  * Shematics:
+    - Schematics source files, Orcad Capture 16.0 format
+    - Schematics, Adobe PDF format
+    - Power budget, Microsoft Excel format
+
+Related documents:
+
+  * Reference board manual, VPPDxxx, version 01-00

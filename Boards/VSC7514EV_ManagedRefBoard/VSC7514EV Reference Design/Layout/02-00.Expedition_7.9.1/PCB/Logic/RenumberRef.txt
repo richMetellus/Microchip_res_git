@@ -1,0 +1,207 @@
+
+;
+; The following is an extraction of the NetlistBackAnno.txt file limited
+; to those changes from the last forward annotation that involved changes
+; of reference designator regardless of pin or gate swap within the same part.
+; The exception being a local Common DataBase job which performs an implicit
+; forward annotation after every back annotation.
+; Changes could result from one or more runs of ECO/Renumber Ref Des
+; and/or one or more runs of Route/Swap/Gates and/or one or more runs of
+; Place/Automatic/Swap by Part Number.  If it is desired to document just
+; the changes from one or more runs of ECO/Renumber Ref Des, run Forward
+; Annotation to bring the schematic/netlist into sync with the board,
+; make the runs of ECO/Renumber Ref Des, and then run Back Annotation.
+; The first column represents the old reference designator.
+; The second represents the new reference designator using a tab as a separator
+; since references designators may have included spaces.  Leading spaces have
+; been added to reference designators in order to improve readability
+; NOTICE:
+;
+; 1. The file format is subject to change per product release.
+; 2. The information is valid until the user makes changes that require
+; back annotation.
+; 3. For more complete information on all changes the user should reference
+; the NetlistBackAnno.txt file.
+; 
+;  <Fwd Anno Ref><tab> <New Ref>
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      09:36 PM Thursday, December 17, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:28 AM Monday, December 21, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:04 PM Monday, December 21, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       11:31 PM Monday, December 21, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:57 PM Tuesday, December 22, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      11:16 AM Wednesday, December 23, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      12:27 PM Wednesday, December 23, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:11 PM Wednesday, December 23, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                      03:41 PM Wednesday, December 23, 2015
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:31 PM Monday, January 04, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       03:23 PM Tuesday, January 05, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:36 PM Friday, January 08, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        04:45 PM Friday, January 08, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                       01:17 PM Wednesday, March 02, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev1\Layout\working\PCB\pcb123-01.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        02:05 PM Monday, August 15, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\PCB\pcb123-02.pcb
+
+
+;------------------------------- --------------------------------
+; STARTING AN EXPLICIT FORWARD ANNOTATION
+;------------------------------- --------------------------------
+
+                      Renumbered Reference Designator List
+                      ------------------------------------
+
+                        03:30 PM Tuesday, August 16, 2016
+Job Name: H:\PCB100-199\PCB123_Ferret_Cu4_SFP8_Mngd_ref_board\Rev2\Layout\working\PCB\pcb123-02.pcb
+

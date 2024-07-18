@@ -1,0 +1,19 @@
+
+                         PCB ASCII to Net Properties Log
+                         -------------------------------
+
+                       03:23 PM Thursday, October 19, 2006
+Job Name: C:\jobs\Vitesse\translations\Denmark\PCB063-02-XX_EXP\PCB\PCB063-02-XX.pcb
+
+
+Checking for Net Properties ASCII file format errors...
+
+There were no Net Properties ASCII file format errors.
+
+Processing Net Properties ASCII file...
+
+Net Properties ASCII file processed successfully.
+
+Overwriting Net Properties DB...
+
+Net Properties DB successfully created.

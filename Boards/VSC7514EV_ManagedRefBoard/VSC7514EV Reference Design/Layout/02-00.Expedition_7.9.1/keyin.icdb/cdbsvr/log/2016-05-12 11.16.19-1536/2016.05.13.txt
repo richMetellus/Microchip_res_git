@@ -1,0 +1,5 @@
+[2016.05.13 11:07:21] [1431m.01s.992ms] [1] AT: WARNING: No access to server address file.
+[2016.05.13 11:07:34] [1431m.14s.379ms] [1] iCDB Server PI: Database file is opened in exclusive mode.
+[2016.05.13 11:07:34] [1431m.14s.379ms] [1] iCDB Server PI: Database session info is actual.
+[2016.05.13 11:07:34] [1431m.14s.379ms] [1] AT: WARNING: Re-creating missing server address file. This iCDB Server seems to be the exclusive database owner.
+[2016.05.13 11:07:34] [1431m.14s.423ms] [1] AT: Server address file re-created.

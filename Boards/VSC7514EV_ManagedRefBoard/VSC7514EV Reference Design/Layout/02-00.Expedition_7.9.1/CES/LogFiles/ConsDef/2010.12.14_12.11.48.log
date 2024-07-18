@@ -1,0 +1,129 @@
+Tue Dec 14 12:11:48 2010
+
+Project path: H:\PCB100-199\PCB100_Jaguar_CU48_ref_board\Rev1\Layout\working\keyin.icdb
+
+Constraints definition "USERDEFINED" added (default value: FALSE).
+Constraints definition "TPC2TPC" added (default value: 1016000).
+Constraints definition "TPC2TPE" added (default value: 635000).
+Constraints definition "TPC2CTP" added (default value: 1016000).
+Constraints definition "TPC2CSP" added (default value: 1016000).
+Constraints definition "TPC2CPOU" added (default value: 508000).
+Constraints definition "HLT_POWER_DISSIPATION" added.
+Constraints definition "HLT_POWER_SCALING_FACT" added (default value: 1.000000000000000).
+Constraints definition "HLT_THETA_JC" added.
+Constraints definition "HLT_CASING_TLIMIT" added.
+Constraints definition "HLT_JUNCTION_TLIMIT" added.
+Constraints definition "HLT_CASING_TACT" added.
+Constraints definition "HLT_JUNCTION_TACT" added.
+Constraints definition "DSN_DEF_DISTANCE_TOL" default value set to: 254000.
+Constraints definition "CMH2PC" deleted.
+Constraints definition "ACT_DELAY" levels updated.
+Constraints definition "ACT_DP_CONV_DELTA" levels updated.
+Constraints definition "ACT_DP_CONV_DIST" levels updated.
+Constraints definition "ACT_DP_DELTA" levels updated.
+Constraints definition "ACT_DP_SEP_DIST" levels updated.
+Constraints definition "ACT_DYN_HI_OVERSHOOT" levels updated.
+Constraints definition "ACT_DYN_LO_OVERSHOOT" levels updated.
+Constraints definition "ACT_EUCLIDEAN" levels updated.
+Constraints definition "ACT_EXT_LAYER_LENGTH" levels updated.
+Constraints definition "ACT_FORMULA" levels updated.
+Constraints definition "ACT_HIGH_RINGBACK" levels updated.
+Constraints definition "ACT_INT_LAYER_LENGTH" levels updated.
+Constraints definition "ACT_IO_TIMING" levels updated.
+Constraints definition "ACT_LOW_RINGBACK" levels updated.
+Constraints definition "ACT_MANHATTAN" levels updated.
+Constraints definition "ACT_MATCH_DELTA" levels updated.
+Constraints definition "ACT_MATCH_RANGE" levels updated.
+Constraints definition "ACT_STATIC_HI_OVERSHOOT" levels updated.
+Constraints definition "ACT_STATIC_LO_OVERSHOOT" levels updated.
+Constraints definition "ACT_STUB_LENGTH" levels updated.
+Constraints definition "ACT_VIAS" levels updated.
+Constraints definition "ANALOG" levels updated.
+Constraints definition "BUS" levels updated.
+Constraints definition "COMPLEX_FORMULA" levels updated.
+Constraints definition "DELAY_TYPE" levels updated.
+Constraints definition "DP_CDT" levels updated.
+Constraints definition "DP_IMPEDANCE" levels updated.
+Constraints definition "DP_IMPEDANCE_ACT_MAX" levels updated.
+Constraints definition "DP_IMPEDANCE_ACT_MIN" levels updated.
+Constraints definition "DP_IMPEDANCE_TOL" levels updated.
+Constraints definition "DP_MDC" levels updated.
+Constraints definition "DP_MSD" levels updated.
+Constraints definition "DP_SPACE" levels updated.
+Constraints definition "DP_TOL" levels updated.
+Constraints definition "EXT_LAYER_LENGTH" levels updated.
+Constraints definition "FROMTO_USERDEFINED" levels updated.
+Constraints definition "FT_IMPEDANCE" levels updated.
+Constraints definition "FT_LAYER" levels updated.
+Constraints definition "FT_TRACE_WIDTH" levels updated.
+Constraints definition "IMPEDANCE" levels updated.
+Constraints definition "IMPEDANCE_ACT_MAX" levels updated.
+Constraints definition "IMPEDANCE_ACT_MIN" levels updated.
+Constraints definition "IMPEDANCE_TOL" levels updated.
+Constraints definition "INT_LAYER_LENGTH" levels updated.
+Constraints definition "IO_CLK_PIN" levels updated.
+Constraints definition "IO_CLK_SPEED" levels updated.
+Constraints definition "IO_IO_TIMING" levels updated.
+Constraints definition "IO_P2P_TIMING" levels updated.
+Constraints definition "IO_STANDARD" levels updated.
+Constraints definition "MATCH_GROUP" levels updated.
+Constraints definition "MATCH_TOLERANCE" levels updated.
+Constraints definition "MAX_DELAY" levels updated.
+Constraints definition "MAX_DYN_HI_OVERSHOOT" levels updated.
+Constraints definition "MAX_DYN_LO_OVERSHOOT" levels updated.
+Constraints definition "MAX_HIGH_RINGBACK" levels updated.
+Constraints definition "MAX_LOW_RINGBACK" levels updated.
+Constraints definition "MAX_STATIC_HI_OVERSHOOT" levels updated.
+Constraints definition "MAX_STATIC_LO_OVERSHOOT" levels updated.
+Constraints definition "MAX_VIAS" levels updated.
+Constraints definition "MIN_DELAY" levels updated.
+Constraints definition "MONOTONIC_ACTUAL" levels updated.
+Constraints definition "MONOTONIC_EDGE" levels updated.
+Constraints definition "ORDER_TYPE" levels updated.
+Constraints definition "POWER_NET" levels updated.
+Constraints definition "PRESERVED" levels updated.
+Constraints definition "RB_DATA" levels updated.
+Constraints definition "RB_REMAP_CL_DEF" levels updated.
+Constraints definition "RB_REMAP_DEF_INS" levels updated.
+Constraints definition "ROUTABLE" levels updated.
+Constraints definition "SIM_ACT_MATCH_MAX_DELAY" levels updated.
+Constraints definition "SIM_ACT_MATCH_MIN_DELAY" levels updated.
+Constraints definition "SIM_ACT_MATCH_RANGE" levels updated.
+Constraints definition "SIM_ACT_MAX_DELAY" levels updated.
+Constraints definition "SIM_ACT_MIN_DELAY" levels updated.
+Constraints definition "SIM_ACT_RANGE" levels updated.
+Constraints definition "SIM_DELAY_MATCH" levels updated.
+Constraints definition "SIM_DELAY_MATCH_TO" levels updated.
+Constraints definition "SIM_DELAY_OFFSET" levels updated.
+Constraints definition "SIM_DELAY_TYPE" levels updated.
+Constraints definition "SIM_MATCH_TOL" levels updated.
+Constraints definition "SIM_MAX_DELAY" levels updated.
+Constraints definition "SIM_MAX_RANGE" levels updated.
+Constraints definition "SIM_MIN_DELAY" levels updated.
+Constraints definition "SIM_SETTINGS" levels updated.
+Constraints definition "SIM_STIM" levels updated.
+Constraints definition "STUB_LENGTH" levels updated.
+Constraints definition "SUPPLY_VOLTAGE" levels updated.
+Constraints definition "TEMPLATE" levels updated.
+Constraints definition "TEMPLATE_STATUS" levels updated.
+Constraints definition "TOPO_ASSIGN_PIN_GROUP" levels updated.
+Constraints definition "TOPO_BOUNDARY_PINS" levels updated.
+Constraints definition "TOPO_CSET" levels updated.
+Constraints definition "TOPO_DESC" levels updated.
+Constraints definition "TOPO_DEVICE" levels updated.
+Constraints definition "TOPO_MODEL" levels updated.
+Constraints definition "TOPO_NET_ECLASS" levels updated.
+Constraints definition "TOPO_NET_PCLASS" levels updated.
+Constraints definition "TOPO_ORDERED" levels updated.
+Constraints definition "TOPO_ORIG_NAME" levels updated.
+Constraints definition "TOPO_PINSET_PINS" levels updated.
+Constraints definition "TOPO_PINSET_TYPE" levels updated.
+Constraints definition "TOPO_PIN_GROUP" levels updated.
+Constraints definition "TOPO_PIN_MODEL" levels updated.
+Constraints definition "TOPO_PIN_NET" levels updated.
+Constraints definition "TOPO_PIN_NUMBER" levels updated.
+Constraints definition "TOPO_PIN_TYPE" levels updated.
+Constraints definition "TOPO_USERDEFINED" levels updated.
+Constraints definition "TOPO_VALUE" levels updated.
+Constraints definition "TOPO_XTALK" levels updated.
+Constraints definition "TOPO_XTALK_STATE" levels updated.

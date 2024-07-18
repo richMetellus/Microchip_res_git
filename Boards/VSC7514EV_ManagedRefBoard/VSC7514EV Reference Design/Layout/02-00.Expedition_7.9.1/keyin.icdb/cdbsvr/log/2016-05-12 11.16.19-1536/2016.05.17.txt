@@ -1,0 +1,2 @@
+[2016.05.17 13:37:50] [7341m.30s.521ms] [0] DFAMT: WARNING: Slow file server access time: 14850 us
+[2016.05.17 13:39:20] [7343m.00s.804ms] [0] DFAMT: Optimal file server access time: 5720 us
